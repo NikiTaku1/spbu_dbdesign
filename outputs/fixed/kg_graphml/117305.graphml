@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">117305</data>
+<node id="Disease:fusarium wilt">
+  <data key="d1">Disease</data>
+  <data key="d2">Fusarium wilt</data>
+</node>
+<node id="Plant:banana">
+  <data key="d1">Plant</data>
+  <data key="d2">banana</data>
+</node>
+<node id="Pest:fusarium oxysporum f. sp. cubense">
+  <data key="d1">Pest</data>
+  <data key="d2">Fusarium oxysporum f. sp. cubense</data>
+</node>
+<node id="Pest:foc">
+  <data key="d1">Pest</data>
+  <data key="d2">Foc</data>
+</node>
+<node id="Pest:fusarium kalimantanense">
+  <data key="d1">Pest</data>
+  <data key="d2">Fusarium kalimantanense</data>
+</node>
+<node id="Plant:banana cultivar maçã">
+  <data key="d1">Plant</data>
+  <data key="d2">banana cultivar Maçã</data>
+</node>
+<edge source="Disease:fusarium wilt" target="Plant:banana" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["117305"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Plant:banana cultivar maçã" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["117305"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Disease:fusarium wilt" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["117305"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Plant:banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117305"]</data>
+</edge>
+<edge source="Pest:foc" target="Disease:fusarium wilt" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["117305"]</data>
+</edge>
+<edge source="Pest:foc" target="Plant:banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117305"]</data>
+</edge>
+<edge source="Pest:fusarium kalimantanense" target="Disease:fusarium wilt" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["117305"]</data>
+</edge>
+</graph></graphml>

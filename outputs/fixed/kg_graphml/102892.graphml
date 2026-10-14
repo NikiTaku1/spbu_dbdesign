@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">102892</data>
+<node id="Pest:xylella">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella</data>
+</node>
+<node id="Location:province of bari">
+  <data key="d1">Location</data>
+  <data key="d2">province of Bari</data>
+</node>
+<node id="Pest:xylella fastidiosa pauca">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella fastidiosa pauca</data>
+</node>
+<node id="Location:greece">
+  <data key="d1">Location</data>
+  <data key="d2">Greece</data>
+</node>
+<node id="Plant:olive trees">
+  <data key="d1">Plant</data>
+  <data key="d2">olive trees</data>
+</node>
+<node id="Location:monopoli">
+  <data key="d1">Location</data>
+  <data key="d2">Monopoli</data>
+</node>
+<node id="Location:spain">
+  <data key="d1">Location</data>
+  <data key="d2">Spain</data>
+</node>
+<node id="Location:polignano">
+  <data key="d1">Location</data>
+  <data key="d2">Polignano</data>
+</node>
+<node id="Location:puglia">
+  <data key="d1">Location</data>
+  <data key="d2">Puglia</data>
+</node>
+<node id="Location:italy">
+  <data key="d1">Location</data>
+  <data key="d2">Italy</data>
+</node>
+<node id="Plant:olive">
+  <data key="d1">Plant</data>
+  <data key="d2">olive</data>
+</node>
+<node id="Location:europe">
+  <data key="d1">Location</data>
+  <data key="d2">Europe</data>
+</node>
+<node id="Plant:almond tree">
+  <data key="d1">Plant</data>
+  <data key="d2">almond tree</data>
+</node>
+<node id="Location:countryside of fasano">
+  <data key="d1">Location</data>
+  <data key="d2">countryside of Fasano</data>
+</node>
+<node id="Plant:polygala mirtifolia">
+  <data key="d1">Plant</data>
+  <data key="d2">Polygala Mirtifolia</data>
+</node>
+<node id="Location:countryside of martina franca">
+  <data key="d1">Location</data>
+  <data key="d2">countryside of Martina Franca</data>
+</node>
+<node id="Location:alberobello area">
+  <data key="d1">Location</data>
+  <data key="d2">Alberobello area</data>
+</node>
+<node id="Location:taranto">
+  <data key="d1">Location</data>
+  <data key="d2">Taranto</data>
+</node>
+<node id="Date:2022">
+  <data key="d1">Date</data>
+  <data key="d2">2022</data>
+</node>
+<node id="Location:netherlands">
+  <data key="d1">Location</data>
+  <data key="d2">Netherlands</data>
+</node>
+<edge source="Pest:xylella" target="Location:province of bari" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:polignano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:puglia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:monopoli" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:almond tree" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:countryside of fasano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:polygala mirtifolia" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:spain" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:countryside of martina franca" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:alberobello area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:taranto" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:netherlands" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa pauca" target="Location:greece" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa pauca" target="Location:spain" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa pauca" target="Plant:olive" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa pauca" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:monopoli" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:polignano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:puglia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:countryside of martina franca" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:greece" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:spain" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102892"]</data>
+</edge>
+</graph></graphml>

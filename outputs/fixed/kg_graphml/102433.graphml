@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">102433</data>
+<node id="Pest:candidatus liberibacter asiaticus">
+  <data key="d1">Pest</data>
+  <data key="d2">Candidatus Liberibacter asiaticus</data>
+</node>
+<node id="Plant:citrus trees">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus trees</data>
+</node>
+<node id="Disease:citrus greening">
+  <data key="d1">Disease</data>
+  <data key="d2">Citrus greening</data>
+</node>
+<node id="Pest:liberibacter">
+  <data key="d1">Pest</data>
+  <data key="d2">Liberibacter</data>
+</node>
+<node id="Pest:l. capsica">
+  <data key="d1">Pest</data>
+  <data key="d2">L. capsica</data>
+</node>
+<node id="Plant:pepper plant">
+  <data key="d1">Plant</data>
+  <data key="d2">pepper plant</data>
+</node>
+<node id="Vector:citrus psyllid">
+  <data key="d1">Vector</data>
+  <data key="d2">citrus psyllid</data>
+</node>
+<node id="Plant:potatoes">
+  <data key="d1">Plant</data>
+  <data key="d2">potatoes</data>
+</node>
+<node id="Location:asian">
+  <data key="d1">Location</data>
+  <data key="d2">Asian</data>
+</node>
+<node id="Plant:citrus pla">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus pla</data>
+</node>
+<node id="Location:california">
+  <data key="d1">Location</data>
+  <data key="d2">California</data>
+</node>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Plant:citrus trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Disease:citrus greening" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Plant:citrus pla" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Location:asian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:asian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Disease:citrus greening" target="Plant:citrus trees" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Disease:citrus greening" target="Plant:potatoes" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Disease:citrus greening" target="Location:asian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Pest:liberibacter" target="Disease:citrus greening" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Pest:liberibacter" target="Plant:potatoes" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Pest:liberibacter" target="Location:california" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Pest:l. capsica" target="Disease:citrus greening" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Pest:l. capsica" target="Plant:pepper plant" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Pest:candidatus liberibacter asiaticus" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Disease:citrus greening" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Location:asian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["102433"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Plant:citrus trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["102433"]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">115188</data>
+<node id="Pest:xylella fastidiosa">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella fastidiosa</data>
+</node>
+<node id="Location:metropolitan area of porto">
+  <data key="d1">Location</data>
+  <data key="d2">Metropolitan Area of Porto</data>
+</node>
+<node id="Plant:lavandula dentata">
+  <data key="d1">Plant</data>
+  <data key="d2">Lavandula dentata</data>
+</node>
+<node id="Location:espinho">
+  <data key="d1">Location</data>
+  <data key="d2">Espinho</data>
+</node>
+<node id="Location:vila nova de gaia">
+  <data key="d1">Location</data>
+  <data key="d2">Vila Nova de Gaia</data>
+</node>
+<node id="Location:santa maria da feira">
+  <data key="d1">Location</data>
+  <data key="d2">Santa Maria da Feira</data>
+</node>
+<node id="Location:municipality of sintra">
+  <data key="d1">Location</data>
+  <data key="d2">municipality of Sintra</data>
+</node>
+<node id="Date:to date">
+  <data key="d1">Date</data>
+  <data key="d2">to date</data>
+</node>
+<node id="Location:european union">
+  <data key="d1">Location</data>
+  <data key="d2">European Union</data>
+</node>
+<edge source="Pest:xylella fastidiosa" target="Location:metropolitan area of porto" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Plant:lavandula dentata" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:espinho" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:vila nova de gaia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:santa maria da feira" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:municipality of sintra" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:to date" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:european union" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115188"]</data>
+</edge>
+</graph></graphml>

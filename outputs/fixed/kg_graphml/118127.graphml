@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">118127</data>
+<node id="Disease:hlb">
+  <data key="d1">Disease</data>
+  <data key="d2">HLB</data>
+</node>
+<node id="Location:florida">
+  <data key="d1">Location</data>
+  <data key="d2">Florida</data>
+</node>
+<node id="Vector:diaphorina citri">
+  <data key="d1">Vector</data>
+  <data key="d2">Diaphorina citri</data>
+</node>
+<node id="Location:israel">
+  <data key="d1">Location</data>
+  <data key="d2">Israel</data>
+</node>
+<node id="Location:brazil">
+  <data key="d1">Location</data>
+  <data key="d2">Brazil</data>
+</node>
+<node id="Vector:trioza erytreae">
+  <data key="d1">Vector</data>
+  <data key="d2">Trioza erytreae</data>
+</node>
+<node id="Location:portugal">
+  <data key="d1">Location</data>
+  <data key="d2">Portugal</data>
+</node>
+<node id="Pest:candidatus liberibacter asiaticus">
+  <data key="d1">Pest</data>
+  <data key="d2">Candidatus Liberibacter asiaticus</data>
+</node>
+<node id="Pest:african strain of hlb">
+  <data key="d1">Pest</data>
+  <data key="d2">African strain of HLB</data>
+</node>
+<node id="Location:galicia">
+  <data key="d1">Location</data>
+  <data key="d2">Galicia</data>
+</node>
+<node id="Plant:mandarin trees">
+  <data key="d1">Plant</data>
+  <data key="d2">mandarin trees</data>
+</node>
+<node id="Location:spanish">
+  <data key="d1">Location</data>
+  <data key="d2">Spanish</data>
+</node>
+<node id="Location:huelva">
+  <data key="d1">Location</data>
+  <data key="d2">Huelva</data>
+</node>
+<node id="Location:mediterranean">
+  <data key="d1">Location</data>
+  <data key="d2">Mediterranean</data>
+</node>
+<node id="Plant:citrus">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus</data>
+</node>
+<node id="Date:in january 2022">
+  <data key="d1">Date</data>
+  <data key="d2">in January 2022</data>
+</node>
+<node id="Date:in january">
+  <data key="d1">Date</data>
+  <data key="d2">in January</data>
+</node>
+<node id="Plant:citrange reed">
+  <data key="d1">Plant</data>
+  <data key="d2">Citrange reed</data>
+</node>
+<node id="Location:porto">
+  <data key="d1">Location</data>
+  <data key="d2">Porto</data>
+</node>
+<node id="Location:asturias">
+  <data key="d1">Location</data>
+  <data key="d2">Asturias</data>
+</node>
+<node id="Location:cantabria">
+  <data key="d1">Location</data>
+  <data key="d2">Cantabria</data>
+</node>
+<node id="Location:basque country">
+  <data key="d1">Location</data>
+  <data key="d2">Basque Country</data>
+</node>
+<node id="Dissemination_pathway:plant material">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">plant material</data>
+</node>
+<node id="Date:one year later">
+  <data key="d1">Date</data>
+  <data key="d2">One year later</data>
+</node>
+<node id="Location:hefer valley">
+  <data key="d1">Location</data>
+  <data key="d2">Hefer Valley</data>
+</node>
+<node id="Date:in 2015">
+  <data key="d1">Date</data>
+  <data key="d2">in 2015</data>
+</node>
+<node id="Date:in 2014">
+  <data key="d1">Date</data>
+  <data key="d2">in 2014</data>
+</node>
+<node id="Location:coastal city north of tel aviv">
+  <data key="d1">Location</data>
+  <data key="d2">coastal city north of Tel Aviv</data>
+</node>
+<node id="Location:ayamonte">
+  <data key="d1">Location</data>
+  <data key="d2">Ayamonte</data>
+</node>
+<node id="Dissemination_pathway:importation of fruits">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">importation of fruits</data>
+</node>
+<node id="Location:aljezur">
+  <data key="d1">Location</data>
+  <data key="d2">Aljezur</data>
+</node>
+<node id="Location:europe">
+  <data key="d1">Location</data>
+  <data key="d2">Europe</data>
+</node>
+<node id="Dissemination_pathway:plants">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">plants</data>
+</node>
+<node id="Location:algarve">
+  <data key="d1">Location</data>
+  <data key="d2">Algarve</data>
+</node>
+<node id="Dissemination_pathway:twigs">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">twigs</data>
+</node>
+<node id="Date:six months">
+  <data key="d1">Date</data>
+  <data key="d2">six months</data>
+</node>
+<node id="Location:algarve coastline">
+  <data key="d1">Location</data>
+  <data key="d2">Algarve coastline</data>
+</node>
+<node id="Date:since then">
+  <data key="d1">Date</data>
+  <data key="d2">since then</data>
+</node>
+<node id="Date:in july">
+  <data key="d1">Date</data>
+  <data key="d2">in July</data>
+</node>
+<node id="Location:canary islands">
+  <data key="d1">Location</data>
+  <data key="d2">Canary Islands</data>
+</node>
+<node id="Date:in october 2021">
+  <data key="d1">Date</data>
+  <data key="d2">In October 2021</data>
+</node>
+<edge source="Disease:hlb" target="Location:florida" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:brazil" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:israel" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:portugal" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:huelva" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Plant:citrus" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:israel" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:florida" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:mediterranean" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Pest:candidatus liberibacter asiaticus" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:brazil" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:in january 2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:in january" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:spanish" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:hefer valley" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:coastal city north of tel aviv" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Dissemination_pathway:importation of fruits" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Plant:citrange reed" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Disease:hlb" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Plant:citrus" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:portugal" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:six months" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:algarve coastline" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:since then" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:in july" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:portugal" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:galicia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:huelva" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Plant:citrus" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:porto" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:asturias" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:cantabria" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:basque country" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:israel" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Dissemination_pathway:plant material" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:one year later" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:in 2015" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:in 2014" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:ayamonte" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Dissemination_pathway:importation of fruits" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Dissemination_pathway:plants" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:in january" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Dissemination_pathway:twigs" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:spanish" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:coastal city north of tel aviv" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:canary islands" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:in october 2021" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:algarve" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Pest:candidatus liberibacter asiaticus" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Location:israel" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Plant:citrus" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Location:florida" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Disease:hlb" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Location:brazil" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Pest:african strain of hlb" target="Disease:hlb" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:mandarin trees" target="Location:spanish" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:portugal" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:huelva" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:spanish" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:galicia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:aljezur" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:ayamonte" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:algarve" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:florida" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+<edge source="Plant:citrange reed" target="Location:spanish" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["118127"]</data>
+</edge>
+</graph></graphml>

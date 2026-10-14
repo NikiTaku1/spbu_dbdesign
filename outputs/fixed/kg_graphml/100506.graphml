@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">100506</data>
+<node id="Pest:xylella">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella</data>
+</node>
+<node id="Location:polignano">
+  <data key="d1">Location</data>
+  <data key="d2">Polignano</data>
+</node>
+<node id="Location:bari">
+  <data key="d1">Location</data>
+  <data key="d2">BARI</data>
+</node>
+<node id="Location:countryside of fasano">
+  <data key="d1">Location</data>
+  <data key="d2">countryside of Fasano</data>
+</node>
+<node id="Plant:olive trees">
+  <data key="d1">Plant</data>
+  <data key="d2">olive trees</data>
+</node>
+<node id="Location:puglia">
+  <data key="d1">Location</data>
+  <data key="d2">Puglia</data>
+</node>
+<node id="Plant:rosemary">
+  <data key="d1">Plant</data>
+  <data key="d2">rosemary</data>
+</node>
+<node id="Location:countryside of monopoli">
+  <data key="d1">Location</data>
+  <data key="d2">countryside of Monopoli</data>
+</node>
+<node id="Date:july 29, 2022">
+  <data key="d1">Date</data>
+  <data key="d2">July 29, 2022</data>
+</node>
+<node id="Location:basilicata">
+  <data key="d1">Location</data>
+  <data key="d2">Basilicata</data>
+</node>
+<node id="Plant:myrtle">
+  <data key="d1">Plant</data>
+  <data key="d2">myrtle</data>
+</node>
+<node id="Location:north of brindisi">
+  <data key="d1">Location</data>
+  <data key="d2">north of Brindisi</data>
+</node>
+<edge source="Pest:xylella" target="Location:polignano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:bari" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:countryside of fasano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:puglia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:rosemary" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:countryside of monopoli" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:july 29, 2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:basilicata" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:myrtle" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:north of brindisi" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:bari" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:puglia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100506"]</data>
+</edge>
+</graph></graphml>

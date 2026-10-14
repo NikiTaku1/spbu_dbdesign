@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">106215</data>
+<node id="Pest:foc tr4">
+  <data key="d1">Pest</data>
+  <data key="d2">Foc TR4</data>
+</node>
+<node id="Location:colombia">
+  <data key="d1">Location</data>
+  <data key="d2">Colombia</data>
+</node>
+<node id="Disease:fusarium wilt">
+  <data key="d1">Disease</data>
+  <data key="d2">Fusarium wilt</data>
+</node>
+<node id="Location:south america">
+  <data key="d1">Location</data>
+  <data key="d2">South America</data>
+</node>
+<node id="Pest:foc">
+  <data key="d1">Pest</data>
+  <data key="d2">Foc</data>
+</node>
+<node id="Plant:banana">
+  <data key="d1">Plant</data>
+  <data key="d2">banana</data>
+</node>
+<node id="Location:peru">
+  <data key="d1">Location</data>
+  <data key="d2">Peru</data>
+</node>
+<node id="Plant:cavendish clones">
+  <data key="d1">Plant</data>
+  <data key="d2">Cavendish clones</data>
+</node>
+<node id="Location:la guajira">
+  <data key="d1">Location</data>
+  <data key="d2">La Guajira</data>
+</node>
+<node id="Date:in 2019">
+  <data key="d1">Date</data>
+  <data key="d2">In 2019</data>
+</node>
+<edge source="Pest:foc tr4" target="Location:colombia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Disease:fusarium wilt" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Plant:banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Location:peru" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Plant:cavendish clones" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Location:south america" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Location:la guajira" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Date:in 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:south america" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Plant:banana" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:colombia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc" target="Plant:banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc" target="Disease:fusarium wilt" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc" target="Plant:cavendish clones" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Pest:foc" target="Location:colombia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:colombia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:peru" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106215"]</data>
+</edge>
+</graph></graphml>

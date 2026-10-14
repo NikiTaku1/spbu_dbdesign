@@ -1,0 +1,59 @@
+[
+  {
+    "doc_id": "97985",
+    "subject_node": "Pest:xylella",
+    "object_node": "Location:monopoli",
+    "anchor": "There are 30 olive trees infected",
+    "assessment": "Фрагмент прямо сообщает о заражённых Xylella оливковых деревьях в Monopoli. Это поддерживает чтение Located_in для этого документа.",
+    "status": "поддерживается выбранным фрагментом",
+    "edge": {
+      "subject": "Pest:xylella",
+      "predicate": "Located_in",
+      "object": "Location:monopoli",
+      "sources": [
+        "102276",
+        "102892",
+        "102894",
+        "97985"
+      ]
+    },
+    "triple": {
+      "subject": "Xylella",
+      "predicate": "Located_in",
+      "object": "Monopoli"
+    },
+    "excerpt": {
+      "start": 175,
+      "end": 645,
+      "text": "d Basilicata Monitoring An olive tree felled due to xylella fastidiosa July 14, 2022 Online editing There are 30 olive trees infected by Xylella in Monopoli and 9 in Polignano a Mare, at the third monitoring started in May 2022. In less than two months 59 diseased trees have been found. This is what Coldiretti Puglia reports, based on Infoxylella data, following the update of the dashboard of the 'Emergency Xylellà' institutional website of the Puglia Region. 31 dis"
+    },
+    "gold_available": false
+  },
+  {
+    "doc_id": "102892",
+    "subject_node": "Pest:xylella",
+    "object_node": "Location:netherlands",
+    "anchor": "researchers led by economists",
+    "assessment": "The Netherlands относится к местонахождению University of Wageningen и исследователей. Этот фрагмент не сообщает, что Xylella обнаружена в Нидерландах. Предсказанное ребро выглядит сомнительным; эталона test у нас нет.",
+    "status": "сомнительное отношение: место учреждения",
+    "edge": {
+      "subject": "Pest:xylella",
+      "predicate": "Located_in",
+      "object": "Location:netherlands",
+      "sources": [
+        "102892"
+      ]
+    },
+    "triple": {
+      "subject": "Xylella",
+      "predicate": "Located_in",
+      "object": "Netherlands"
+    },
+    "excerpt": {
+      "start": 2810,
+      "end": 3280,
+      "text": "taly, Greece and Spain, study carried out within the Project H2020 POnTE by a multinational team of researchers led by economists from the University of Wageningen (The Netherlands). The infection of Xyella has already caused over 21 million infected plants a massacre of olive trees - concludes Coldiretti Puglia - leaving a ghostly landscape, with over 8 thousand square kilometers of territory affected by plant pathology, equal to 40% of the regional territory. New "
+    },
+    "gold_available": false
+  }
+]

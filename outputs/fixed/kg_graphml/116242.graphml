@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">116242</data>
+<node id="Disease:huanglongbing disease">
+  <data key="d1">Disease</data>
+  <data key="d2">Huanglongbing disease</data>
+</node>
+<node id="Plant:citrus">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus</data>
+</node>
+<node id="Plant:banana">
+  <data key="d1">Plant</data>
+  <data key="d2">banana</data>
+</node>
+<node id="Plant:banana wilt">
+  <data key="d1">Plant</data>
+  <data key="d2">banana wilt</data>
+</node>
+<edge source="Disease:huanglongbing disease" target="Plant:citrus" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["116242"]</data>
+</edge>
+<edge source="Disease:huanglongbing disease" target="Plant:banana" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["116242"]</data>
+</edge>
+<edge source="Disease:huanglongbing disease" target="Plant:banana wilt" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["116242"]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">116509</data>
+<node id="Pest:phyllosticta citricarpa">
+  <data key="d1">Pest</data>
+  <data key="d2">Phyllosticta citricarpa</data>
+</node>
+<node id="Disease:disease of citrus black spot">
+  <data key="d1">Disease</data>
+  <data key="d2">disease of citrus black spot</data>
+</node>
+<node id="Location:south africa">
+  <data key="d1">Location</data>
+  <data key="d2">South Africa</data>
+</node>
+<node id="Date:in september">
+  <data key="d1">Date</data>
+  <data key="d2">in September</data>
+</node>
+<node id="Dissemination_pathway:shipments">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">shipments</data>
+</node>
+<node id="Date:so far this year">
+  <data key="d1">Date</data>
+  <data key="d2">so far this year</data>
+</node>
+<node id="Dissemination_pathway:citrus fruits">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">citrus fruits</data>
+</node>
+<node id="Location:european union">
+  <data key="d1">Location</data>
+  <data key="d2">European Union</data>
+</node>
+<node id="Dissemination_pathway:oranges">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">oranges</data>
+</node>
+<edge source="Pest:phyllosticta citricarpa" target="Disease:disease of citrus black spot" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Date:in september" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Date:so far this year" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Disease:disease of citrus black spot" target="Date:in september" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Disease:disease of citrus black spot" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Disease:disease of citrus black spot" target="Date:so far this year" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Disease:disease of citrus black spot" target="Dissemination_pathway:shipments" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:shipments" target="Date:so far this year" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:shipments" target="Date:in september" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:shipments" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus fruits" target="Location:european union" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:oranges" target="Date:in september" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:oranges" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116509"]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,2693 @@
+[
+  {
+    "doc_id": "100011",
+    "outer_fold": 3,
+    "category": "TP",
+    "predicate": "Located_in",
+    "subjects": [
+      "Japanese beetle"
+    ],
+    "objects": [
+      "Asia"
+    ],
+    "candidate_reached": true,
+    "candidate_probabilities": [
+      0.7943533250519441
+    ],
+    "stage": "сравнение с эталоном",
+    "excerpts": [
+      {
+        "start": 1455,
+        "end": 1871,
+        "text": "tle with a shiny metallic green head, brown wings and small white tufts of hair has hardly any predators in Europe. It comes from Asia and is classified in the EU as a \"priority Union quarantine pest\" because it prefers to eat flowers, leaves, fruits or their roots. The Japanese beetle is often confused with the garden leaf beetle or the rose chafer - these are native species that do not cause any significant dam"
+      }
+    ],
+    "predicted_mentions": [
+      {
+        "type": "Pest",
+        "start": 28,
+        "end": 43,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 47,
+        "end": 55,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Location",
+        "start": 59,
+        "end": 67,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 109,
+        "end": 124,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 128,
+        "end": 136,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 307,
+        "end": 322,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 324,
+        "end": 341,
+        "form": "Popillia japonica"
+      },
+      {
+        "type": "Pest",
+        "start": 399,
+        "end": 414,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 429,
+        "end": 437,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 476,
+        "end": 491,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 566,
+        "end": 574,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 616,
+        "end": 631,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 635,
+        "end": 643,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 814,
+        "end": 829,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 831,
+        "end": 848,
+        "form": "Popillia japonica"
+      },
+      {
+        "type": "Location",
+        "start": 886,
+        "end": 903,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Date",
+        "start": 962,
+        "end": 973,
+        "form": "last autumn"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 1052,
+        "end": 1059,
+        "form": "freight"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 1063,
+        "end": 1078,
+        "form": "tourist traffic"
+      },
+      {
+        "type": "Location",
+        "start": 1084,
+        "end": 1098,
+        "form": "northern Italy"
+      },
+      {
+        "type": "Date",
+        "start": 1100,
+        "end": 1114,
+        "form": "Since May 2022"
+      },
+      {
+        "type": "Location",
+        "start": 1120,
+        "end": 1133,
+        "form": "Freiburg area"
+      },
+      {
+        "type": "Location",
+        "start": 1238,
+        "end": 1255,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Pest",
+        "start": 1324,
+        "end": 1340,
+        "form": "Japanese beetles"
+      },
+      {
+        "type": "Pest",
+        "start": 1443,
+        "end": 1458,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 1563,
+        "end": 1569,
+        "form": "Europe"
+      },
+      {
+        "type": "Location",
+        "start": 1585,
+        "end": 1589,
+        "form": "Asia"
+      },
+      {
+        "type": "Pest",
+        "start": 1726,
+        "end": 1741,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 1892,
+        "end": 1907,
+        "form": "Japanese beetle"
+      }
+    ],
+    "gold_edges": [
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Asia"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "freight"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "tourist traffic"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Baden-Württemberg"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "100011",
+    "outer_fold": 3,
+    "category": "FP",
+    "predicate": "Located_in",
+    "subjects": [
+      "Japanese beetle"
+    ],
+    "objects": [
+      "Europe"
+    ],
+    "candidate_reached": true,
+    "candidate_probabilities": [
+      0.3558489905910836
+    ],
+    "stage": "сравнение с эталоном",
+    "excerpts": [
+      {
+        "start": 1313,
+        "end": 1699,
+        "text": " to detect Japanese beetles before they can multiply and establish themselves permanently. The approximately one centimeter large Japanese beetle with a shiny metallic green head, brown wings and small white tufts of hair has hardly any predators in Europe. It comes from Asia and is classified in the EU as a \"priority Union quarantine pest\" because it prefers to eat flowers, leaves, "
+      }
+    ],
+    "predicted_mentions": [
+      {
+        "type": "Pest",
+        "start": 28,
+        "end": 43,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 47,
+        "end": 55,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Location",
+        "start": 59,
+        "end": 67,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 109,
+        "end": 124,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 128,
+        "end": 136,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 307,
+        "end": 322,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 324,
+        "end": 341,
+        "form": "Popillia japonica"
+      },
+      {
+        "type": "Pest",
+        "start": 399,
+        "end": 414,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 429,
+        "end": 437,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 476,
+        "end": 491,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 566,
+        "end": 574,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 616,
+        "end": 631,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 635,
+        "end": 643,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 814,
+        "end": 829,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 831,
+        "end": 848,
+        "form": "Popillia japonica"
+      },
+      {
+        "type": "Location",
+        "start": 886,
+        "end": 903,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Date",
+        "start": 962,
+        "end": 973,
+        "form": "last autumn"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 1052,
+        "end": 1059,
+        "form": "freight"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 1063,
+        "end": 1078,
+        "form": "tourist traffic"
+      },
+      {
+        "type": "Location",
+        "start": 1084,
+        "end": 1098,
+        "form": "northern Italy"
+      },
+      {
+        "type": "Date",
+        "start": 1100,
+        "end": 1114,
+        "form": "Since May 2022"
+      },
+      {
+        "type": "Location",
+        "start": 1120,
+        "end": 1133,
+        "form": "Freiburg area"
+      },
+      {
+        "type": "Location",
+        "start": 1238,
+        "end": 1255,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Pest",
+        "start": 1324,
+        "end": 1340,
+        "form": "Japanese beetles"
+      },
+      {
+        "type": "Pest",
+        "start": 1443,
+        "end": 1458,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 1563,
+        "end": 1569,
+        "form": "Europe"
+      },
+      {
+        "type": "Location",
+        "start": 1585,
+        "end": 1589,
+        "form": "Asia"
+      },
+      {
+        "type": "Pest",
+        "start": 1726,
+        "end": 1741,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 1892,
+        "end": 1907,
+        "form": "Japanese beetle"
+      }
+    ],
+    "gold_edges": [
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Asia"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "freight"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "tourist traffic"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Baden-Württemberg"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "100011",
+    "outer_fold": 3,
+    "category": "FN",
+    "predicate": "Located_in",
+    "subjects": [
+      "freight"
+    ],
+    "objects": [
+      "freiburg",
+      "freiburg area"
+    ],
+    "candidate_reached": true,
+    "candidate_probabilities": [
+      0.2554971637801253
+    ],
+    "stage": "выбор отношений",
+    "excerpts": [
+      {
+        "start": 922,
+        "end": 1258,
+        "text": "ervice. Such a specimen was found there last autumn. The agricultural experts suspect that both beetles came here as stowaways in freight or tourist traffic from northern Italy. Since May 2022, the Freiburg area has been monitored with eight pheromone traps. A surveillance network of 42 traps was set up throughout Baden-Württemberg, m"
+      }
+    ],
+    "predicted_mentions": [
+      {
+        "type": "Pest",
+        "start": 28,
+        "end": 43,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 47,
+        "end": 55,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Location",
+        "start": 59,
+        "end": 67,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 109,
+        "end": 124,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 128,
+        "end": 136,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 307,
+        "end": 322,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 324,
+        "end": 341,
+        "form": "Popillia japonica"
+      },
+      {
+        "type": "Pest",
+        "start": 399,
+        "end": 414,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 429,
+        "end": 437,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 476,
+        "end": 491,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 566,
+        "end": 574,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 616,
+        "end": 631,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 635,
+        "end": 643,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 814,
+        "end": 829,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 831,
+        "end": 848,
+        "form": "Popillia japonica"
+      },
+      {
+        "type": "Location",
+        "start": 886,
+        "end": 903,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Date",
+        "start": 962,
+        "end": 973,
+        "form": "last autumn"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 1052,
+        "end": 1059,
+        "form": "freight"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 1063,
+        "end": 1078,
+        "form": "tourist traffic"
+      },
+      {
+        "type": "Location",
+        "start": 1084,
+        "end": 1098,
+        "form": "northern Italy"
+      },
+      {
+        "type": "Date",
+        "start": 1100,
+        "end": 1114,
+        "form": "Since May 2022"
+      },
+      {
+        "type": "Location",
+        "start": 1120,
+        "end": 1133,
+        "form": "Freiburg area"
+      },
+      {
+        "type": "Location",
+        "start": 1238,
+        "end": 1255,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Pest",
+        "start": 1324,
+        "end": 1340,
+        "form": "Japanese beetles"
+      },
+      {
+        "type": "Pest",
+        "start": 1443,
+        "end": 1458,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 1563,
+        "end": 1569,
+        "form": "Europe"
+      },
+      {
+        "type": "Location",
+        "start": 1585,
+        "end": 1589,
+        "form": "Asia"
+      },
+      {
+        "type": "Pest",
+        "start": 1726,
+        "end": 1741,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 1892,
+        "end": 1907,
+        "form": "Japanese beetle"
+      }
+    ],
+    "gold_edges": [
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Asia"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "freight"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "tourist traffic"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Baden-Württemberg"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "100018",
+    "outer_fold": 3,
+    "category": "FN_before_candidates",
+    "predicate": "Located_in",
+    "subjects": [
+      "japanese beetle",
+      "popilia japonica",
+      "popilias"
+    ],
+    "objects": [
+      "genestrerio"
+    ],
+    "candidate_reached": false,
+    "candidate_probabilities": [],
+    "stage": "до кандидатов: NER, нормализация или схема",
+    "excerpts": [
+      {
+        "start": 380,
+        "end": 856,
+        "text": " seem a harmless insect but the damage it causes to agriculture is huge and clearly visible in our territory. In fact, popilias - popilia japonica this is its scientific name - have also been widespread in Ticino for 5 years and the cantonal phytosanitary service tries to contain their spread. The 67 traps located between Stabio and Genestrerio (where the main outbreaks are present) made it possible to capture almost one million specimens. An approximate but conspicuous f"
+      }
+    ],
+    "predicted_mentions": [
+      {
+        "type": "Location",
+        "start": 83,
+        "end": 89,
+        "form": "Ticino"
+      },
+      {
+        "type": "Location",
+        "start": 255,
+        "end": 261,
+        "form": "Ticino"
+      },
+      {
+        "type": "Pest",
+        "start": 359,
+        "end": 374,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 586,
+        "end": 592,
+        "form": "Ticino"
+      },
+      {
+        "type": "Date",
+        "start": 593,
+        "end": 604,
+        "form": "for 5 years"
+      },
+      {
+        "type": "Location",
+        "start": 988,
+        "end": 997,
+        "form": "Novazzano"
+      },
+      {
+        "type": "Location",
+        "start": 1042,
+        "end": 1050,
+        "form": "Piedmont"
+      },
+      {
+        "type": "Location",
+        "start": 1113,
+        "end": 1119,
+        "form": "Ticino"
+      }
+    ],
+    "gold_edges": [
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "popilia japonica",
+          "popilias"
+        ],
+        "object": [
+          "Genestrerio"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "popilia japonica",
+          "popilias"
+        ],
+        "object": [
+          "Mendrisio"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "popilia japonica",
+          "popilias"
+        ],
+        "object": [
+          "Novazzano"
+        ]
+      },
+      {
+        "predicate": "Occurs_on",
+        "subject": [
+          "Japanese beetle",
+          "popilia japonica",
+          "popilias"
+        ],
+        "object": [
+          "for 5 years"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "popilia japonica",
+          "popilias"
+        ],
+        "object": [
+          "Ticino"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "popilia japonica",
+          "popilias"
+        ],
+        "object": [
+          "Stabio"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "popilia japonica",
+          "popilias"
+        ],
+        "object": [
+          "Morcote"
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "117923",
+    "outer_fold": 4,
+    "category": "TP",
+    "predicate": "Dispersed_by",
+    "subjects": [
+      "FAW"
+    ],
+    "objects": [
+      "wind"
+    ],
+    "candidate_reached": true,
+    "candidate_probabilities": [
+      0.5160588808388266
+    ],
+    "stage": "сравнение с эталоном",
+    "excerpts": [
+      {
+        "start": 2099,
+        "end": 2421,
+        "text": "an and the Korean Peninsula by crossing the sea from China during the Meiyu season. The scientists believe that the potential for FAW to invade the tropical Pacific Islands depends on the wind patterns in the archipelagos (Monsoon storms, trade winds, cyclones, and hurricanes) and trade contamination patterns. Once estab"
+      }
+    ],
+    "predicted_mentions": [
+      {
+        "type": "Pest",
+        "start": 60,
+        "end": 73,
+        "form": "fall armyworm"
+      },
+      {
+        "type": "Pest",
+        "start": 222,
+        "end": 235,
+        "form": "fall armyworm"
+      },
+      {
+        "type": "Pest",
+        "start": 237,
+        "end": 258,
+        "form": "Spodoptera frugiperda"
+      },
+      {
+        "type": "Pest",
+        "start": 392,
+        "end": 405,
+        "form": "fall armyworm"
+      },
+      {
+        "type": "Pest",
+        "start": 540,
+        "end": 553,
+        "form": "fall armyworm"
+      },
+      {
+        "type": "Pest",
+        "start": 555,
+        "end": 576,
+        "form": "Spodoptera frugiperda"
+      },
+      {
+        "type": "Date",
+        "start": 650,
+        "end": 665,
+        "form": "27 October 2022"
+      },
+      {
+        "type": "Location",
+        "start": 667,
+        "end": 673,
+        "form": "Africa"
+      },
+      {
+        "type": "Pest",
+        "start": 751,
+        "end": 764,
+        "form": "fall armyworm"
+      },
+      {
+        "type": "Pest",
+        "start": 766,
+        "end": 769,
+        "form": "FAW"
+      },
+      {
+        "type": "Plant",
+        "start": 819,
+        "end": 824,
+        "form": "maize"
+      },
+      {
+        "type": "Location",
+        "start": 869,
+        "end": 883,
+        "form": "most of Africa"
+      },
+      {
+        "type": "Location",
+        "start": 901,
+        "end": 912,
+        "form": "Middle East"
+      },
+      {
+        "type": "Location",
+        "start": 914,
+        "end": 918,
+        "form": "Asia"
+      },
+      {
+        "type": "Location",
+        "start": 924,
+        "end": 935,
+        "form": "Australasia"
+      },
+      {
+        "type": "Date",
+        "start": 936,
+        "end": 957,
+        "form": "in the last six years"
+      },
+      {
+        "type": "Location",
+        "start": 1051,
+        "end": 1062,
+        "form": "Switzerland"
+      },
+      {
+        "type": "Pest",
+        "start": 1180,
+        "end": 1183,
+        "form": "FAW"
+      },
+      {
+        "type": "Pest",
+        "start": 1204,
+        "end": 1207,
+        "form": "FAW"
+      },
+      {
+        "type": "Plant",
+        "start": 1378,
+        "end": 1383,
+        "form": "maize"
+      },
+      {
+        "type": "Plant",
+        "start": 1385,
+        "end": 1392,
+        "form": "sorghum"
+      },
+      {
+        "type": "Plant",
+        "start": 1394,
+        "end": 1398,
+        "form": "rice"
+      },
+      {
+        "type": "Plant",
+        "start": 1400,
+        "end": 1407,
+        "form": "soybean"
+      },
+      {
+        "type": "Plant",
+        "start": 1432,
+        "end": 1438,
+        "form": "cotton"
+      },
+      {
+        "type": "Location",
+        "start": 1460,
+        "end": 1506,
+        "form": "tropical and subtropical areas of the Americas"
+      },
+      {
+        "type": "Pest",
+        "start": 1586,
+        "end": 1589,
+        "form": "FAW"
+      },
+      {
+        "type": "Date",
+        "start": 1607,
+        "end": 1613,
+        "form": "annual"
+      },
+      {
+        "type": "Location",
+        "start": 1649,
+        "end": 1655,
+        "form": "Africa"
+      },
+      {
+        "type": "Pest",
+        "start": 1699,
+        "end": 1702,
+        "form": "FAW"
+      },
+      {
+        "type": "Pest",
+        "start": 1863,
+        "end": 1866,
+        "form": "FAW"
+      },
+      {
+        "type": "Location",
+        "start": 1870,
+        "end": 1878,
+        "form": "Zimbabwe"
+      },
+      {
+        "type": "Pest",
+        "start": 2029,
+        "end": 2032,
+        "form": "FAW"
+      },
+      {
+        "type": "Date",
+        "start": 2054,
+        "end": 2066,
+        "form": "for 48 hours"
+      },
+      {
+        "type": "Location",
+        "start": 2096,
+        "end": 2101,
+        "form": "Japan"
+      },
+      {
+        "type": "Location",
+        "start": 2110,
+        "end": 2126,
+        "form": "Korean Peninsula"
+      },
+      {
+        "type": "Location",
+        "start": 2152,
+        "end": 2157,
+        "form": "China"
+      },
+      {
+        "type": "Date",
+        "start": 2158,
+        "end": 2181,
+        "form": "during the Meiyu season"
+      },
+      {
+        "type": "Pest",
+        "start": 2229,
+        "end": 2232,
+        "form": "FAW"
+      },
+      {
+        "type": "Location",
+        "start": 2247,
+        "end": 2271,
+        "form": "tropical Pacific Islands"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 2287,
+        "end": 2291,
+        "form": "wind"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 2322,
+        "end": 2336,
+        "form": "Monsoon storms"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 2344,
+        "end": 2349,
+        "form": "winds"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 2351,
+        "end": 2359,
+        "form": "cyclones"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 2365,
+        "end": 2375,
+        "form": "hurricanes"
+      },
+      {
+        "type": "Pest",
+        "start": 2626,
+        "end": 2629,
+        "form": "FAW"
+      },
+      {
+        "type": "Location",
+        "start": 2695,
+        "end": 2701,
+        "form": "Europe"
+      },
+      {
+        "type": "Location",
+        "start": 2703,
+        "end": 2707,
+        "form": "Asia"
+      },
+      {
+        "type": "Location",
+        "start": 2712,
+        "end": 2719,
+        "form": "Oceania"
+      },
+      {
+        "type": "Pest",
+        "start": 2966,
+        "end": 2969,
+        "form": "FAW"
+      },
+      {
+        "type": "Location",
+        "start": 3369,
+        "end": 3377,
+        "form": "Americas"
+      },
+      {
+        "type": "Pest",
+        "start": 3411,
+        "end": 3414,
+        "form": "FAW"
+      },
+      {
+        "type": "Location",
+        "start": 3437,
+        "end": 3445,
+        "form": "Americas"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 3759,
+        "end": 3767,
+        "form": "clothing"
+      },
+      {
+        "type": "Location",
+        "start": 3959,
+        "end": 3964,
+        "form": "India"
+      }
+    ],
+    "gold_edges": [
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Japan"
+        ]
+      },
+      {
+        "predicate": "Dispersed_by",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "cyclones",
+          "hurricanes",
+          "Monsoon storms",
+          "trade winds",
+          "wind"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Oceania"
+        ]
+      },
+      {
+        "predicate": "Occurs_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "during the Meiyu season"
+        ]
+      },
+      {
+        "predicate": "Occurs_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "for 48 hours"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Zimbabwe"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "maize"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Africa",
+          "most of Africa"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "maize"
+        ],
+        "object": [
+          "Africa",
+          "most of Africa"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "China"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "cotton"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "soybean"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "maize"
+        ],
+        "object": [
+          "Americas",
+          "tropical and subtropical areas of the Americas"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "rice"
+        ]
+      },
+      {
+        "predicate": "Occurs_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "in the last six years"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "rice"
+        ],
+        "object": [
+          "Americas",
+          "tropical and subtropical areas of the Americas"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Korean Peninsula"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Europe"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "tropical Pacific Islands"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "soybean"
+        ],
+        "object": [
+          "Americas",
+          "tropical and subtropical areas of the Americas"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Australasia"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Middle East"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Americas",
+          "tropical and subtropical areas of the Americas"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "sorghum"
+        ],
+        "object": [
+          "Americas",
+          "tropical and subtropical areas of the Americas"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "sorghum"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "cotton"
+        ],
+        "object": [
+          "Americas",
+          "tropical and subtropical areas of the Americas"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "cyclones",
+          "hurricanes",
+          "Monsoon storms",
+          "trade winds",
+          "wind"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "fall armyworm",
+          "FAW",
+          "Spodoptera frugiperda"
+        ],
+        "object": [
+          "Asia"
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "100461",
+    "outer_fold": 4,
+    "category": "FP",
+    "predicate": "Dispersed_by",
+    "subjects": [
+      "Japanese beetle"
+    ],
+    "objects": [
+      "freight"
+    ],
+    "candidate_reached": true,
+    "candidate_probabilities": [
+      0.4406232716963236
+    ],
+    "stage": "сравнение с эталоном",
+    "excerpts": [
+      {
+        "start": 236,
+        "end": 741,
+        "text": "d an invasive species with great potential for damage. According to the Augustenberg Agricultural Technology Center (LTZ), a male Japanese beetle (Popillia japonica) has now fallen into the trap of the Baden-Württemberg plant protection service. Such a specimen was found there last autumn. The agricultural experts suspect that both beetles came here as stowaways in freight or tourist traffic from northern Italy. Since May 2022, the Freiburg area has been monitored with eight pheromone traps. A survei"
+      }
+    ],
+    "predicted_mentions": [
+      {
+        "type": "Pest",
+        "start": 28,
+        "end": 43,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 58,
+        "end": 66,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 102,
+        "end": 117,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 132,
+        "end": 140,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 168,
+        "end": 183,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 187,
+        "end": 195,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 366,
+        "end": 381,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 383,
+        "end": 400,
+        "form": "Popillia japonica"
+      },
+      {
+        "type": "Location",
+        "start": 438,
+        "end": 455,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Date",
+        "start": 514,
+        "end": 525,
+        "form": "last autumn"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 604,
+        "end": 611,
+        "form": "freight"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 615,
+        "end": 630,
+        "form": "tourist traffic"
+      },
+      {
+        "type": "Location",
+        "start": 636,
+        "end": 650,
+        "form": "northern Italy"
+      },
+      {
+        "type": "Date",
+        "start": 652,
+        "end": 666,
+        "form": "Since May 2022"
+      },
+      {
+        "type": "Location",
+        "start": 672,
+        "end": 685,
+        "form": "Freiburg area"
+      },
+      {
+        "type": "Location",
+        "start": 790,
+        "end": 807,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Pest",
+        "start": 876,
+        "end": 892,
+        "form": "Japanese beetles"
+      },
+      {
+        "type": "Pest",
+        "start": 995,
+        "end": 1010,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 1115,
+        "end": 1121,
+        "form": "Europe"
+      },
+      {
+        "type": "Location",
+        "start": 1137,
+        "end": 1141,
+        "form": "Asia"
+      },
+      {
+        "type": "Pest",
+        "start": 1278,
+        "end": 1293,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 1444,
+        "end": 1459,
+        "form": "Japanese beetle"
+      }
+    ],
+    "gold_edges": [
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Asia"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Baden-Württemberg"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "freight"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "tourist traffic"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Freiburg",
+          "Freiburg area"
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "100020",
+    "outer_fold": 3,
+    "category": "FN",
+    "predicate": "Dispersed_by",
+    "subjects": [
+      "japanese beetle",
+      "japanese beetles",
+      "popillia japonica"
+    ],
+    "objects": [
+      "freight"
+    ],
+    "candidate_reached": true,
+    "candidate_probabilities": [
+      0.03166022311239141
+    ],
+    "stage": "выбор отношений",
+    "excerpts": [
+      {
+        "start": 943,
+        "end": 1210,
+        "text": "efers to eat flowers, leaves, fruits or their roots. The agricultural experts suspect that both beetles came here as stowaways in freight or tourist traffic from northern Italy. Since May 2022, the Freiburg area has been monitored with eight pheromone traps. A survei"
+      },
+      {
+        "start": 1228,
+        "end": 1503,
+        "text": "42 traps was set up throughout the state of Baden-Württemberg, mainly along the main traffic arteries. This is intended to detect Japanese beetles before they can multiply and establish themselves permanently. The Japanese beetle is often confused with the garden leaf beetle"
+      }
+    ],
+    "predicted_mentions": [
+      {
+        "type": "Pest",
+        "start": 0,
+        "end": 15,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 76,
+        "end": 84,
+        "form": "FREIBURG"
+      },
+      {
+        "type": "Pest",
+        "start": 113,
+        "end": 128,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 160,
+        "end": 168,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Location",
+        "start": 250,
+        "end": 258,
+        "form": "FREIBURG"
+      },
+      {
+        "type": "Pest",
+        "start": 287,
+        "end": 302,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 334,
+        "end": 342,
+        "form": "Freiburg"
+      },
+      {
+        "type": "Pest",
+        "start": 517,
+        "end": 532,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 534,
+        "end": 551,
+        "form": "Popillia japonica"
+      },
+      {
+        "type": "Location",
+        "start": 589,
+        "end": 606,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Date",
+        "start": 665,
+        "end": 676,
+        "form": "last autumn"
+      },
+      {
+        "type": "Pest",
+        "start": 717,
+        "end": 732,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Location",
+        "start": 837,
+        "end": 843,
+        "form": "Europe"
+      },
+      {
+        "type": "Location",
+        "start": 859,
+        "end": 863,
+        "form": "Asia"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 1073,
+        "end": 1080,
+        "form": "freight"
+      },
+      {
+        "type": "Dissemination_pathway",
+        "start": 1084,
+        "end": 1099,
+        "form": "tourist traffic"
+      },
+      {
+        "type": "Location",
+        "start": 1105,
+        "end": 1119,
+        "form": "northern Italy"
+      },
+      {
+        "type": "Date",
+        "start": 1121,
+        "end": 1135,
+        "form": "Since May 2022"
+      },
+      {
+        "type": "Location",
+        "start": 1141,
+        "end": 1154,
+        "form": "Freiburg area"
+      },
+      {
+        "type": "Location",
+        "start": 1272,
+        "end": 1289,
+        "form": "Baden-Württemberg"
+      },
+      {
+        "type": "Pest",
+        "start": 1358,
+        "end": 1374,
+        "form": "Japanese beetles"
+      },
+      {
+        "type": "Pest",
+        "start": 1442,
+        "end": 1457,
+        "form": "Japanese beetle"
+      },
+      {
+        "type": "Pest",
+        "start": 1608,
+        "end": 1623,
+        "form": "Japanese beetle"
+      }
+    ],
+    "gold_edges": [
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "state of Baden-Württemberg"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "southern Germany"
+        ]
+      },
+      {
+        "predicate": "Occurs_on",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "last autumn"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "FREIBURG",
+          "Freiburg area"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "Asia"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Dispersed_by",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "freight"
+        ]
+      },
+      {
+        "predicate": "Dispersed_by",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "tourist traffic"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "freight"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tourist traffic"
+        ],
+        "object": [
+          "northern Italy"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Japanese beetle",
+          "Japanese beetles",
+          "Popillia japonica"
+        ],
+        "object": [
+          "city of Freiburg"
+        ]
+      }
+    ]
+  },
+  {
+    "doc_id": "104650",
+    "outer_fold": 2,
+    "category": "FN_before_candidates",
+    "predicate": "Dispersed_by",
+    "subjects": [
+      "tobrfv",
+      "tomato brown rugose fruit virus"
+    ],
+    "objects": [
+      "seed"
+    ],
+    "candidate_reached": false,
+    "candidate_probabilities": [],
+    "stage": "до кандидатов: NER, нормализация или схема",
+    "excerpts": [
+      {
+        "start": 996,
+        "end": 1268,
+        "text": " families were tested. Twelve species belonging to eight families were infected of which ten species are newly reported hosts for ToBRFV. Seed transmission of ToBRFV in Solanum nigrum was confirmed in a grow-out experiment. To our knowledge, this is the first report of th"
+      }
+    ],
+    "predicted_mentions": [
+      {
+        "type": "Pest",
+        "start": 19,
+        "end": 50,
+        "form": "Tomato Brown Rugose Fruit Virus"
+      },
+      {
+        "type": "Location",
+        "start": 54,
+        "end": 72,
+        "form": "Wild Mediterranean"
+      },
+      {
+        "type": "Pest",
+        "start": 84,
+        "end": 115,
+        "form": "Tomato brown rugose fruit virus"
+      },
+      {
+        "type": "Pest",
+        "start": 117,
+        "end": 123,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Pest",
+        "start": 132,
+        "end": 143,
+        "form": "Tobamovirus"
+      },
+      {
+        "type": "Date",
+        "start": 186,
+        "end": 193,
+        "form": "in 2015"
+      },
+      {
+        "type": "Plant",
+        "start": 204,
+        "end": 212,
+        "form": "tomatoes"
+      },
+      {
+        "type": "Location",
+        "start": 251,
+        "end": 264,
+        "form": "Jordan Valley"
+      },
+      {
+        "type": "Date",
+        "start": 266,
+        "end": 276,
+        "form": "Since then"
+      },
+      {
+        "type": "Pest",
+        "start": 278,
+        "end": 284,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Plant",
+        "start": 306,
+        "end": 314,
+        "form": "tomatoes"
+      },
+      {
+        "type": "Location",
+        "start": 362,
+        "end": 368,
+        "form": "Jordan"
+      },
+      {
+        "type": "Pest",
+        "start": 397,
+        "end": 403,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Pest",
+        "start": 500,
+        "end": 506,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Location",
+        "start": 538,
+        "end": 551,
+        "form": "Jordan Valley"
+      },
+      {
+        "type": "Pest",
+        "start": 607,
+        "end": 613,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Plant",
+        "start": 658,
+        "end": 666,
+        "form": "tomatoes"
+      },
+      {
+        "type": "Pest",
+        "start": 692,
+        "end": 698,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Pest",
+        "start": 1126,
+        "end": 1132,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Pest",
+        "start": 1155,
+        "end": 1161,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Plant",
+        "start": 1165,
+        "end": 1179,
+        "form": "Solanum nigrum"
+      },
+      {
+        "type": "Pest",
+        "start": 1292,
+        "end": 1298,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Pest",
+        "start": 1354,
+        "end": 1360,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Pest",
+        "start": 1443,
+        "end": 1449,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Pest",
+        "start": 1484,
+        "end": 1490,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Plant",
+        "start": 1547,
+        "end": 1553,
+        "form": "tomato"
+      },
+      {
+        "type": "Plant",
+        "start": 1746,
+        "end": 1758,
+        "form": "tomato crops"
+      },
+      {
+        "type": "Pest",
+        "start": 1779,
+        "end": 1810,
+        "form": "Tomato Brown Rugose Fruit Virus"
+      },
+      {
+        "type": "Pest",
+        "start": 1927,
+        "end": 1933,
+        "form": "ToBRFV"
+      },
+      {
+        "type": "Plant",
+        "start": 1951,
+        "end": 1965,
+        "form": "Solanum nigrum"
+      },
+      {
+        "type": "Plant",
+        "start": 1967,
+        "end": 1983,
+        "form": "Malva parviflora"
+      },
+      {
+        "type": "Pest",
+        "start": 2193,
+        "end": 2224,
+        "form": "Tomato Brown Rugose Fruit Virus"
+      },
+      {
+        "type": "Location",
+        "start": 2228,
+        "end": 2246,
+        "form": "Wild Mediterranean"
+      },
+      {
+        "type": "Pest",
+        "start": 2429,
+        "end": 2460,
+        "form": "Tomato Brown Rugose Fruit Virus"
+      },
+      {
+        "type": "Location",
+        "start": 2464,
+        "end": 2482,
+        "form": "Wild Mediterranean"
+      },
+      {
+        "type": "Location",
+        "start": 2620,
+        "end": 2634,
+        "form": "Massimo Turina"
+      },
+      {
+        "type": "Pest",
+        "start": 2734,
+        "end": 2765,
+        "form": "Tomato Brown Rugose Fruit Virus"
+      },
+      {
+        "type": "Location",
+        "start": 2769,
+        "end": 2787,
+        "form": "Wild Mediterranean"
+      }
+    ],
+    "gold_edges": [
+      {
+        "predicate": "Occurs_on",
+        "subject": [
+          "ToBRFV",
+          "Tomato brown rugose fruit virus",
+          "Tomato Brown Rugose Fruit Virus"
+        ],
+        "object": [
+          "in 2015"
+        ]
+      },
+      {
+        "predicate": "Occurs_on",
+        "subject": [
+          "Tobamovirus"
+        ],
+        "object": [
+          "in 2015"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "ToBRFV",
+          "Tomato brown rugose fruit virus",
+          "Tomato Brown Rugose Fruit Virus"
+        ],
+        "object": [
+          "Mediterranean"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "Tobamovirus"
+        ],
+        "object": [
+          "tomato",
+          "tomato crops",
+          "tomatoes"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "ToBRFV",
+          "Tomato brown rugose fruit virus",
+          "Tomato Brown Rugose Fruit Virus"
+        ],
+        "object": [
+          "Jordan Valley"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "ToBRFV",
+          "Tomato brown rugose fruit virus",
+          "Tomato Brown Rugose Fruit Virus"
+        ],
+        "object": [
+          "tomato",
+          "tomato crops",
+          "tomatoes"
+        ]
+      },
+      {
+        "predicate": "Occurs_on",
+        "subject": [
+          "tomato",
+          "tomato crops",
+          "tomatoes"
+        ],
+        "object": [
+          "in 2015"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tomato",
+          "tomato crops",
+          "tomatoes"
+        ],
+        "object": [
+          "Jordan Valley"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "tomato",
+          "tomato crops",
+          "tomatoes"
+        ],
+        "object": [
+          "Jordan"
+        ]
+      },
+      {
+        "predicate": "Dispersed_by",
+        "subject": [
+          "ToBRFV",
+          "Tomato brown rugose fruit virus",
+          "Tomato Brown Rugose Fruit Virus"
+        ],
+        "object": [
+          "Seed"
+        ]
+      },
+      {
+        "predicate": "Found_on",
+        "subject": [
+          "ToBRFV",
+          "Tomato brown rugose fruit virus",
+          "Tomato Brown Rugose Fruit Virus"
+        ],
+        "object": [
+          "Solanum nigrum"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "ToBRFV",
+          "Tomato brown rugose fruit virus",
+          "Tomato Brown Rugose Fruit Virus"
+        ],
+        "object": [
+          "Jordan"
+        ]
+      },
+      {
+        "predicate": "Located_in",
+        "subject": [
+          "Tobamovirus"
+        ],
+        "object": [
+          "Jordan Valley"
+        ]
+      }
+    ]
+  }
+]

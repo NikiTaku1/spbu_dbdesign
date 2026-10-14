@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">100424</data>
+<node id="Pest:xylella">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella</data>
+</node>
+<node id="Plant:olive">
+  <data key="d1">Plant</data>
+  <data key="d2">olive</data>
+</node>
+<node id="Location:puglia region">
+  <data key="d1">Location</data>
+  <data key="d2">Puglia Region</data>
+</node>
+<node id="Plant:olive trees">
+  <data key="d1">Plant</data>
+  <data key="d2">olive trees</data>
+</node>
+<node id="Location:brindisi">
+  <data key="d1">Location</data>
+  <data key="d2">Brindisi</data>
+</node>
+<node id="Location:salento">
+  <data key="d1">Location</data>
+  <data key="d2">Salento</data>
+</node>
+<node id="Location:lecce">
+  <data key="d1">Location</data>
+  <data key="d2">Lecce</data>
+</node>
+<node id="Location:barletta">
+  <data key="d1">Location</data>
+  <data key="d2">Barletta</data>
+</node>
+<node id="Location:italy">
+  <data key="d1">Location</data>
+  <data key="d2">Italy</data>
+</node>
+<node id="Location:spain">
+  <data key="d1">Location</data>
+  <data key="d2">Spain</data>
+</node>
+<node id="Location:portugal">
+  <data key="d1">Location</data>
+  <data key="d2">Portugal</data>
+</node>
+<node id="Vector:philaenus spumarius">
+  <data key="d1">Vector</data>
+  <data key="d2">Philaenus Spumarius</data>
+</node>
+<edge source="Pest:xylella" target="Plant:olive" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:puglia region" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:brindisi" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:lecce" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:barletta" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:spain" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:portugal" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:salento" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:salento" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:salento" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:lecce" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:barletta" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100424"]</data>
+</edge>
+<edge source="Vector:philaenus spumarius" target="Pest:xylella" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["100424"]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">100333</data>
+<node id="Pest:fall armyworm">
+  <data key="d1">Pest</data>
+  <data key="d2">fall armyworm</data>
+</node>
+<node id="Plant:maize">
+  <data key="d1">Plant</data>
+  <data key="d2">maize</data>
+</node>
+<node id="Location:africa">
+  <data key="d1">Location</data>
+  <data key="d2">Africa</data>
+</node>
+<node id="Location:nigeria">
+  <data key="d1">Location</data>
+  <data key="d2">Nigeria</data>
+</node>
+<node id="Location:egypt">
+  <data key="d1">Location</data>
+  <data key="d2">Egypt</data>
+</node>
+<node id="Pest:stem borer">
+  <data key="d1">Pest</data>
+  <data key="d2">stem borer</data>
+</node>
+<node id="Location:south africa">
+  <data key="d1">Location</data>
+  <data key="d2">South Africa</data>
+</node>
+<node id="Location:kenya">
+  <data key="d1">Location</data>
+  <data key="d2">Kenya</data>
+</node>
+<node id="Location:spain">
+  <data key="d1">Location</data>
+  <data key="d2">Spain</data>
+</node>
+<node id="Date:in 2014">
+  <data key="d1">Date</data>
+  <data key="d2">in 2014</data>
+</node>
+<node id="Location:europe">
+  <data key="d1">Location</data>
+  <data key="d2">Europe</data>
+</node>
+<node id="Location:uganda">
+  <data key="d1">Location</data>
+  <data key="d2">Uganda</data>
+</node>
+<node id="Location:portugal">
+  <data key="d1">Location</data>
+  <data key="d2">Portugal</data>
+</node>
+<node id="Location:tanzania">
+  <data key="d1">Location</data>
+  <data key="d2">Tanzania</data>
+</node>
+<node id="Location:czech republic">
+  <data key="d1">Location</data>
+  <data key="d2">Czech Republic</data>
+</node>
+<node id="Date:from october 8, 2021 to october 5, 2024">
+  <data key="d1">Date</data>
+  <data key="d2">from October 8, 2021 to October 5, 2024</data>
+</node>
+<node id="Location:romania">
+  <data key="d1">Location</data>
+  <data key="d2">Romania</data>
+</node>
+<node id="Location:mozambique">
+  <data key="d1">Location</data>
+  <data key="d2">Mozambique</data>
+</node>
+<edge source="Pest:fall armyworm" target="Plant:maize" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Pest:fall armyworm" target="Location:africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:nigeria" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:egypt" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:kenya" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:spain" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Date:in 2014" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:uganda" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:portugal" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:tanzania" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:czech republic" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Date:from october 8, 2021 to october 5, 2024" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:romania" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:mozambique" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100333"]</data>
+</edge>
+<edge source="Pest:stem borer" target="Plant:maize" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100333"]</data>
+</edge>
+</graph></graphml>

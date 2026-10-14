@@ -1,0 +1,3701 @@
+{
+  "corpus_unchanged": true,
+  "documents": [
+    {
+      "doc_id": "100108",
+      "edges": 5,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "100296",
+      "edges": 3,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "100333",
+      "edges": 18,
+      "empty": false,
+      "nodes": 18,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "100424",
+      "edges": 15,
+      "empty": false,
+      "nodes": 12,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "100454",
+      "edges": 12,
+      "empty": false,
+      "nodes": 12,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "100458",
+      "edges": 11,
+      "empty": false,
+      "nodes": 8,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "100471",
+      "edges": 6,
+      "empty": false,
+      "nodes": 6,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "100478",
+      "edges": 5,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "100506",
+      "edges": 13,
+      "empty": false,
+      "nodes": 12,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "102276",
+      "edges": 28,
+      "empty": false,
+      "nodes": 21,
+      "weak_components": 2
+    },
+    {
+      "doc_id": "102433",
+      "edges": 17,
+      "empty": false,
+      "nodes": 11,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "102441",
+      "edges": 3,
+      "empty": false,
+      "nodes": 3,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "102516",
+      "edges": 2,
+      "empty": false,
+      "nodes": 3,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "102892",
+      "edges": 28,
+      "empty": false,
+      "nodes": 20,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "102894",
+      "edges": 29,
+      "empty": false,
+      "nodes": 21,
+      "weak_components": 2
+    },
+    {
+      "doc_id": "103005",
+      "edges": 16,
+      "empty": false,
+      "nodes": 18,
+      "weak_components": 4
+    },
+    {
+      "doc_id": "103391",
+      "edges": 6,
+      "empty": false,
+      "nodes": 5,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "103643",
+      "edges": 13,
+      "empty": false,
+      "nodes": 11,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "103887",
+      "edges": 8,
+      "empty": false,
+      "nodes": 5,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "104422",
+      "edges": 7,
+      "empty": false,
+      "nodes": 8,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "104453",
+      "edges": 7,
+      "empty": false,
+      "nodes": 7,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "104562",
+      "edges": 2,
+      "empty": false,
+      "nodes": 3,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "104657",
+      "edges": 12,
+      "empty": false,
+      "nodes": 13,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "104725",
+      "edges": 14,
+      "empty": false,
+      "nodes": 12,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "104732",
+      "edges": 4,
+      "empty": false,
+      "nodes": 3,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "104752",
+      "edges": 13,
+      "empty": false,
+      "nodes": 12,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "104868",
+      "edges": 2,
+      "empty": false,
+      "nodes": 3,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "105066",
+      "edges": 12,
+      "empty": false,
+      "nodes": 8,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "105286",
+      "edges": 5,
+      "empty": false,
+      "nodes": 6,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "105440",
+      "edges": 3,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "105490",
+      "edges": 3,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "105574",
+      "edges": 45,
+      "empty": false,
+      "nodes": 26,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "105854",
+      "edges": 23,
+      "empty": false,
+      "nodes": 16,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "105882",
+      "edges": 24,
+      "empty": false,
+      "nodes": 13,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "106012",
+      "edges": 10,
+      "empty": false,
+      "nodes": 9,
+      "weak_components": 2
+    },
+    {
+      "doc_id": "106215",
+      "edges": 17,
+      "empty": false,
+      "nodes": 10,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "106250",
+      "edges": 4,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "106417",
+      "edges": 9,
+      "empty": false,
+      "nodes": 8,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "106950",
+      "edges": 0,
+      "empty": true,
+      "nodes": 0,
+      "weak_components": 0
+    },
+    {
+      "doc_id": "107116",
+      "edges": 14,
+      "empty": false,
+      "nodes": 14,
+      "weak_components": 3
+    },
+    {
+      "doc_id": "107265",
+      "edges": 20,
+      "empty": false,
+      "nodes": 13,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "107268",
+      "edges": 31,
+      "empty": false,
+      "nodes": 22,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "114258",
+      "edges": 4,
+      "empty": false,
+      "nodes": 5,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "115119",
+      "edges": 3,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "115121",
+      "edges": 11,
+      "empty": false,
+      "nodes": 8,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "115188",
+      "edges": 8,
+      "empty": false,
+      "nodes": 9,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "115219",
+      "edges": 0,
+      "empty": true,
+      "nodes": 0,
+      "weak_components": 0
+    },
+    {
+      "doc_id": "115232",
+      "edges": 15,
+      "empty": false,
+      "nodes": 9,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "115318",
+      "edges": 4,
+      "empty": false,
+      "nodes": 5,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "115568",
+      "edges": 27,
+      "empty": false,
+      "nodes": 24,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "115840",
+      "edges": 8,
+      "empty": false,
+      "nodes": 6,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "115859",
+      "edges": 24,
+      "empty": false,
+      "nodes": 15,
+      "weak_components": 2
+    },
+    {
+      "doc_id": "115980",
+      "edges": 3,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "116010",
+      "edges": 3,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "116192",
+      "edges": 5,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "116208",
+      "edges": 4,
+      "empty": false,
+      "nodes": 5,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "116219",
+      "edges": 10,
+      "empty": false,
+      "nodes": 9,
+      "weak_components": 2
+    },
+    {
+      "doc_id": "116242",
+      "edges": 3,
+      "empty": false,
+      "nodes": 4,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "116509",
+      "edges": 14,
+      "empty": false,
+      "nodes": 9,
+      "weak_components": 2
+    },
+    {
+      "doc_id": "116554",
+      "edges": 5,
+      "empty": false,
+      "nodes": 7,
+      "weak_components": 2
+    },
+    {
+      "doc_id": "116622",
+      "edges": 23,
+      "empty": false,
+      "nodes": 12,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "116678",
+      "edges": 19,
+      "empty": false,
+      "nodes": 13,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "117194",
+      "edges": 10,
+      "empty": false,
+      "nodes": 6,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "117305",
+      "edges": 7,
+      "empty": false,
+      "nodes": 6,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "117314",
+      "edges": 11,
+      "empty": false,
+      "nodes": 10,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "117415",
+      "edges": 18,
+      "empty": false,
+      "nodes": 13,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "117451",
+      "edges": 5,
+      "empty": false,
+      "nodes": 6,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "117546",
+      "edges": 9,
+      "empty": false,
+      "nodes": 7,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "118038",
+      "edges": 10,
+      "empty": false,
+      "nodes": 6,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "118127",
+      "edges": 66,
+      "empty": false,
+      "nodes": 41,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "97966",
+      "edges": 5,
+      "empty": false,
+      "nodes": 5,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "97985",
+      "edges": 21,
+      "empty": false,
+      "nodes": 14,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "98065",
+      "edges": 2,
+      "empty": false,
+      "nodes": 3,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "98134",
+      "edges": 16,
+      "empty": false,
+      "nodes": 13,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "99054",
+      "edges": 10,
+      "empty": false,
+      "nodes": 9,
+      "weak_components": 2
+    },
+    {
+      "doc_id": "99433",
+      "edges": 12,
+      "empty": false,
+      "nodes": 8,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "99581",
+      "edges": 32,
+      "empty": false,
+      "nodes": 23,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "99632",
+      "edges": 9,
+      "empty": false,
+      "nodes": 8,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "99733",
+      "edges": 20,
+      "empty": false,
+      "nodes": 15,
+      "weak_components": 1
+    },
+    {
+      "doc_id": "99826",
+      "edges": 0,
+      "empty": true,
+      "nodes": 0,
+      "weak_components": 0
+    },
+    {
+      "doc_id": "99835",
+      "edges": 0,
+      "empty": true,
+      "nodes": 0,
+      "weak_components": 0
+    },
+    {
+      "doc_id": "99970",
+      "edges": 0,
+      "empty": true,
+      "nodes": 0,
+      "weak_components": 0
+    }
+  ],
+  "identity_examples": [
+    {
+      "interpretation": "Xylella и Xylella fastidiosa имеют разные node_id. Их таксономическую идентичность здесь не решаем.",
+      "kind": "observed_separate_nodes",
+      "nodes": [
+        {
+          "id": "Pest:xylella",
+          "label": "Xylella",
+          "sources": [
+            "100424",
+            "100506",
+            "102276",
+            "102892",
+            "102894",
+            "103887",
+            "104732",
+            "105574",
+            "115232",
+            "115859",
+            "115980",
+            "116010",
+            "117314",
+            "97985",
+            "99733"
+          ],
+          "type": "Pest"
+        },
+        {
+          "id": "Pest:xylella fastidiosa",
+          "label": "Xylella fastidiosa",
+          "sources": [
+            "103005",
+            "104725",
+            "104752",
+            "105286",
+            "115188",
+            "115840",
+            "117451",
+            "97966"
+          ],
+          "type": "Pest"
+        }
+      ]
+    },
+    {
+      "interpretation": "Узлы Location и Date сохраняют извлечённые строки; тип не гарантирует чистоту границ и нормализацию.",
+      "kind": "observed_surface_noise",
+      "nodes": [
+        {
+          "id": "Location:from east asia",
+          "label": "from East Asia",
+          "sources": [
+            "104657"
+          ],
+          "type": "Location"
+        },
+        {
+          "id": "Date:first time",
+          "label": "first time",
+          "sources": [
+            "104657"
+          ],
+          "type": "Date"
+        }
+      ]
+    },
+    {
+      "concept_count": 1,
+      "forms": [
+        "Tomato Brown Rugose Fruit Virus",
+        "ToBRFV"
+      ],
+      "interpretation": "Это явный проверочный пример cluster, а не найденная в тестовом графе пара. Полная форма и сокращение объединяются внутри документа по раскрытию и одной ссылке.",
+      "kind": "explicit_regression_example",
+      "reference": [
+        "NCBI",
+        "1761477"
+      ],
+      "text": "Tomato Brown Rugose Fruit Virus (ToBRFV)"
+    }
+  ],
+  "passport": {
+    "candidate_sha256": "16e56a8c69001a1ce659fb5a2267d3b11bc17c093071353436733c832b0b8215",
+    "document_edge_predicates": {
+      "Affects": 41,
+      "Causes": 40,
+      "Dispersed_by": 14,
+      "Found_on": 182,
+      "Located_in": 559,
+      "Occurs_on": 127,
+      "Transmits": 12
+    },
+    "document_triples": 975,
+    "documents": 82,
+    "edge_predicates": {
+      "Affects": 34,
+      "Causes": 37,
+      "Dispersed_by": 12,
+      "Found_on": 135,
+      "Located_in": 401,
+      "Occurs_on": 107,
+      "Transmits": 11
+    },
+    "edge_source_multiplicity": {
+      "1": 609,
+      "2": 81,
+      "3": 23,
+      "4": 7,
+      "5": 9,
+      "6": 3,
+      "7": 1,
+      "8": 2,
+      "9": 1,
+      "12": 1
+    },
+    "empty_documents": 5,
+    "isolated_nodes": 0,
+    "largest_weak_component_nodes": 415,
+    "node_types": {
+      "Date": 60,
+      "Disease": 26,
+      "Dissemination_pathway": 19,
+      "Location": 173,
+      "Pest": 64,
+      "Plant": 88,
+      "Vector": 7
+    },
+    "nodes": 437,
+    "scope": "Предсказанный тестовый корпус; качество этих связей по эталону не измерено",
+    "self_loops": 0,
+    "unique_edges": 737,
+    "weak_component_sizes": [
+      415,
+      5,
+      4,
+      4,
+      3,
+      2,
+      2,
+      2
+    ],
+    "weak_components": 8
+  },
+  "provenance_checks": "Все узлы и рёбра результатов проверены по исходным документным графам; источники рёбер совпадают с полным списком документов.",
+  "queries": {
+    "pest_locations": {
+      "count": 47,
+      "results": [
+        {
+          "edge": {
+            "object": "Location:alberobello area",
+            "predicate": "Located_in",
+            "sources": [
+              "102276",
+              "102892",
+              "102894"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:alberobello area",
+            "label": "Alberobello area",
+            "sources": [
+              "102276",
+              "102892",
+              "102894"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:apulian",
+            "predicate": "Located_in",
+            "sources": [
+              "115232"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:apulian",
+            "label": "Apulian",
+            "sources": [
+              "115232"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:avetrana",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:avetrana",
+            "label": "Avetrana",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:bari",
+            "predicate": "Located_in",
+            "sources": [
+              "100506",
+              "103887",
+              "115980",
+              "116010"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:bari",
+            "label": "BARI",
+            "sources": [
+              "100506",
+              "103887",
+              "115840",
+              "115980",
+              "116010"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:bari area",
+            "predicate": "Located_in",
+            "sources": [
+              "105574",
+              "115232"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:bari area",
+            "label": "Bari area",
+            "sources": [
+              "105574",
+              "115232"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:barletta",
+            "predicate": "Located_in",
+            "sources": [
+              "100424"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:barletta",
+            "label": "Barletta",
+            "sources": [
+              "100424"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:basilicata",
+            "predicate": "Located_in",
+            "sources": [
+              "100506",
+              "105574",
+              "97985"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:basilicata",
+            "label": "Basilicata",
+            "sources": [
+              "100506",
+              "105574",
+              "97985"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:brindisi",
+            "predicate": "Located_in",
+            "sources": [
+              "100424",
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:brindisi",
+            "label": "Brindisi",
+            "sources": [
+              "100424",
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:carosino",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:carosino",
+            "label": "Carosino",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:countryside of fasano",
+            "predicate": "Located_in",
+            "sources": [
+              "100506",
+              "102276",
+              "102892",
+              "102894",
+              "99733"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:countryside of fasano",
+            "label": "countryside of Fasano",
+            "sources": [
+              "100506",
+              "102276",
+              "102892",
+              "102894",
+              "99733"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:countryside of gallipoli",
+            "predicate": "Located_in",
+            "sources": [
+              "99733"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:countryside of gallipoli",
+            "label": "countryside of Gallipoli",
+            "sources": [
+              "99733"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:countryside of martina franca",
+            "predicate": "Located_in",
+            "sources": [
+              "102276",
+              "102892",
+              "102894"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:countryside of martina franca",
+            "label": "countryside of Martina Franca",
+            "sources": [
+              "102276",
+              "102892",
+              "102894"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:countryside of monopoli",
+            "predicate": "Located_in",
+            "sources": [
+              "100506",
+              "99733"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:countryside of monopoli",
+            "label": "countryside of Monopoli",
+            "sources": [
+              "100506",
+              "99733"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:eu",
+            "predicate": "Located_in",
+            "sources": [
+              "117314"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:eu",
+            "label": "EU",
+            "sources": [
+              "106012",
+              "116678",
+              "117314"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:europe",
+            "predicate": "Located_in",
+            "sources": [
+              "102276",
+              "102892",
+              "102894",
+              "115859",
+              "97985"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:europe",
+            "label": "Europe",
+            "sources": [
+              "100108",
+              "100333",
+              "100458",
+              "102276",
+              "102892",
+              "102894",
+              "103005",
+              "103643",
+              "104657",
+              "104752",
+              "115859",
+              "117451",
+              "118127",
+              "97985",
+              "99581"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:faggiano",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:faggiano",
+            "label": "Faggiano",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:fasano",
+            "predicate": "Located_in",
+            "sources": [
+              "115232",
+              "115859"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:fasano",
+            "label": "Fasano",
+            "sources": [
+              "115232",
+              "115859"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:fragagnano",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:fragagnano",
+            "label": "Fragagnano",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:italian",
+            "predicate": "Located_in",
+            "sources": [
+              "99733"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:italian",
+            "label": "Italian",
+            "sources": [
+              "99733"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:italy",
+            "predicate": "Located_in",
+            "sources": [
+              "100424",
+              "102276",
+              "102892",
+              "102894",
+              "115859",
+              "97985"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:italy",
+            "label": "Italy",
+            "sources": [
+              "100424",
+              "100454",
+              "102276",
+              "102516",
+              "102892",
+              "102894",
+              "103005",
+              "115859",
+              "117451",
+              "97985",
+              "99581"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:lecce",
+            "predicate": "Located_in",
+            "sources": [
+              "100424",
+              "103887",
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:lecce",
+            "label": "Lecce",
+            "sources": [
+              "100424",
+              "103887",
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:lizzano",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:lizzano",
+            "label": "Lizzano",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:locorotondo",
+            "predicate": "Located_in",
+            "sources": [
+              "115232",
+              "115859"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:locorotondo",
+            "label": "Locorotondo",
+            "sources": [
+              "115232",
+              "115859"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:manduria",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:manduria",
+            "label": "Manduria",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:martina franca",
+            "predicate": "Located_in",
+            "sources": [
+              "115232",
+              "115859"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:martina franca",
+            "label": "Martina Franca",
+            "sources": [
+              "115232",
+              "115859"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:maruggio",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:maruggio",
+            "label": "Maruggio",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:monopoli",
+            "predicate": "Located_in",
+            "sources": [
+              "102276",
+              "102892",
+              "102894",
+              "97985"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:monopoli",
+            "label": "Monopoli",
+            "sources": [
+              "102276",
+              "102892",
+              "102894",
+              "97985"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:monteiasi",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:monteiasi",
+            "label": "Monteiasi",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:netherlands",
+            "predicate": "Located_in",
+            "sources": [
+              "102892"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:netherlands",
+            "label": "Netherlands",
+            "sources": [
+              "102892",
+              "116622",
+              "117194"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:north of brindisi",
+            "predicate": "Located_in",
+            "sources": [
+              "100506"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:north of brindisi",
+            "label": "north of Brindisi",
+            "sources": [
+              "100506"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:north of the province of brindisi",
+            "predicate": "Located_in",
+            "sources": [
+              "99733"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:north of the province of brindisi",
+            "label": "north of the province of Brindisi",
+            "sources": [
+              "99733"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:polignano",
+            "predicate": "Located_in",
+            "sources": [
+              "100506",
+              "102276",
+              "102892",
+              "102894",
+              "115232",
+              "115859",
+              "97985"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:polignano",
+            "label": "Polignano",
+            "sources": [
+              "100506",
+              "102276",
+              "102892",
+              "102894",
+              "115232",
+              "115859",
+              "97985"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:polignano a mare",
+            "predicate": "Located_in",
+            "sources": [
+              "105574",
+              "99733"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:polignano a mare",
+            "label": "Polignano a Mare",
+            "sources": [
+              "105574",
+              "99733"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:portugal",
+            "predicate": "Located_in",
+            "sources": [
+              "100424"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:portugal",
+            "label": "Portugal",
+            "sources": [
+              "100333",
+              "100424",
+              "118127"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:province of bari",
+            "predicate": "Located_in",
+            "sources": [
+              "102276",
+              "102892",
+              "102894",
+              "99733"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:province of bari",
+            "label": "province of Bari",
+            "sources": [
+              "102276",
+              "102892",
+              "102894",
+              "99733"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:provinces of lecce",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:provinces of lecce",
+            "label": "provinces of Lecce",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:puglia",
+            "predicate": "Located_in",
+            "sources": [
+              "100506",
+              "102276",
+              "102892",
+              "102894",
+              "105574",
+              "115859",
+              "115980",
+              "97985",
+              "99733"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:puglia",
+            "label": "Puglia",
+            "sources": [
+              "100506",
+              "102276",
+              "102892",
+              "102894",
+              "105574",
+              "115859",
+              "115980",
+              "97985",
+              "99733"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:puglia region",
+            "predicate": "Located_in",
+            "sources": [
+              "100424"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:puglia region",
+            "label": "Puglia Region",
+            "sources": [
+              "100424"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:pulsano",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:pulsano",
+            "label": "Pulsano",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:roccaforzata",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:roccaforzata",
+            "label": "Roccaforzata",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:salento",
+            "predicate": "Located_in",
+            "sources": [
+              "100424"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:salento",
+            "label": "Salento",
+            "sources": [
+              "100424",
+              "115840"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:san marzano di san giuseppe",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:san marzano di san giuseppe",
+            "label": "San Marzano di San Giuseppe",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:sava",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:sava",
+            "label": "Sava",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:south africa",
+            "predicate": "Located_in",
+            "sources": [
+              "117314"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:south africa",
+            "label": "South Africa",
+            "sources": [
+              "100333",
+              "115121",
+              "116509",
+              "116678",
+              "117314"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:spain",
+            "predicate": "Located_in",
+            "sources": [
+              "100424",
+              "102276",
+              "102892",
+              "102894",
+              "115859",
+              "97985"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:spain",
+            "label": "Spain",
+            "sources": [
+              "100333",
+              "100424",
+              "102276",
+              "102892",
+              "102894",
+              "115859",
+              "116678",
+              "117314",
+              "117451",
+              "97985"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:taranto",
+            "predicate": "Located_in",
+            "sources": [
+              "102276",
+              "102892",
+              "102894",
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:taranto",
+            "label": "Taranto",
+            "sources": [
+              "102276",
+              "102892",
+              "102894",
+              "105574"
+            ],
+            "type": "Location"
+          }
+        },
+        {
+          "edge": {
+            "object": "Location:torricella",
+            "predicate": "Located_in",
+            "sources": [
+              "105574"
+            ],
+            "subject": "Pest:xylella"
+          },
+          "location": {
+            "id": "Location:torricella",
+            "label": "Torricella",
+            "sources": [
+              "105574"
+            ],
+            "type": "Location"
+          }
+        }
+      ],
+      "rule": "Максимум разных Location; при равенстве выбираем минимальный node_id",
+      "selected": {
+        "id": "Pest:xylella",
+        "label": "Xylella",
+        "sources": [
+          "100424",
+          "100506",
+          "102276",
+          "102892",
+          "102894",
+          "103887",
+          "104732",
+          "105574",
+          "115232",
+          "115859",
+          "115980",
+          "116010",
+          "117314",
+          "97985",
+          "99733"
+        ],
+        "type": "Pest"
+      }
+    },
+    "plant_pests": {
+      "count": 6,
+      "results": [
+        {
+          "edge": {
+            "object": "Plant:bananas",
+            "predicate": "Found_on",
+            "sources": [
+              "117415"
+            ],
+            "subject": "Pest:focr1"
+          },
+          "pest": {
+            "id": "Pest:focr1",
+            "label": "FocR1",
+            "sources": [
+              "117415"
+            ],
+            "type": "Pest"
+          }
+        },
+        {
+          "edge": {
+            "object": "Plant:bananas",
+            "predicate": "Found_on",
+            "sources": [
+              "117415"
+            ],
+            "subject": "Pest:foctr4"
+          },
+          "pest": {
+            "id": "Pest:foctr4",
+            "label": "FocTR4",
+            "sources": [
+              "117415"
+            ],
+            "type": "Pest"
+          }
+        },
+        {
+          "edge": {
+            "object": "Plant:bananas",
+            "predicate": "Found_on",
+            "sources": [
+              "118038"
+            ],
+            "subject": "Pest:fusarium oxysporum cubense race 1"
+          },
+          "pest": {
+            "id": "Pest:fusarium oxysporum cubense race 1",
+            "label": "Fusarium oxysporum cubense Race 1",
+            "sources": [
+              "118038"
+            ],
+            "type": "Pest"
+          }
+        },
+        {
+          "edge": {
+            "object": "Plant:bananas",
+            "predicate": "Found_on",
+            "sources": [
+              "99632"
+            ],
+            "subject": "Pest:r. solanacearum"
+          },
+          "pest": {
+            "id": "Pest:r. solanacearum",
+            "label": "R. solanacearum",
+            "sources": [
+              "99632"
+            ],
+            "type": "Pest"
+          }
+        },
+        {
+          "edge": {
+            "object": "Plant:bananas",
+            "predicate": "Found_on",
+            "sources": [
+              "99632"
+            ],
+            "subject": "Pest:ralstonia solanacearum race 2"
+          },
+          "pest": {
+            "id": "Pest:ralstonia solanacearum race 2",
+            "label": "Ralstonia solanacearum Race 2",
+            "sources": [
+              "99632"
+            ],
+            "type": "Pest"
+          }
+        },
+        {
+          "edge": {
+            "object": "Plant:bananas",
+            "predicate": "Found_on",
+            "sources": [
+              "118038"
+            ],
+            "subject": "Pest:tropical race 4"
+          },
+          "pest": {
+            "id": "Pest:tropical race 4",
+            "label": "Tropical Race 4",
+            "sources": [
+              "118038"
+            ],
+            "type": "Pest"
+          }
+        }
+      ],
+      "rule": "Максимум разных Pest; Vector не считается; при равенстве минимальный node_id",
+      "selected": {
+        "id": "Plant:bananas",
+        "label": "Bananas",
+        "sources": [
+          "117415",
+          "118038",
+          "99632"
+        ],
+        "type": "Plant"
+      }
+    },
+    "two_step_paths": {
+      "common_document": [
+        {
+          "common_sources": [
+            "102433"
+          ],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Vector:citrus psyllid"
+            },
+            {
+              "object": "Plant:citrus pla",
+              "predicate": "Found_on",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:citrus psyllid",
+              "label": "citrus psyllid",
+              "sources": [
+                "102433",
+                "116192",
+                "98134",
+                "99054"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus pla",
+              "label": "citrus pla",
+              "sources": [
+                "102433"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "102433"
+          ],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Vector:citrus psyllid"
+            },
+            {
+              "object": "Plant:citrus trees",
+              "predicate": "Found_on",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:citrus psyllid",
+              "label": "citrus psyllid",
+              "sources": [
+                "102433",
+                "116192",
+                "98134",
+                "99054"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus trees",
+              "label": "citrus trees",
+              "sources": [
+                "102433",
+                "103005",
+                "98134"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "118127"
+          ],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Vector:diaphorina citri"
+            },
+            {
+              "object": "Plant:citrus",
+              "predicate": "Found_on",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:diaphorina citri",
+              "label": "Diaphorina citri",
+              "sources": [
+                "105882",
+                "118127"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus",
+              "label": "citrus",
+              "sources": [
+                "102441",
+                "105854",
+                "105882",
+                "107116",
+                "116192",
+                "116242",
+                "118127",
+                "99054"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "99433"
+          ],
+          "edges": [
+            {
+              "object": "Pest:candidatus phytoplasma solani",
+              "predicate": "Transmits",
+              "sources": [
+                "99433"
+              ],
+              "subject": "Vector:hyalesthes obsoletus"
+            },
+            {
+              "object": "Plant:grapevine",
+              "predicate": "Found_on",
+              "sources": [
+                "99433"
+              ],
+              "subject": "Pest:candidatus phytoplasma solani"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:hyalesthes obsoletus",
+              "label": "Hyalesthes obsoletus",
+              "sources": [
+                "99433"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus phytoplasma solani",
+              "label": "Candidatus Phytoplasma solani",
+              "sources": [
+                "99433"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:grapevine",
+              "label": "grapevine",
+              "sources": [
+                "106012",
+                "99433"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "100424"
+          ],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:olive",
+              "predicate": "Found_on",
+              "sources": [
+                "100424",
+                "102276",
+                "102892",
+                "102894",
+                "115232",
+                "115859",
+                "115980",
+                "97985"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:olive",
+              "label": "olive",
+              "sources": [
+                "100424",
+                "102276",
+                "102892",
+                "102894",
+                "115232",
+                "115859",
+                "115980",
+                "97985"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "100424"
+          ],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:olive trees",
+              "predicate": "Found_on",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "105574",
+                "115232",
+                "115859",
+                "116010",
+                "97985",
+                "99733"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:olive trees",
+              "label": "olive trees",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103005",
+                "103887",
+                "105574",
+                "115232",
+                "115840",
+                "115859",
+                "116010",
+                "97966",
+                "97985",
+                "99733"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "99433"
+          ],
+          "edges": [
+            {
+              "object": "Pest:candidatus phytoplasma solani",
+              "predicate": "Transmits",
+              "sources": [
+                "99433"
+              ],
+              "subject": "Vector:reptalus panzeri"
+            },
+            {
+              "object": "Plant:grapevine",
+              "predicate": "Found_on",
+              "sources": [
+                "99433"
+              ],
+              "subject": "Pest:candidatus phytoplasma solani"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:reptalus panzeri",
+              "label": "Reptalus panzeri",
+              "sources": [
+                "99433"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus phytoplasma solani",
+              "label": "Candidatus Phytoplasma solani",
+              "sources": [
+                "99433"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:grapevine",
+              "label": "grapevine",
+              "sources": [
+                "106012",
+                "99433"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "97985"
+          ],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:olive",
+              "predicate": "Found_on",
+              "sources": [
+                "100424",
+                "102276",
+                "102892",
+                "102894",
+                "115232",
+                "115859",
+                "115980",
+                "97985"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:olive",
+              "label": "olive",
+              "sources": [
+                "100424",
+                "102276",
+                "102892",
+                "102894",
+                "115232",
+                "115859",
+                "115980",
+                "97985"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "97985"
+          ],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:olive trees",
+              "predicate": "Found_on",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "105574",
+                "115232",
+                "115859",
+                "116010",
+                "97985",
+                "99733"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:olive trees",
+              "label": "olive trees",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103005",
+                "103887",
+                "105574",
+                "115232",
+                "115840",
+                "115859",
+                "116010",
+                "97966",
+                "97985",
+                "99733"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        },
+        {
+          "common_sources": [
+            "118127"
+          ],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Vector:trioza erytreae"
+            },
+            {
+              "object": "Plant:citrus",
+              "predicate": "Found_on",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:trioza erytreae",
+              "label": "Trioza erytreae",
+              "sources": [
+                "118127"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus",
+              "label": "citrus",
+              "sources": [
+                "102441",
+                "105854",
+                "105882",
+                "107116",
+                "116192",
+                "116242",
+                "118127",
+                "99054"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "common_document"
+        }
+      ],
+      "count": 29,
+      "disjoint_documents": [
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Vector:citrus psyllid"
+            },
+            {
+              "object": "Plant:citrus",
+              "predicate": "Found_on",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:citrus psyllid",
+              "label": "citrus psyllid",
+              "sources": [
+                "102433",
+                "116192",
+                "98134",
+                "99054"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus",
+              "label": "citrus",
+              "sources": [
+                "102441",
+                "105854",
+                "105882",
+                "107116",
+                "116192",
+                "116242",
+                "118127",
+                "99054"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Vector:diaphorina citri"
+            },
+            {
+              "object": "Plant:citrus pla",
+              "predicate": "Found_on",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:diaphorina citri",
+              "label": "Diaphorina citri",
+              "sources": [
+                "105882",
+                "118127"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus pla",
+              "label": "citrus pla",
+              "sources": [
+                "102433"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Vector:diaphorina citri"
+            },
+            {
+              "object": "Plant:citrus trees",
+              "predicate": "Found_on",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:diaphorina citri",
+              "label": "Diaphorina citri",
+              "sources": [
+                "105882",
+                "118127"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus trees",
+              "label": "citrus trees",
+              "sources": [
+                "102433",
+                "103005",
+                "98134"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:almond tree",
+              "predicate": "Found_on",
+              "sources": [
+                "102276",
+                "102892",
+                "102894"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:almond tree",
+              "label": "almond tree",
+              "sources": [
+                "102276",
+                "102892",
+                "102894"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:almond trees",
+              "predicate": "Found_on",
+              "sources": [
+                "103887"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:almond trees",
+              "label": "almond trees",
+              "sources": [
+                "103887",
+                "104725",
+                "104752"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:myrtle",
+              "predicate": "Found_on",
+              "sources": [
+                "100506",
+                "99733"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:myrtle",
+              "label": "myrtle",
+              "sources": [
+                "100506",
+                "99733"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:myrtle plant",
+              "predicate": "Found_on",
+              "sources": [
+                "99733"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:myrtle plant",
+              "label": "myrtle plant",
+              "sources": [
+                "99733"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:olive-growing",
+              "predicate": "Found_on",
+              "sources": [
+                "105574"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:olive-growing",
+              "label": "olive-growing",
+              "sources": [
+                "105574"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:polygala mirtifolia",
+              "predicate": "Found_on",
+              "sources": [
+                "102276",
+                "102892",
+                "102894"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:polygala mirtifolia",
+              "label": "Polygala Mirtifolia",
+              "sources": [
+                "102276",
+                "102892",
+                "102894"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "100424"
+              ],
+              "subject": "Vector:philaenus spumarius"
+            },
+            {
+              "object": "Plant:rosemary",
+              "predicate": "Found_on",
+              "sources": [
+                "100506",
+                "99733"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:philaenus spumarius",
+              "label": "Philaenus Spumarius",
+              "sources": [
+                "100424"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:rosemary",
+              "label": "rosemary",
+              "sources": [
+                "100506",
+                "99733"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:almond tree",
+              "predicate": "Found_on",
+              "sources": [
+                "102276",
+                "102892",
+                "102894"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:almond tree",
+              "label": "almond tree",
+              "sources": [
+                "102276",
+                "102892",
+                "102894"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:almond trees",
+              "predicate": "Found_on",
+              "sources": [
+                "103887"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:almond trees",
+              "label": "almond trees",
+              "sources": [
+                "103887",
+                "104725",
+                "104752"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:myrtle",
+              "predicate": "Found_on",
+              "sources": [
+                "100506",
+                "99733"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:myrtle",
+              "label": "myrtle",
+              "sources": [
+                "100506",
+                "99733"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:myrtle plant",
+              "predicate": "Found_on",
+              "sources": [
+                "99733"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:myrtle plant",
+              "label": "myrtle plant",
+              "sources": [
+                "99733"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:olive-growing",
+              "predicate": "Found_on",
+              "sources": [
+                "105574"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:olive-growing",
+              "label": "olive-growing",
+              "sources": [
+                "105574"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:polygala mirtifolia",
+              "predicate": "Found_on",
+              "sources": [
+                "102276",
+                "102892",
+                "102894"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:polygala mirtifolia",
+              "label": "Polygala Mirtifolia",
+              "sources": [
+                "102276",
+                "102892",
+                "102894"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:xylella",
+              "predicate": "Transmits",
+              "sources": [
+                "97985"
+              ],
+              "subject": "Vector:spittoon"
+            },
+            {
+              "object": "Plant:rosemary",
+              "predicate": "Found_on",
+              "sources": [
+                "100506",
+                "99733"
+              ],
+              "subject": "Pest:xylella"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:spittoon",
+              "label": "spittoon",
+              "sources": [
+                "97985"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:xylella",
+              "label": "Xylella",
+              "sources": [
+                "100424",
+                "100506",
+                "102276",
+                "102892",
+                "102894",
+                "103887",
+                "104732",
+                "105574",
+                "115232",
+                "115859",
+                "115980",
+                "116010",
+                "117314",
+                "97985",
+                "99733"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:rosemary",
+              "label": "rosemary",
+              "sources": [
+                "100506",
+                "99733"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Vector:trioza erytreae"
+            },
+            {
+              "object": "Plant:citrus pla",
+              "predicate": "Found_on",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:trioza erytreae",
+              "label": "Trioza erytreae",
+              "sources": [
+                "118127"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus pla",
+              "label": "citrus pla",
+              "sources": [
+                "102433"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        },
+        {
+          "common_sources": [],
+          "edges": [
+            {
+              "object": "Pest:candidatus liberibacter asiaticus",
+              "predicate": "Transmits",
+              "sources": [
+                "118127"
+              ],
+              "subject": "Vector:trioza erytreae"
+            },
+            {
+              "object": "Plant:citrus trees",
+              "predicate": "Found_on",
+              "sources": [
+                "102433"
+              ],
+              "subject": "Pest:candidatus liberibacter asiaticus"
+            }
+          ],
+          "nodes": [
+            {
+              "id": "Vector:trioza erytreae",
+              "label": "Trioza erytreae",
+              "sources": [
+                "118127"
+              ],
+              "type": "Vector"
+            },
+            {
+              "id": "Pest:candidatus liberibacter asiaticus",
+              "label": "Candidatus Liberibacter asiaticus",
+              "sources": [
+                "102433",
+                "118127"
+              ],
+              "type": "Pest"
+            },
+            {
+              "id": "Plant:citrus trees",
+              "label": "citrus trees",
+              "sources": [
+                "102433",
+                "103005",
+                "98134"
+              ],
+              "type": "Plant"
+            }
+          ],
+          "source_mode": "disjoint_documents"
+        }
+      ],
+      "interpretation": "Путь соединяет предсказанные рёбра. Он не доказывает новую биологическую связь.",
+      "path": "Vector → Transmits → Pest → Found_on → Plant"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">116554</data>
+<node id="Pest:bactrocera dorsalis">
+  <data key="d1">Pest</data>
+  <data key="d2">Bactrocera dorsalis</data>
+</node>
+<node id="Location:asia">
+  <data key="d1">Location</data>
+  <data key="d2">Asia</data>
+</node>
+<node id="Location:reunion">
+  <data key="d1">Location</data>
+  <data key="d2">Reunion</data>
+</node>
+<node id="Date:in 2018">
+  <data key="d1">Date</data>
+  <data key="d2">In 2018</data>
+</node>
+<node id="Disease:greening virus">
+  <data key="d1">Disease</data>
+  <data key="d2">greening virus</data>
+</node>
+<node id="Date:this tuesday">
+  <data key="d1">Date</data>
+  <data key="d2">This Tuesday</data>
+</node>
+<node id="Date:between 2017 and 2019">
+  <data key="d1">Date</data>
+  <data key="d2">between 2017 and 2019</data>
+</node>
+<edge source="Pest:bactrocera dorsalis" target="Location:asia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116554"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Location:reunion" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116554"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Date:in 2018" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116554"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Date:between 2017 and 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116554"]</data>
+</edge>
+<edge source="Disease:greening virus" target="Date:this tuesday" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116554"]</data>
+</edge>
+</graph></graphml>

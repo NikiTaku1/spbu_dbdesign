@@ -1,0 +1,54 @@
+# Локальные файлы macOS, Windows и редакторов.
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+~$*
+.~lock.*#
+*~
+*.tmp
+
+# Окружения Python и служебные кэши.
+.venv/
+.venv-*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Контрольные копии Jupyter; сами ноутбуки сохраняем в Git.
+.ipynb_checkpoints/
+
+# Локальные настройки и учётные данные.
+.env
+.env.*
+!.env.example
+!.env.template
+kaggle.json
+.kaggle/
+
+# Скачанные данные; README, лицензия и CSV с URL остаются доступными.
+/PestCLEF-2026_*.json
+/EPOP_documents/**/*.txt
+/pest-clef-2026*.zip
+/EPOP_documents*.zip
+
+# Кэши извлечения и обученные модели.
+/cache/
+*.pkl
+*.pickle
+*.joblib
+
+# Старые результаты запусков. В outputs/fixed сохраняем подтверждённый
+# CSV, метрики, происхождение оценок, GraphML и материалы анализа.
+/outputs/*
+!/outputs/fixed/
+/submission.csv
+
+# Уже отслеживаемые файлы эти правила не исключают из индекса Git.
+# README.md, requirements.txt, основной ноутбук, PPTX и PDF не игнорируются.

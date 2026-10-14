@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">99433</data>
+<node id="Vector:hyalesthes obsoletus">
+  <data key="d1">Vector</data>
+  <data key="d2">Hyalesthes obsoletus</data>
+</node>
+<node id="Pest:candidatus phytoplasma solani">
+  <data key="d1">Pest</data>
+  <data key="d2">Candidatus Phytoplasma solani</data>
+</node>
+<node id="Disease:bois noir">
+  <data key="d1">Disease</data>
+  <data key="d2">Bois noir</data>
+</node>
+<node id="Plant:grapevine">
+  <data key="d1">Plant</data>
+  <data key="d2">grapevine</data>
+</node>
+<node id="Pest:phytoplasmas">
+  <data key="d1">Pest</data>
+  <data key="d2">phytoplasmas</data>
+</node>
+<node id="Vector:reptalus panzeri">
+  <data key="d1">Vector</data>
+  <data key="d2">Reptalus panzeri</data>
+</node>
+<node id="Location:european">
+  <data key="d1">Location</data>
+  <data key="d2">European</data>
+</node>
+<node id="Pest:flavescence dorée phytoplasma">
+  <data key="d1">Pest</data>
+  <data key="d2">Flavescence dorée phytoplasma</data>
+</node>
+<edge source="Vector:hyalesthes obsoletus" target="Pest:candidatus phytoplasma solani" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Vector:hyalesthes obsoletus" target="Plant:grapevine" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Pest:candidatus phytoplasma solani" target="Disease:bois noir" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Pest:candidatus phytoplasma solani" target="Plant:grapevine" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Disease:bois noir" target="Plant:grapevine" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Plant:grapevine" target="Location:european" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Pest:phytoplasmas" target="Plant:grapevine" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Vector:reptalus panzeri" target="Pest:candidatus phytoplasma solani" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Vector:reptalus panzeri" target="Disease:bois noir" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Vector:reptalus panzeri" target="Plant:grapevine" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Pest:flavescence dorée phytoplasma" target="Plant:grapevine" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["99433"]</data>
+</edge>
+<edge source="Pest:flavescence dorée phytoplasma" target="Location:european" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99433"]</data>
+</edge>
+</graph></graphml>

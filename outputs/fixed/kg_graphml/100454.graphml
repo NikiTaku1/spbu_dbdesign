@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">100454</data>
+<node id="Pest:japanese beetle">
+  <data key="d1">Pest</data>
+  <data key="d2">Japanese beetle</data>
+</node>
+<node id="Location:asia">
+  <data key="d1">Location</data>
+  <data key="d2">Asia</data>
+</node>
+<node id="Location:southern europe">
+  <data key="d1">Location</data>
+  <data key="d2">southern Europe</data>
+</node>
+<node id="Location:freiburg">
+  <data key="d1">Location</data>
+  <data key="d2">Freiburg</data>
+</node>
+<node id="Location:italy">
+  <data key="d1">Location</data>
+  <data key="d2">Italy</data>
+</node>
+<node id="Dissemination_pathway:freight">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">freight</data>
+</node>
+<node id="Location:northern europe">
+  <data key="d1">Location</data>
+  <data key="d2">northern Europe</data>
+</node>
+<node id="Location:alsace">
+  <data key="d1">Location</data>
+  <data key="d2">Alsace</data>
+</node>
+<node id="Plant:oaks">
+  <data key="d1">Plant</data>
+  <data key="d2">oaks</data>
+</node>
+<node id="Plant:tomatoes">
+  <data key="d1">Plant</data>
+  <data key="d2">tomatoes</data>
+</node>
+<node id="Date:in the fall of 2021">
+  <data key="d1">Date</data>
+  <data key="d2">In the fall of 2021</data>
+</node>
+<node id="Date:last year">
+  <data key="d1">Date</data>
+  <data key="d2">last year</data>
+</node>
+<edge source="Pest:japanese beetle" target="Location:asia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:southern europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:freiburg" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Dissemination_pathway:freight" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Dissemination_pathway:freight" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:northern europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:alsace" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Plant:oaks" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Plant:tomatoes" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:in the fall of 2021" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:last year" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["100454"]</data>
+</edge>
+</graph></graphml>

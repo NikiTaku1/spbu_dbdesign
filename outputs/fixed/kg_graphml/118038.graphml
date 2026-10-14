@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">118038</data>
+<node id="Pest:tropical race 4">
+  <data key="d1">Pest</data>
+  <data key="d2">Tropical Race 4</data>
+</node>
+<node id="Disease:panama disease">
+  <data key="d1">Disease</data>
+  <data key="d2">Panama disease</data>
+</node>
+<node id="Pest:fusarium oxysporum cubense race 1">
+  <data key="d1">Pest</data>
+  <data key="d2">Fusarium oxysporum cubense Race 1</data>
+</node>
+<node id="Plant:cavendish bananas">
+  <data key="d1">Plant</data>
+  <data key="d2">Cavendish bananas</data>
+</node>
+<node id="Plant:bananas">
+  <data key="d1">Plant</data>
+  <data key="d2">Bananas</data>
+</node>
+<node id="Date:in the 1950s">
+  <data key="d1">Date</data>
+  <data key="d2">In the 1950s</data>
+</node>
+<edge source="Pest:tropical race 4" target="Disease:panama disease" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Pest:tropical race 4" target="Plant:cavendish bananas" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Pest:tropical race 4" target="Plant:bananas" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Plant:cavendish bananas" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Plant:bananas" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Date:in the 1950s" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum cubense race 1" target="Disease:panama disease" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum cubense race 1" target="Date:in the 1950s" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum cubense race 1" target="Plant:bananas" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118038"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum cubense race 1" target="Plant:cavendish bananas" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["118038"]</data>
+</edge>
+</graph></graphml>

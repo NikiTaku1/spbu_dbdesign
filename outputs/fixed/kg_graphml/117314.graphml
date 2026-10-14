@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">117314</data>
+<node id="Pest:phyllosticta citricarpa">
+  <data key="d1">Pest</data>
+  <data key="d2">Phyllosticta citricarpa</data>
+</node>
+<node id="Location:south africa">
+  <data key="d1">Location</data>
+  <data key="d2">South Africa</data>
+</node>
+<node id="Date:in september">
+  <data key="d1">Date</data>
+  <data key="d2">in September</data>
+</node>
+<node id="Dissemination_pathway:citrus">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">citrus</data>
+</node>
+<node id="Location:spain">
+  <data key="d1">Location</data>
+  <data key="d2">Spain</data>
+</node>
+<node id="Dissemination_pathway:orange exports">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">orange exports</data>
+</node>
+<node id="Plant:citrus black spot">
+  <data key="d1">Plant</data>
+  <data key="d2">Citrus Black Spot</data>
+</node>
+<node id="Pest:xylella">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella</data>
+</node>
+<node id="Location:eu">
+  <data key="d1">Location</data>
+  <data key="d2">EU</data>
+</node>
+<node id="Date:this year">
+  <data key="d1">Date</data>
+  <data key="d2">this year</data>
+</node>
+<edge source="Pest:phyllosticta citricarpa" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Date:in september" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Plant:citrus black spot" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Dissemination_pathway:citrus" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Date:this year" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus" target="Location:spain" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Dissemination_pathway:orange exports" target="Date:in september" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Dissemination_pathway:orange exports" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117314"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:eu" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117314"]</data>
+</edge>
+</graph></graphml>

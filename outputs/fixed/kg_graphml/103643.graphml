@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">103643</data>
+<node id="Pest:japanese beetle">
+  <data key="d1">Pest</data>
+  <data key="d2">Japanese beetle</data>
+</node>
+<node id="Location:freiburg area">
+  <data key="d1">Location</data>
+  <data key="d2">Freiburg area</data>
+</node>
+<node id="Location:baden-württemberg">
+  <data key="d1">Location</data>
+  <data key="d2">Baden-Württemberg</data>
+</node>
+<node id="Location:asia">
+  <data key="d1">Location</data>
+  <data key="d2">Asia</data>
+</node>
+<node id="Location:weil am rhein">
+  <data key="d1">Location</data>
+  <data key="d2">Weil am Rhein</data>
+</node>
+<node id="Date:last autumn">
+  <data key="d1">Date</data>
+  <data key="d2">last autumn</data>
+</node>
+<node id="Date:in july">
+  <data key="d1">Date</data>
+  <data key="d2">in July</data>
+</node>
+<node id="Plant:vineyards">
+  <data key="d1">Plant</data>
+  <data key="d2">vineyards</data>
+</node>
+<node id="Dissemination_pathway:freight">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">freight</data>
+</node>
+<node id="Location:europe">
+  <data key="d1">Location</data>
+  <data key="d2">Europe</data>
+</node>
+<node id="Date:for the first time">
+  <data key="d1">Date</data>
+  <data key="d2">for the first time</data>
+</node>
+<edge source="Pest:japanese beetle" target="Location:freiburg area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:baden-württemberg" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:asia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:weil am rhein" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:last autumn" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:in july" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Plant:vineyards" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Dissemination_pathway:freight" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Dissemination_pathway:freight" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:for the first time" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Plant:vineyards" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103643"]</data>
+</edge>
+<edge source="Dissemination_pathway:freight" target="Location:freiburg area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103643"]</data>
+</edge>
+</graph></graphml>

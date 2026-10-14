@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">106417</data>
+<node id="Pest:tobrfv">
+  <data key="d1">Pest</data>
+  <data key="d2">ToBRFV</data>
+</node>
+<node id="Plant:tomato">
+  <data key="d1">Plant</data>
+  <data key="d2">tomato</data>
+</node>
+<node id="Pest:tobamovirus">
+  <data key="d1">Pest</data>
+  <data key="d2">Tobamovirus</data>
+</node>
+<node id="Dissemination_pathway:seeds">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">seeds</data>
+</node>
+<node id="Date:for the first time">
+  <data key="d1">Date</data>
+  <data key="d2">for the first time</data>
+</node>
+<node id="Date:years ago">
+  <data key="d1">Date</data>
+  <data key="d2">years ago</data>
+</node>
+<node id="Date:for the first time only a few years ago">
+  <data key="d1">Date</data>
+  <data key="d2">for the first time only a few years ago</data>
+</node>
+<node id="Date:2022">
+  <data key="d1">Date</data>
+  <data key="d2">2022</data>
+</node>
+<edge source="Pest:tobrfv" target="Plant:tomato" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Dissemination_pathway:seeds" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Dissemination_pathway:seeds" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:for the first time" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:years ago" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:for the first time only a few years ago" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106417"]</data>
+</edge>
+<edge source="Plant:tomato" target="Date:for the first time" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106417"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Plant:tomato" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106417"]</data>
+</edge>
+</graph></graphml>

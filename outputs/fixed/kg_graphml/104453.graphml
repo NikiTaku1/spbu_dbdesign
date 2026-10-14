@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">104453</data>
+<node id="Pest:whiteflies">
+  <data key="d1">Pest</data>
+  <data key="d2">whiteflies</data>
+</node>
+<node id="Plant:cotton">
+  <data key="d1">Plant</data>
+  <data key="d2">cotton</data>
+</node>
+<node id="Plant:beans">
+  <data key="d1">Plant</data>
+  <data key="d2">beans</data>
+</node>
+<node id="Plant:soybeans">
+  <data key="d1">Plant</data>
+  <data key="d2">soybeans</data>
+</node>
+<node id="Plant:tomato crops">
+  <data key="d1">Plant</data>
+  <data key="d2">tomato crops</data>
+</node>
+<node id="Pest:spodoptera frugiperda">
+  <data key="d1">Pest</data>
+  <data key="d2">Spodoptera frugiperda</data>
+</node>
+<node id="Pest:thrips">
+  <data key="d1">Pest</data>
+  <data key="d2">thrips</data>
+</node>
+<edge source="Pest:whiteflies" target="Plant:cotton" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104453"]</data>
+</edge>
+<edge source="Pest:whiteflies" target="Plant:beans" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104453"]</data>
+</edge>
+<edge source="Pest:whiteflies" target="Plant:soybeans" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104453"]</data>
+</edge>
+<edge source="Pest:whiteflies" target="Plant:tomato crops" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104453"]</data>
+</edge>
+<edge source="Pest:spodoptera frugiperda" target="Plant:cotton" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104453"]</data>
+</edge>
+<edge source="Pest:thrips" target="Plant:cotton" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104453"]</data>
+</edge>
+<edge source="Pest:thrips" target="Plant:beans" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104453"]</data>
+</edge>
+</graph></graphml>

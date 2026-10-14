@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">107116</data>
+<node id="Disease:banana disease">
+  <data key="d1">Disease</data>
+  <data key="d2">banana disease</data>
+</node>
+<node id="Location:africa">
+  <data key="d1">Location</data>
+  <data key="d2">Africa</data>
+</node>
+<node id="Plant:citrus">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus</data>
+</node>
+<node id="Location:united states">
+  <data key="d1">Location</data>
+  <data key="d2">United States</data>
+</node>
+<node id="Plant:banana">
+  <data key="d1">Plant</data>
+  <data key="d2">banana</data>
+</node>
+<node id="Location:mozambique">
+  <data key="d1">Location</data>
+  <data key="d2">Mozambique</data>
+</node>
+<node id="Pest:foc r4t">
+  <data key="d1">Pest</data>
+  <data key="d2">Foc R4T</data>
+</node>
+<node id="Disease:brown rot">
+  <data key="d1">Disease</data>
+  <data key="d2">brown rot</data>
+</node>
+<node id="Location:china">
+  <data key="d1">Location</data>
+  <data key="d2">China</data>
+</node>
+<node id="Plant:navel orange">
+  <data key="d1">Plant</data>
+  <data key="d2">navel orange</data>
+</node>
+<node id="Pest:phytophthora">
+  <data key="d1">Pest</data>
+  <data key="d2">Phytophthora</data>
+</node>
+<node id="Dissemination_pathway:movement of plantain planting material">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">movement of plantain planting material</data>
+</node>
+<node id="Date:for the first time">
+  <data key="d1">Date</data>
+  <data key="d2">For the first time</data>
+</node>
+<node id="Location:brazil">
+  <data key="d1">Location</data>
+  <data key="d2">Brazil</data>
+</node>
+<edge source="Disease:banana disease" target="Location:africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Disease:banana disease" target="Plant:banana" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:united states" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Plant:citrus" target="Date:for the first time" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:mozambique" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Pest:foc r4t" target="Plant:banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Pest:foc r4t" target="Dissemination_pathway:movement of plantain planting material" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Disease:brown rot" target="Location:china" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Disease:brown rot" target="Plant:navel orange" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Disease:brown rot" target="Location:brazil" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Plant:navel orange" target="Location:china" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Pest:phytophthora" target="Location:china" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Pest:phytophthora" target="Disease:brown rot" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["107116"]</data>
+</edge>
+<edge source="Pest:phytophthora" target="Plant:navel orange" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["107116"]</data>
+</edge>
+</graph></graphml>

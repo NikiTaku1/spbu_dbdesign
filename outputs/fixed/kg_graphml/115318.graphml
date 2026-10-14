@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">115318</data>
+<node id="Pest:oriental fruit fly">
+  <data key="d1">Pest</data>
+  <data key="d2">Oriental fruit fly</data>
+</node>
+<node id="Location:fountain valley area">
+  <data key="d1">Location</data>
+  <data key="d2">Fountain Valley area</data>
+</node>
+<node id="Location:california">
+  <data key="d1">Location</data>
+  <data key="d2">California</data>
+</node>
+<node id="Location:orange county">
+  <data key="d1">Location</data>
+  <data key="d2">Orange County</data>
+</node>
+<node id="Location:u.s. department">
+  <data key="d1">Location</data>
+  <data key="d2">U.S. Department</data>
+</node>
+<edge source="Pest:oriental fruit fly" target="Location:fountain valley area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115318"]</data>
+</edge>
+<edge source="Pest:oriental fruit fly" target="Location:california" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115318"]</data>
+</edge>
+<edge source="Pest:oriental fruit fly" target="Location:orange county" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115318"]</data>
+</edge>
+<edge source="Pest:oriental fruit fly" target="Location:u.s. department" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115318"]</data>
+</edge>
+</graph></graphml>

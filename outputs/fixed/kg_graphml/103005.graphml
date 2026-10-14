@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">103005</data>
+<node id="Pest:xylella fastidiosa">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella fastidiosa</data>
+</node>
+<node id="Plant:olive trees">
+  <data key="d1">Plant</data>
+  <data key="d2">olive trees</data>
+</node>
+<node id="Location:france">
+  <data key="d1">Location</data>
+  <data key="d2">France</data>
+</node>
+<node id="Location:italy">
+  <data key="d1">Location</data>
+  <data key="d2">Italy</data>
+</node>
+<node id="Date:to date">
+  <data key="d1">Date</data>
+  <data key="d2">To date</data>
+</node>
+<node id="Pest:asian capricorn">
+  <data key="d1">Pest</data>
+  <data key="d2">Asian Capricorn</data>
+</node>
+<node id="Location:loiret">
+  <data key="d1">Location</data>
+  <data key="d2">Loiret</data>
+</node>
+<node id="Plant:citrus trees">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus trees</data>
+</node>
+<node id="Location:europe">
+  <data key="d1">Location</data>
+  <data key="d2">Europe</data>
+</node>
+<node id="Pest:popillia japonica">
+  <data key="d1">Pest</data>
+  <data key="d2">Popillia japonica</data>
+</node>
+<node id="Location:japan">
+  <data key="d1">Location</data>
+  <data key="d2">Japan</data>
+</node>
+<node id="Location:french territory">
+  <data key="d1">Location</data>
+  <data key="d2">French territory</data>
+</node>
+<node id="Pest:xylella fastidiosa xylella fastidiosa">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella fastidiosa Xylella fastidiosa</data>
+</node>
+<node id="Plant:vines">
+  <data key="d1">Plant</data>
+  <data key="d2">vines</data>
+</node>
+<node id="Plant:a. chinensis">
+  <data key="d1">Plant</data>
+  <data key="d2">A. chinensis</data>
+</node>
+<node id="Location:asia">
+  <data key="d1">Location</data>
+  <data key="d2">Asia</data>
+</node>
+<node id="Plant:polygala myrtifolia">
+  <data key="d1">Plant</data>
+  <data key="d2">Polygala myrtifolia</data>
+</node>
+<node id="Location:south corsica">
+  <data key="d1">Location</data>
+  <data key="d2">South Corsica</data>
+</node>
+<edge source="Pest:xylella fastidiosa" target="Plant:olive trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:france" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:to date" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:asian capricorn" target="Location:loiret" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:asian capricorn" target="Location:france" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:popillia japonica" target="Location:japan" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:popillia japonica" target="Location:french territory" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa xylella fastidiosa" target="Location:france" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Plant:vines" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Plant:vines" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Plant:a. chinensis" target="Location:asia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+<edge source="Plant:polygala myrtifolia" target="Location:south corsica" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103005"]</data>
+</edge>
+</graph></graphml>

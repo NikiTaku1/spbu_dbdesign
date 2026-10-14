@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">107268</data>
+<node id="Pest:tr4">
+  <data key="d1">Pest</data>
+  <data key="d2">TR4</data>
+</node>
+<node id="Location:mozambique">
+  <data key="d1">Location</data>
+  <data key="d2">Mozambique</data>
+</node>
+<node id="Plant:banana">
+  <data key="d1">Plant</data>
+  <data key="d2">banana</data>
+</node>
+<node id="Disease:fusarium wilt">
+  <data key="d1">Disease</data>
+  <data key="d2">Fusarium wilt</data>
+</node>
+<node id="Location:africa">
+  <data key="d1">Location</data>
+  <data key="d2">Africa</data>
+</node>
+<node id="Location:latin america">
+  <data key="d1">Location</data>
+  <data key="d2">Latin America</data>
+</node>
+<node id="Plant:cavendish banana">
+  <data key="d1">Plant</data>
+  <data key="d2">Cavendish banana</data>
+</node>
+<node id="Disease:banana disease">
+  <data key="d1">Disease</data>
+  <data key="d2">banana disease</data>
+</node>
+<node id="Location:asia">
+  <data key="d1">Location</data>
+  <data key="d2">Asia</data>
+</node>
+<node id="Location:south america">
+  <data key="d1">Location</data>
+  <data key="d2">South America</data>
+</node>
+<node id="Date:over the past decade">
+  <data key="d1">Date</data>
+  <data key="d2">over the past decade</data>
+</node>
+<node id="Date:in 2013">
+  <data key="d1">Date</data>
+  <data key="d2">in 2013</data>
+</node>
+<node id="Dissemination_pathway:water">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">water</data>
+</node>
+<node id="Dissemination_pathway:humans">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">humans</data>
+</node>
+<node id="Dissemination_pathway:cars">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">cars</data>
+</node>
+<node id="Date:almost ten years after">
+  <data key="d1">Date</data>
+  <data key="d2">almost ten years after</data>
+</node>
+<node id="Location:ruanda">
+  <data key="d1">Location</data>
+  <data key="d2">Ruanda</data>
+</node>
+<node id="Date:forties of the last century">
+  <data key="d1">Date</data>
+  <data key="d2">forties of the last century</data>
+</node>
+<node id="Location:tanzania">
+  <data key="d1">Location</data>
+  <data key="d2">Tanzania</data>
+</node>
+<node id="Dissemination_pathway:tools">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">tools</data>
+</node>
+<node id="Location:malawi">
+  <data key="d1">Location</data>
+  <data key="d2">Malawi</data>
+</node>
+<node id="Location:uganda">
+  <data key="d1">Location</data>
+  <data key="d2">Uganda</data>
+</node>
+<edge source="Pest:tr4" target="Location:mozambique" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Plant:banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Disease:fusarium wilt" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Plant:cavendish banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:south america" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:asia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Dissemination_pathway:water" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Dissemination_pathway:humans" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Dissemination_pathway:cars" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Date:almost ten years after" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Date:over the past decade" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Dissemination_pathway:tools" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:mozambique" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:latin america" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:mozambique" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:latin america" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:asia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:south america" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Plant:banana" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Date:over the past decade" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Date:in 2013" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Date:forties of the last century" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:ruanda" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:tanzania" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:malawi" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:uganda" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:banana disease" target="Location:africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["107268"]</data>
+</edge>
+<edge source="Disease:banana disease" target="Plant:banana" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["107268"]</data>
+</edge>
+</graph></graphml>
