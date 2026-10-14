@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">105286</data>
+<node id="Pest:xylella fastidiosa">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella fastidiosa</data>
+</node>
+<node id="Location:france">
+  <data key="d1">Location</data>
+  <data key="d2">France</data>
+</node>
+<node id="Date:06/09/2022">
+  <data key="d1">Date</data>
+  <data key="d2">06/09/2022</data>
+</node>
+<node id="Date:on 31 august">
+  <data key="d1">Date</data>
+  <data key="d2">on 31 August</data>
+</node>
+<node id="Date:on 31 august. 06/09/2022">
+  <data key="d1">Date</data>
+  <data key="d2">on 31 August. 06/09/2022</data>
+</node>
+<node id="Location:agence europe">
+  <data key="d1">Location</data>
+  <data key="d2">Agence Europe</data>
+</node>
+<edge source="Pest:xylella fastidiosa" target="Location:france" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105286"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:06/09/2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105286"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:on 31 august" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105286"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:on 31 august. 06/09/2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105286"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:agence europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105286"]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">104657</data>
+<node id="Pest:asian long-horned beetle">
+  <data key="d1">Pest</data>
+  <data key="d2">Asian long-horned beetle</data>
+</node>
+<node id="Location:zell">
+  <data key="d1">Location</data>
+  <data key="d2">Zell</data>
+</node>
+<node id="Location:switzerland">
+  <data key="d1">Location</data>
+  <data key="d2">Switzerland</data>
+</node>
+<node id="Location:lucerne">
+  <data key="d1">Location</data>
+  <data key="d2">Lucerne</data>
+</node>
+<node id="Location:from east asia">
+  <data key="d1">Location</data>
+  <data key="d2">from East Asia</data>
+</node>
+<node id="Location:europe">
+  <data key="d1">Location</data>
+  <data key="d2">Europe</data>
+</node>
+<node id="Date:in 2011">
+  <data key="d1">Date</data>
+  <data key="d2">in 2011</data>
+</node>
+<node id="Date:in 2019">
+  <data key="d1">Date</data>
+  <data key="d2">in 2019</data>
+</node>
+<node id="Date:first time">
+  <data key="d1">Date</data>
+  <data key="d2">first time</data>
+</node>
+<node id="Plant:birch">
+  <data key="d1">Plant</data>
+  <data key="d2">birch</data>
+</node>
+<node id="Plant:plane tree">
+  <data key="d1">Plant</data>
+  <data key="d2">plane tree</data>
+</node>
+<node id="Plant:maple">
+  <data key="d1">Plant</data>
+  <data key="d2">maple</data>
+</node>
+<node id="Plant:beech">
+  <data key="d1">Plant</data>
+  <data key="d2">beech</data>
+</node>
+<edge source="Pest:asian long-horned beetle" target="Location:zell" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Location:switzerland" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Location:lucerne" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Location:from east asia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Date:in 2011" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Date:in 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Date:first time" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Plant:birch" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Plant:plane tree" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Plant:maple" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Plant:beech" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104657"]</data>
+</edge>
+</graph></graphml>

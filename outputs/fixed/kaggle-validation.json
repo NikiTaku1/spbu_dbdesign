@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-13",
+  "evidence": "user-provided Kaggle submission screenshot at 04:46:50 Europe/Moscow",
+  "submission_file": "/Users/mansurzainullin/MyCode/fdd/spbu_dbdesign/outputs/fixed/submission_candidate.csv",
+  "sha256": "16e56a8c69001a1ce659fb5a2267d3b11bc17c093071353436733c832b0b8215",
+  "baseline_public": 0.38757,
+  "public_score": 0.5789,
+  "private_score": 0.58085,
+  "public_delta": 0.19133,
+  "public_relative_improvement_percent": 49.36656603968315,
+  "status": "confirmed_by_user_screenshot",
+  "submission_status": "Complete (after deadline)",
+  "baseline_private_score": null
+}

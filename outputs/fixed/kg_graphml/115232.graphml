@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">115232</data>
+<node id="Plant:olive trees">
+  <data key="d1">Plant</data>
+  <data key="d2">olive trees</data>
+</node>
+<node id="Location:fasano">
+  <data key="d1">Location</data>
+  <data key="d2">Fasano</data>
+</node>
+<node id="Pest:xylella">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella</data>
+</node>
+<node id="Location:bari area">
+  <data key="d1">Location</data>
+  <data key="d2">Bari area</data>
+</node>
+<node id="Location:martina franca">
+  <data key="d1">Location</data>
+  <data key="d2">Martina Franca</data>
+</node>
+<node id="Location:locorotondo">
+  <data key="d1">Location</data>
+  <data key="d2">Locorotondo</data>
+</node>
+<node id="Plant:olive">
+  <data key="d1">Plant</data>
+  <data key="d2">olive</data>
+</node>
+<node id="Location:polignano">
+  <data key="d1">Location</data>
+  <data key="d2">Polignano</data>
+</node>
+<node id="Location:apulian">
+  <data key="d1">Location</data>
+  <data key="d2">Apulian</data>
+</node>
+<edge source="Plant:olive trees" target="Location:fasano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:martina franca" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:locorotondo" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:polignano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:apulian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:bari area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:bari area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:martina franca" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:locorotondo" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:fasano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:polignano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:apulian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:apulian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115232"]</data>
+</edge>
+</graph></graphml>

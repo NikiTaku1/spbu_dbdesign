@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">106012</data>
+<node id="Pest:tomato leaf curl new delhi virus">
+  <data key="d1">Pest</data>
+  <data key="d2">Tomato leaf curl New Delhi virus</data>
+</node>
+<node id="Location:slovakia">
+  <data key="d1">Location</data>
+  <data key="d2">Slovakia</data>
+</node>
+<node id="Date:14-09-2022">
+  <data key="d1">Date</data>
+  <data key="d2">14-09-2022</data>
+</node>
+<node id="Plant:wheat">
+  <data key="d1">Plant</data>
+  <data key="d2">wheat</data>
+</node>
+<node id="Pest:grapevine flavescence dorãe phytoplasma">
+  <data key="d1">Pest</data>
+  <data key="d2">Grapevine flavescence dorÃe phytoplasma</data>
+</node>
+<node id="Disease:golden yellowing">
+  <data key="d1">Disease</data>
+  <data key="d2">golden yellowing</data>
+</node>
+<node id="Location:eu">
+  <data key="d1">Location</data>
+  <data key="d2">EU</data>
+</node>
+<node id="Date:08-2022">
+  <data key="d1">Date</data>
+  <data key="d2">08-2022</data>
+</node>
+<node id="Plant:grapevine">
+  <data key="d1">Plant</data>
+  <data key="d2">grapevine</data>
+</node>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Location:slovakia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Date:14-09-2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Plant:wheat" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Location:eu" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Date:08-2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Plant:wheat" target="Location:slovakia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Plant:wheat" target="Date:08-2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Pest:grapevine flavescence dorãe phytoplasma" target="Disease:golden yellowing" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Pest:grapevine flavescence dorãe phytoplasma" target="Plant:grapevine" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["106012"]</data>
+</edge>
+<edge source="Disease:golden yellowing" target="Plant:grapevine" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["106012"]</data>
+</edge>
+</graph></graphml>

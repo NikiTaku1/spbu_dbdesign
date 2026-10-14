@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">99581</data>
+<node id="Pest:tobrfv">
+  <data key="d1">Pest</data>
+  <data key="d2">ToBRFV</data>
+</node>
+<node id="Location:dutch">
+  <data key="d1">Location</data>
+  <data key="d2">Dutch</data>
+</node>
+<node id="Disease:brown wrinkling of tomatoes">
+  <data key="d1">Disease</data>
+  <data key="d2">brown wrinkling of tomatoes</data>
+</node>
+<node id="Plant:tomato farms">
+  <data key="d1">Plant</data>
+  <data key="d2">tomato farms</data>
+</node>
+<node id="Location:germany">
+  <data key="d1">Location</data>
+  <data key="d2">Germany</data>
+</node>
+<node id="Location:israel">
+  <data key="d1">Location</data>
+  <data key="d2">Israel</data>
+</node>
+<node id="Location:jordan">
+  <data key="d1">Location</data>
+  <data key="d2">Jordan</data>
+</node>
+<node id="Location:sicily">
+  <data key="d1">Location</data>
+  <data key="d2">Sicily</data>
+</node>
+<node id="Location:hungary">
+  <data key="d1">Location</data>
+  <data key="d2">Hungary</data>
+</node>
+<node id="Location:italy">
+  <data key="d1">Location</data>
+  <data key="d2">Italy</data>
+</node>
+<node id="Date:from mid-2019">
+  <data key="d1">Date</data>
+  <data key="d2">from mid-2019</data>
+</node>
+<node id="Date:on june 1, 2022">
+  <data key="d1">Date</data>
+  <data key="d2">on June 1, 2022</data>
+</node>
+<node id="Pest:tobamoviruses">
+  <data key="d1">Pest</data>
+  <data key="d2">tobamoviruses</data>
+</node>
+<node id="Location:europe">
+  <data key="d1">Location</data>
+  <data key="d2">Europe</data>
+</node>
+<node id="Date:in 2014">
+  <data key="d1">Date</data>
+  <data key="d2">in 2014</data>
+</node>
+<node id="Date:in 2015">
+  <data key="d1">Date</data>
+  <data key="d2">in 2015</data>
+</node>
+<node id="Date:at the beginning of 2019">
+  <data key="d1">Date</data>
+  <data key="d2">at the beginning of 2019</data>
+</node>
+<node id="Date:as of november 1, 2019">
+  <data key="d1">Date</data>
+  <data key="d2">As of November 1, 2019</data>
+</node>
+<node id="Date:in 2018">
+  <data key="d1">Date</data>
+  <data key="d2">in 2018</data>
+</node>
+<node id="Date:for the first time">
+  <data key="d1">Date</data>
+  <data key="d2">for the first time</data>
+</node>
+<node id="Date:in 2019">
+  <data key="d1">Date</data>
+  <data key="d2">in 2019</data>
+</node>
+<node id="Plant:tomato-damaging">
+  <data key="d1">Plant</data>
+  <data key="d2">tomato-damaging</data>
+</node>
+<node id="Date:by june 1">
+  <data key="d1">Date</data>
+  <data key="d2">By June 1</data>
+</node>
+<edge source="Pest:tobrfv" target="Location:dutch" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:tomato farms" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Disease:brown wrinkling of tomatoes" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:germany" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:israel" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:jordan" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:sicily" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:hungary" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:italy" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:from mid-2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:on june 1, 2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:europe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2014" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2015" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:at the beginning of 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:as of november 1, 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2018" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:for the first time" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:tomato-damaging" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:by june 1" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Disease:brown wrinkling of tomatoes" target="Location:dutch" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Disease:brown wrinkling of tomatoes" target="Plant:tomato farms" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Disease:brown wrinkling of tomatoes" target="Date:on june 1, 2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Plant:tomato farms" target="Location:dutch" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Plant:tomato farms" target="Date:on june 1, 2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Plant:tomato farms" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Location:dutch" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Date:from mid-2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Disease:brown wrinkling of tomatoes" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Location:israel" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Date:in 2014" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["99581"]</data>
+</edge>
+</graph></graphml>

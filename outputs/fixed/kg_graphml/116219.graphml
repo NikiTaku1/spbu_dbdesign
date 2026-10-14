@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">116219</data>
+<node id="Disease:hlb">
+  <data key="d1">Disease</data>
+  <data key="d2">HLB</data>
+</node>
+<node id="Plant:citrus fruits">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus fruits</data>
+</node>
+<node id="Location:united states">
+  <data key="d1">Location</data>
+  <data key="d2">United States</data>
+</node>
+<node id="Location:northern zone of veracruz">
+  <data key="d1">Location</data>
+  <data key="d2">northern zone of Veracruz</data>
+</node>
+<node id="Location:north of veracruz">
+  <data key="d1">Location</data>
+  <data key="d2">north of Veracruz</data>
+</node>
+<node id="Plant:citrus planting">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus planting</data>
+</node>
+<node id="Location:veracruz">
+  <data key="d1">Location</data>
+  <data key="d2">Veracruz</data>
+</node>
+<node id="Location:northern">
+  <data key="d1">Location</data>
+  <data key="d2">northern</data>
+</node>
+<node id="Location:valencia">
+  <data key="d1">Location</data>
+  <data key="d2">Valencia</data>
+</node>
+<edge source="Disease:hlb" target="Plant:citrus fruits" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:united states" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:northern zone of veracruz" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:north of veracruz" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:valencia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Plant:citrus fruits" target="Location:united states" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Plant:citrus fruits" target="Location:north of veracruz" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Plant:citrus fruits" target="Location:valencia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Plant:citrus planting" target="Location:veracruz" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+<edge source="Plant:citrus planting" target="Location:northern" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116219"]</data>
+</edge>
+</graph></graphml>

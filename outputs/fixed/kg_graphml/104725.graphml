@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">104725</data>
+<node id="Pest:pauca">
+  <data key="d1">Pest</data>
+  <data key="d2">pauca</data>
+</node>
+<node id="Location:ibiza">
+  <data key="d1">Location</data>
+  <data key="d2">Ibiza</data>
+</node>
+<node id="Pest:multiplex">
+  <data key="d1">Pest</data>
+  <data key="d2">multiplex</data>
+</node>
+<node id="Pest:fastidiosa">
+  <data key="d1">Pest</data>
+  <data key="d2">fastidiosa</data>
+</node>
+<node id="Date:in october 2016">
+  <data key="d1">Date</data>
+  <data key="d2">in October 2016</data>
+</node>
+<node id="Plant:almond trees">
+  <data key="d1">Plant</data>
+  <data key="d2">almond trees</data>
+</node>
+<node id="Date:this year">
+  <data key="d1">Date</data>
+  <data key="d2">this year</data>
+</node>
+<node id="Pest:xylella fastidiosa">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella fastidiosa</data>
+</node>
+<node id="Location:formentera">
+  <data key="d1">Location</data>
+  <data key="d2">Formentera</data>
+</node>
+<node id="Location:balearic islands">
+  <data key="d1">Location</data>
+  <data key="d2">Balearic Islands</data>
+</node>
+<node id="Location:menorca">
+  <data key="d1">Location</data>
+  <data key="d2">Menorca</data>
+</node>
+<node id="Location:mallorca">
+  <data key="d1">Location</data>
+  <data key="d2">Mallorca</data>
+</node>
+<edge source="Pest:pauca" target="Location:ibiza" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:multiplex" target="Location:ibiza" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:multiplex" target="Date:in october 2016" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:multiplex" target="Location:balearic islands" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:fastidiosa" target="Location:ibiza" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:fastidiosa" target="Date:in october 2016" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Plant:almond trees" target="Date:this year" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Plant:almond trees" target="Location:balearic islands" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:formentera" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:balearic islands" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:ibiza" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:in october 2016" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:menorca" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:mallorca" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["104725"]</data>
+</edge>
+</graph></graphml>

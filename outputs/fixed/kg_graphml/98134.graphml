@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">98134</data>
+<node id="Disease:hlb">
+  <data key="d1">Disease</data>
+  <data key="d2">HLB</data>
+</node>
+<node id="Plant:citrus trees">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus trees</data>
+</node>
+<node id="Location:florida">
+  <data key="d1">Location</data>
+  <data key="d2">Florida</data>
+</node>
+<node id="Disease:hlb-infected">
+  <data key="d1">Disease</data>
+  <data key="d2">HLB-infected</data>
+</node>
+<node id="Location:mg">
+  <data key="d1">Location</data>
+  <data key="d2">Mg</data>
+</node>
+<node id="Location:hamlin">
+  <data key="d1">Location</data>
+  <data key="d2">Hamlin</data>
+</node>
+<node id="Disease:huanglonbing">
+  <data key="d1">Disease</data>
+  <data key="d2">huanglonbing</data>
+</node>
+<node id="Vector:citrus psyllid">
+  <data key="d1">Vector</data>
+  <data key="d2">citrus psyllid</data>
+</node>
+<node id="Disease:hlb-free">
+  <data key="d1">Disease</data>
+  <data key="d2">HLB-free</data>
+</node>
+<node id="Plant:oranges">
+  <data key="d1">Plant</data>
+  <data key="d2">oranges</data>
+</node>
+<node id="Location:asian">
+  <data key="d1">Location</data>
+  <data key="d2">Asian</data>
+</node>
+<node id="Disease:huanglongbing-infected">
+  <data key="d1">Disease</data>
+  <data key="d2">huanglongbing-infected</data>
+</node>
+<node id="Date:over the last two decades">
+  <data key="d1">Date</data>
+  <data key="d2">over the last two decades</data>
+</node>
+<edge source="Disease:hlb" target="Plant:citrus trees" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:florida" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:florida" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:hamlin" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:mg" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:asian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Date:over the last two decades" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-infected" target="Location:mg" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-infected" target="Location:hamlin" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-infected" target="Plant:citrus trees" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-infected" target="Plant:oranges" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Disease:huanglonbing" target="Plant:citrus trees" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Disease:hlb" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Location:asian" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-free" target="Plant:citrus trees" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["98134"]</data>
+</edge>
+<edge source="Disease:huanglongbing-infected" target="Plant:citrus trees" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["98134"]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">117194</data>
+<node id="Pest:tobrfv">
+  <data key="d1">Pest</data>
+  <data key="d2">ToBRFV</data>
+</node>
+<node id="Plant:tomato crops">
+  <data key="d1">Plant</data>
+  <data key="d2">tomato crops</data>
+</node>
+<node id="Pest:tobamovirus">
+  <data key="d1">Pest</data>
+  <data key="d2">Tobamovirus</data>
+</node>
+<node id="Location:netherlands">
+  <data key="d1">Location</data>
+  <data key="d2">Netherlands</data>
+</node>
+<node id="Date:in 2019">
+  <data key="d1">Date</data>
+  <data key="d2">in 2019</data>
+</node>
+<node id="Date:since then">
+  <data key="d1">Date</data>
+  <data key="d2">Since then</data>
+</node>
+<edge source="Pest:tobrfv" target="Plant:tomato crops" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:netherlands" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:since then" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Date:in 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Date:since then" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Plant:tomato crops" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Date:in 2019" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Location:netherlands" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117194"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Date:since then" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117194"]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">105490</data>
+<node id="Pest:alb">
+  <data key="d1">Pest</data>
+  <data key="d2">ALB</data>
+</node>
+<node id="Location:magdeburg">
+  <data key="d1">Location</data>
+  <data key="d2">Magdeburg</data>
+</node>
+<node id="Location:north-eastern area">
+  <data key="d1">Location</data>
+  <data key="d2">north-eastern area</data>
+</node>
+<node id="Date:on august 22, 2022">
+  <data key="d1">Date</data>
+  <data key="d2">on August 22, 2022</data>
+</node>
+<edge source="Pest:alb" target="Location:magdeburg" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105490"]</data>
+</edge>
+<edge source="Pest:alb" target="Location:north-eastern area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105490"]</data>
+</edge>
+<edge source="Pest:alb" target="Date:on august 22, 2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105490"]</data>
+</edge>
+</graph></graphml>

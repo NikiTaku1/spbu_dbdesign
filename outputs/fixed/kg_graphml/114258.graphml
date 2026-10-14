@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">114258</data>
+<node id="Plant:prunus armeniaca">
+  <data key="d1">Plant</data>
+  <data key="d2">Prunus armeniaca</data>
+</node>
+<node id="Location:canada">
+  <data key="d1">Location</data>
+  <data key="d2">Canada</data>
+</node>
+<node id="Location:ontario">
+  <data key="d1">Location</data>
+  <data key="d2">Ontario</data>
+</node>
+<node id="Location:province of ontario">
+  <data key="d1">Location</data>
+  <data key="d2">Province of Ontario</data>
+</node>
+<node id="Location:niagara region">
+  <data key="d1">Location</data>
+  <data key="d2">Niagara region</data>
+</node>
+<edge source="Plant:prunus armeniaca" target="Location:canada" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["114258"]</data>
+</edge>
+<edge source="Plant:prunus armeniaca" target="Location:ontario" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["114258"]</data>
+</edge>
+<edge source="Plant:prunus armeniaca" target="Location:province of ontario" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["114258"]</data>
+</edge>
+<edge source="Plant:prunus armeniaca" target="Location:niagara region" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["114258"]</data>
+</edge>
+</graph></graphml>

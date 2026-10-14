@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">103391</data>
+<node id="Disease:golden flavescence">
+  <data key="d1">Disease</data>
+  <data key="d2">golden flavescence</data>
+</node>
+<node id="Plant:vineyards">
+  <data key="d1">Plant</data>
+  <data key="d2">vineyards</data>
+</node>
+<node id="Location:veneto">
+  <data key="d1">Location</data>
+  <data key="d2">Veneto</data>
+</node>
+<node id="Location:treviso">
+  <data key="d1">Location</data>
+  <data key="d2">Treviso</data>
+</node>
+<node id="Date:so far">
+  <data key="d1">Date</data>
+  <data key="d2">so far</data>
+</node>
+<edge source="Disease:golden flavescence" target="Plant:vineyards" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["103391"]</data>
+</edge>
+<edge source="Disease:golden flavescence" target="Location:treviso" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103391"]</data>
+</edge>
+<edge source="Disease:golden flavescence" target="Date:so far" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["103391"]</data>
+</edge>
+<edge source="Disease:golden flavescence" target="Location:veneto" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103391"]</data>
+</edge>
+<edge source="Plant:vineyards" target="Location:veneto" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103391"]</data>
+</edge>
+<edge source="Plant:vineyards" target="Location:treviso" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["103391"]</data>
+</edge>
+</graph></graphml>

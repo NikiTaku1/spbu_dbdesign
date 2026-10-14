@@ -1,0 +1,19 @@
+{
+  "csv_byte_equal": true,
+  "metrics_equal": true,
+  "tolerance": 1e-12,
+  "candidate_sha256": "16e56a8c69001a1ce659fb5a2267d3b11bc17c093071353436733c832b0b8215",
+  "kaggle_evidence_preserved": true,
+  "cache_key": "bd86bc6781bcdd5c7ba11904e94ac2a37c2685efbfe98450d58781408a952356",
+  "cache_hits": [
+    "final-oof-mentions",
+    "final-ner",
+    "outer-0-evaluation",
+    "outer-1-evaluation",
+    "outer-2-evaluation",
+    "outer-3-evaluation",
+    "outer-4-evaluation",
+    "final-lightgbm"
+  ],
+  "cache_misses": []
+}

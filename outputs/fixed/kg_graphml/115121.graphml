@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">115121</data>
+<node id="Pest:fusarium oxysporum f. sp. cubense">
+  <data key="d1">Pest</data>
+  <data key="d2">Fusarium oxysporum f. sp. cubense</data>
+</node>
+<node id="Disease:fusarium wilt of banana">
+  <data key="d1">Disease</data>
+  <data key="d2">Fusarium wilt of banana</data>
+</node>
+<node id="Plant:banana">
+  <data key="d1">Plant</data>
+  <data key="d2">banana</data>
+</node>
+<node id="Pest:foc">
+  <data key="d1">Pest</data>
+  <data key="d2">Foc</data>
+</node>
+<node id="Location:south africa">
+  <data key="d1">Location</data>
+  <data key="d2">South Africa</data>
+</node>
+<node id="Location:middle east">
+  <data key="d1">Location</data>
+  <data key="d2">Middle East</data>
+</node>
+<node id="Pest:“tropical” race 4 strain">
+  <data key="d1">Pest</data>
+  <data key="d2">“tropical” race 4 strain</data>
+</node>
+<node id="Pest:foc4">
+  <data key="d1">Pest</data>
+  <data key="d2">Foc4</data>
+</node>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Disease:fusarium wilt of banana" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Plant:banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Location:middle east" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Disease:fusarium wilt of banana" target="Plant:banana" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Disease:fusarium wilt of banana" target="Location:middle east" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Disease:fusarium wilt of banana" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:south africa" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Pest:foc" target="Disease:fusarium wilt of banana" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Pest:foc" target="Plant:banana" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Pest:“tropical” race 4 strain" target="Disease:fusarium wilt of banana" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["115121"]</data>
+</edge>
+<edge source="Pest:foc4" target="Disease:fusarium wilt of banana" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["115121"]</data>
+</edge>
+</graph></graphml>

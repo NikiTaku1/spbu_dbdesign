@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">104422</data>
+<node id="Pest:whitefly">
+  <data key="d1">Pest</data>
+  <data key="d2">whitefly</data>
+</node>
+<node id="Plant:cotton">
+  <data key="d1">Plant</data>
+  <data key="d2">cotton</data>
+</node>
+<node id="Plant:beans">
+  <data key="d1">Plant</data>
+  <data key="d2">beans</data>
+</node>
+<node id="Plant:soy">
+  <data key="d1">Plant</data>
+  <data key="d2">soy</data>
+</node>
+<node id="Plant:tomato crops">
+  <data key="d1">Plant</data>
+  <data key="d2">tomato crops</data>
+</node>
+<node id="Pest:spodoptera frugiperda">
+  <data key="d1">Pest</data>
+  <data key="d2">Spodoptera frugiperda</data>
+</node>
+<node id="Pest:thrips">
+  <data key="d1">Pest</data>
+  <data key="d2">thrips</data>
+</node>
+<node id="Date:since 2018">
+  <data key="d1">Date</data>
+  <data key="d2">since 2018</data>
+</node>
+<edge source="Pest:whitefly" target="Plant:cotton" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104422"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Plant:beans" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104422"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Plant:soy" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104422"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Plant:tomato crops" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104422"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Date:since 2018" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["104422"]</data>
+</edge>
+<edge source="Pest:spodoptera frugiperda" target="Plant:cotton" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104422"]</data>
+</edge>
+<edge source="Pest:thrips" target="Plant:cotton" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["104422"]</data>
+</edge>
+</graph></graphml>

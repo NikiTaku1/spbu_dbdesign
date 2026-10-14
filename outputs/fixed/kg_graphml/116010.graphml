@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">116010</data>
+<node id="Pest:xylella">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella</data>
+</node>
+<node id="Location:bari">
+  <data key="d1">Location</data>
+  <data key="d2">Bari</data>
+</node>
+<node id="Date:so far">
+  <data key="d1">Date</data>
+  <data key="d2">so far</data>
+</node>
+<node id="Plant:olive trees">
+  <data key="d1">Plant</data>
+  <data key="d2">olive trees</data>
+</node>
+<edge source="Pest:xylella" target="Location:bari" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["116010"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:so far" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["116010"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["116010"]</data>
+</edge>
+</graph></graphml>

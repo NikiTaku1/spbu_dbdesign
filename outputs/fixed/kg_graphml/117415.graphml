@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">117415</data>
+<node id="Disease:panama disease">
+  <data key="d1">Disease</data>
+  <data key="d2">Panama disease</data>
+</node>
+<node id="Plant:bananas">
+  <data key="d1">Plant</data>
+  <data key="d2">bananas</data>
+</node>
+<node id="Pest:foctr4">
+  <data key="d1">Pest</data>
+  <data key="d2">FocTR4</data>
+</node>
+<node id="Plant:gros michel">
+  <data key="d1">Plant</data>
+  <data key="d2">Gros Michel</data>
+</node>
+<node id="Location:taiwan">
+  <data key="d1">Location</data>
+  <data key="d2">Taiwan</data>
+</node>
+<node id="Plant:cultivar cavendish">
+  <data key="d1">Plant</data>
+  <data key="d2">cultivar Cavendish</data>
+</node>
+<node id="Pest:focr1">
+  <data key="d1">Pest</data>
+  <data key="d2">FocR1</data>
+</node>
+<node id="Plant:wheat">
+  <data key="d1">Plant</data>
+  <data key="d2">wheat</data>
+</node>
+<node id="Pest:foc">
+  <data key="d1">Pest</data>
+  <data key="d2">Foc</data>
+</node>
+<node id="Disease:fusarium wilt cannot">
+  <data key="d1">Disease</data>
+  <data key="d2">fusarium wilt cannot</data>
+</node>
+<node id="Date:in 1967">
+  <data key="d1">Date</data>
+  <data key="d2">in 1967</data>
+</node>
+<node id="Date:in the 1950s">
+  <data key="d1">Date</data>
+  <data key="d2">in the 1950s</data>
+</node>
+<node id="Disease:fusarium wilt of bananas">
+  <data key="d1">Disease</data>
+  <data key="d2">Fusarium wilt of bananas</data>
+</node>
+<edge source="Disease:panama disease" target="Plant:bananas" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Plant:gros michel" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Plant:bananas" target="Date:in the 1950s" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Disease:panama disease" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Plant:bananas" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Plant:gros michel" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Location:taiwan" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Plant:cultivar cavendish" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Plant:wheat" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Disease:fusarium wilt cannot" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Date:in 1967" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Date:in the 1950s" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Disease:fusarium wilt of bananas" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:focr1" target="Plant:gros michel" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:focr1" target="Plant:bananas" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:focr1" target="Plant:wheat" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foc" target="Disease:panama disease" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["117415"]</data>
+</edge>
+<edge source="Pest:foc" target="Plant:gros michel" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["117415"]</data>
+</edge>
+</graph></graphml>

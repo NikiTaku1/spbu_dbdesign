@@ -1,0 +1,498 @@
+{
+  "local_metric": "alias-set local matcher; not verified as official Kaggle scorer",
+  "historical_dependent_macro_f1": 0.5428309298384271,
+  "kaggle_public_reference": 0.38757,
+  "kaggle_candidate_score": 0.5789,
+  "kaggle_status": "confirmed_by_user_screenshot",
+  "comparison": {
+    "legacy": {
+      "macro_f1": 0.5271681606227647,
+      "micro_precision": 0.5835411471321695,
+      "micro_recall": 0.46108374384236456,
+      "micro_f1": 0.5151348376444689,
+      "predicates": {
+        "Affects": {
+          "tp": 46,
+          "fp": 21,
+          "fn": 34,
+          "precision": 0.6865671641791045,
+          "recall": 0.575,
+          "f1": 0.6258503401360545
+        },
+        "Causes": {
+          "tp": 44,
+          "fp": 13,
+          "fn": 27,
+          "precision": 0.7719298245614035,
+          "recall": 0.6197183098591549,
+          "f1": 0.6875
+        },
+        "Dispersed_by": {
+          "tp": 3,
+          "fp": 14,
+          "fn": 45,
+          "precision": 0.17647058823529413,
+          "recall": 0.0625,
+          "f1": 0.09230769230769231
+        },
+        "Found_on": {
+          "tp": 167,
+          "fp": 62,
+          "fn": 172,
+          "precision": 0.7292576419213974,
+          "recall": 0.49262536873156343,
+          "f1": 0.5880281690140845
+        },
+        "Located_in": {
+          "tp": 561,
+          "fp": 413,
+          "fn": 597,
+          "precision": 0.5759753593429158,
+          "recall": 0.4844559585492228,
+          "f1": 0.5262664165103189
+        },
+        "Occurs_on": {
+          "tp": 107,
+          "fp": 137,
+          "fn": 197,
+          "precision": 0.4385245901639344,
+          "recall": 0.3519736842105263,
+          "f1": 0.3905109489051095
+        },
+        "Transmits": {
+          "tp": 8,
+          "fp": 8,
+          "fn": 22,
+          "precision": 0.5,
+          "recall": 0.26666666666666666,
+          "f1": 0.34782608695652173
+        }
+      }
+    },
+    "fixed": {
+      "macro_f1": 0.5329005742695576,
+      "micro_precision": 0.5835942391984972,
+      "micro_recall": 0.45911330049261084,
+      "micro_f1": 0.51392335263303,
+      "predicates": {
+        "Affects": {
+          "tp": 48,
+          "fp": 25,
+          "fn": 32,
+          "precision": 0.6575342465753424,
+          "recall": 0.6,
+          "f1": 0.6274509803921569
+        },
+        "Causes": {
+          "tp": 43,
+          "fp": 12,
+          "fn": 28,
+          "precision": 0.7818181818181819,
+          "recall": 0.6056338028169014,
+          "f1": 0.6825396825396826
+        },
+        "Dispersed_by": {
+          "tp": 2,
+          "fp": 16,
+          "fn": 46,
+          "precision": 0.1111111111111111,
+          "recall": 0.041666666666666664,
+          "f1": 0.06060606060606061
+        },
+        "Found_on": {
+          "tp": 167,
+          "fp": 64,
+          "fn": 172,
+          "precision": 0.7229437229437229,
+          "recall": 0.49262536873156343,
+          "f1": 0.5859649122807018
+        },
+        "Located_in": {
+          "tp": 554,
+          "fp": 399,
+          "fn": 604,
+          "precision": 0.5813221406086044,
+          "recall": 0.4784110535405872,
+          "f1": 0.5248697299857887
+        },
+        "Occurs_on": {
+          "tp": 112,
+          "fp": 139,
+          "fn": 192,
+          "precision": 0.44621513944223107,
+          "recall": 0.3684210526315789,
+          "f1": 0.4036036036036036
+        },
+        "Transmits": {
+          "tp": 6,
+          "fp": 10,
+          "fn": 24,
+          "precision": 0.375,
+          "recall": 0.2,
+          "f1": 0.2608695652173913
+        }
+      }
+    }
+  },
+  "ner": {
+    "precision": 0.7796730632551528,
+    "recall": 0.6469431885197563,
+    "f1": 0.7071336484744306
+  },
+  "candidate_ceiling_macro_f1": 0.7858384803719921,
+  "candidate_gold_recall": 0.6763546798029557,
+  "candidate_gold_hits": 1373,
+  "gold_edges": 2030,
+  "error_examples": [
+    {
+      "doc_id": "104650",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "tobrfv",
+        "tomato brown rugose fruit virus"
+      ],
+      "objects": [
+        "seed"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "New Weed Hosts for Tomato Brown Rugose Fruit Virus in Wild Mediterranean Vegetation\nTomato brown rugose fruit virus (ToBRFV; genus, Tobamovirus, family, Virgaviridae) was first reported in 2015 infecting tomatoes grown under protected cropping in the Jordan Valley. Since then, ToBRFV has been detected in tomatoes grown in both protected and open fields across Jordan. The increased incidence of ToBRFV prompted this investigation of the potential role of natural weed hosts in the dissemination of "
+    },
+    {
+      "doc_id": "116665",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "citrus black spot disease"
+      ],
+      "objects": [
+        "shipments"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Interceptions of citrus from third countries with pests increased again by 23%\nInterceptions of citrus from third countries with pests have increased by 23% up to September. The data is once again scandalous and highlights the latent risk of a lethal pest entering citrus fruits in the European Union. Interceptions of citrus from third countries with pests have increased by 23% up to September in relation to last year, according to information gathered by LA UNIÓ Llauradora. The Mercosur countrie"
+    },
+    {
+      "doc_id": "116665",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "citrus black spot disease"
+      ],
+      "objects": [
+        "exports of oranges"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "Interceptions of citrus from third countries with pests increased again by 23%\nInterceptions of citrus from third countries with pests have increased by 23% up to September. The data is once again scandalous and highlights the latent risk of a lethal pest entering citrus fruits in the European Union. Interceptions of citrus from third countries with pests have increased by 23% up to September in relation to last year, according to information gathered by LA UNIÓ Llauradora. The Mercosur countrie"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "infected plant"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "propagating material"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "tools used on infected plants"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "hands"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "contaminated pollen"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "contact between plants",
+        "farmers"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "reusable plastic crates used to transport infected fruit"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "seeds"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "contaminated clothing"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "circulating water system"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "soil"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106089",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown fruit wrinkle virus"
+      ],
+      "objects": [
+        "plants"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Brown wrinkle syndrome in Arcadia, prevention measures\nThe brown wrinkle virus was detected for the first time in outdoor tomato cultivation in Arcadia, and more specifically, in an outdoor tomato estate, of the Troy variety, on an area of 10 hectares, in the Community of Levidi.\nThe virus attacks tomato and pepper plants. It is mainly transmitted mechanically by contact between plants, by cultivation practices (tying, weeding, picking, etc.) carried out by farmers and by contaminated propagatin"
+    },
+    {
+      "doc_id": "106474",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "tr4",
+        "tr4 fungus",
+        "tropical race 4"
+      ],
+      "objects": [
+        "transferred from one person to another plantation"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "A possible way to make Cavendish bananas resistant to the TR4 fungus A team of researchers from Wageningen University, working with colleagues from several institutions in Colombia, has found a possible way to make Cavendish bananas resistant to the TR4 fungus. This is stated in their research published in the open access PLANE ONEthe group exposed Cavendish banana plants to a different fungus and found that it made them resistant to TR4. Until the 1920s, most bananas available worldwide were of"
+    },
+    {
+      "doc_id": "100020",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "japanese beetle",
+        "japanese beetles",
+        "popillia japonica"
+      ],
+      "objects": [
+        "freight"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Japanese beetle discovered in southern Germany - great potential for damage\nFREIBURG: The repeated sighting of a Japanese beetle in the southern German city of Freiburg has alarmed experts. The beetle is considered an invasive species with large ...\nFREIBURG: The repeated sighting of a Japanese beetle in the southern German city of Freiburg has alarmed experts. The beetle is considered an invasive species with great potential for damage. According to the Augustenberg Agricultural Technology Cent"
+    },
+    {
+      "doc_id": "100020",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "japanese beetle",
+        "japanese beetles",
+        "popillia japonica"
+      ],
+      "objects": [
+        "tourist traffic"
+      ],
+      "reason": "selection/model",
+      "text_excerpt": "Japanese beetle discovered in southern Germany - great potential for damage\nFREIBURG: The repeated sighting of a Japanese beetle in the southern German city of Freiburg has alarmed experts. The beetle is considered an invasive species with large ...\nFREIBURG: The repeated sighting of a Japanese beetle in the southern German city of Freiburg has alarmed experts. The beetle is considered an invasive species with great potential for damage. According to the Augustenberg Agricultural Technology Cent"
+    },
+    {
+      "doc_id": "106074",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown rust virus",
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown wrinkle virus"
+      ],
+      "objects": [
+        "clothing"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "For the first time, the brown rust virus “hit” tomato crops For for the first time in Arcadia the brown wrinkle virus was detected in tomato fruits. The Directorate of Agricultural Economy and Veterinary Medicine of the P.E. immediately made an announcement. Arcadia. According to the announcement, the virus was detected in outdoor tomato crops in the area of Levidi. Except tomatoesthe virus also affects plants pepper. It is mainly transmitted mechanically by contact between plants due to cultiva"
+    },
+    {
+      "doc_id": "106074",
+      "predicate": "Dispersed_by",
+      "subjects": [
+        "brown rust virus",
+        "brown wrinkle virus",
+        "tobrfv",
+        "tomato brown wrinkle virus"
+      ],
+      "objects": [
+        "plant"
+      ],
+      "reason": "NER/normalization/candidate_generation",
+      "text_excerpt": "For the first time, the brown rust virus “hit” tomato crops For for the first time in Arcadia the brown wrinkle virus was detected in tomato fruits. The Directorate of Agricultural Economy and Veterinary Medicine of the P.E. immediately made an announcement. Arcadia. According to the announcement, the virus was detected in outdoor tomato crops in the area of Levidi. Except tomatoesthe virus also affects plants pepper. It is mainly transmitted mechanically by contact between plants due to cultiva"
+    }
+  ],
+  "cache_key": "bd86bc6781bcdd5c7ba11904e94ac2a37c2685efbfe98450d58781408a952356",
+  "cache_hits": [
+    "final-oof-mentions",
+    "final-ner",
+    "outer-0-evaluation",
+    "outer-1-evaluation",
+    "outer-2-evaluation",
+    "outer-3-evaluation",
+    "outer-4-evaluation",
+    "final-lightgbm"
+  ],
+  "cache_misses": [],
+  "candidate_sha256": "16e56a8c69001a1ce659fb5a2267d3b11bc17c093071353436733c832b0b8215",
+  "test_documents": 82,
+  "test_triples": 975,
+  "empty_test_graphs": 5,
+  "checks": "passed",
+  "versions": {
+    "numpy": "2.4.6",
+    "lightgbm": "4.7.0",
+    "sklearn-crfsuite": "0.5.0",
+    "python-crfsuite": "0.9.12",
+    "scikit-learn": "1.9.1",
+    "pycountry": "26.2.16",
+    "networkx": "3.6.1"
+  },
+  "settings": {
+    "seed": 0,
+    "folds": 5,
+    "rounds": 250,
+    "rho": 0.7,
+    "empty_t": 0.3,
+    "final_seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "lightgbm": {
+      "objective": "binary",
+      "learning_rate": 0.05,
+      "num_leaves": 15,
+      "min_data_in_leaf": 20,
+      "feature_fraction": 0.7,
+      "bagging_fraction": 0.8,
+      "bagging_freq": 1,
+      "lambda_l2": 1.0,
+      "verbose": -1,
+      "num_threads": 1
+    },
+    "crf_window": 300,
+    "crf_c1": 0.05,
+    "crf_c2": 0.05,
+    "crf_iterations": 120,
+    "lex_min_rate": 0.5
+  },
+  "kaggle_candidate_private_score": 0.58085,
+  "kaggle_evidence": {
+    "date": "2026-10-13",
+    "evidence": "user-provided Kaggle submission screenshot at 04:46:50 Europe/Moscow",
+    "submission_file": "/Users/mansurzainullin/MyCode/fdd/spbu_dbdesign/outputs/fixed/submission_candidate.csv",
+    "sha256": "16e56a8c69001a1ce659fb5a2267d3b11bc17c093071353436733c832b0b8215",
+    "baseline_public": 0.38757,
+    "public_score": 0.5789,
+    "private_score": 0.58085,
+    "public_delta": 0.19133,
+    "public_relative_improvement_percent": 49.36656603968315,
+    "status": "confirmed_by_user_screenshot",
+    "submission_status": "Complete (after deadline)",
+    "baseline_private_score": null
+  }
+}

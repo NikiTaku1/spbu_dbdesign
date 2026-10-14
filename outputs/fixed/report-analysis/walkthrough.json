@@ -1,0 +1,2430 @@
+{
+  "doc_id": "104650",
+  "outer_fold": 2,
+  "note": "Все упоминания, признаки и вероятности относятся к независимому внешнему прогнозу. Эталон нужен только для сравнения.",
+  "excerpt": [
+    {
+      "start": 0,
+      "end": 253,
+      "text": "New Weed Hosts for Tomato Brown Rugose Fruit Virus in Wild Mediterranean Vegetation\nTomato brown rugose fruit virus (ToBRFV; genus, Tobamovirus, family, Virgaviridae) was first reported in 2015 infecting tomatoes grown under protected cropping in the Jo"
+    }
+  ],
+  "mentions": [
+    {
+      "type": "Pest",
+      "start": 19,
+      "end": 50,
+      "form": "Tomato Brown Rugose Fruit Virus"
+    },
+    {
+      "type": "Location",
+      "start": 54,
+      "end": 72,
+      "form": "Wild Mediterranean"
+    },
+    {
+      "type": "Pest",
+      "start": 84,
+      "end": 115,
+      "form": "Tomato brown rugose fruit virus"
+    },
+    {
+      "type": "Pest",
+      "start": 117,
+      "end": 123,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Pest",
+      "start": 132,
+      "end": 143,
+      "form": "Tobamovirus"
+    },
+    {
+      "type": "Date",
+      "start": 186,
+      "end": 193,
+      "form": "in 2015"
+    },
+    {
+      "type": "Plant",
+      "start": 204,
+      "end": 212,
+      "form": "tomatoes"
+    },
+    {
+      "type": "Location",
+      "start": 251,
+      "end": 264,
+      "form": "Jordan Valley"
+    },
+    {
+      "type": "Date",
+      "start": 266,
+      "end": 276,
+      "form": "Since then"
+    },
+    {
+      "type": "Pest",
+      "start": 278,
+      "end": 284,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Plant",
+      "start": 306,
+      "end": 314,
+      "form": "tomatoes"
+    },
+    {
+      "type": "Location",
+      "start": 362,
+      "end": 368,
+      "form": "Jordan"
+    },
+    {
+      "type": "Pest",
+      "start": 397,
+      "end": 403,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Pest",
+      "start": 500,
+      "end": 506,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Location",
+      "start": 538,
+      "end": 551,
+      "form": "Jordan Valley"
+    },
+    {
+      "type": "Pest",
+      "start": 607,
+      "end": 613,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Plant",
+      "start": 658,
+      "end": 666,
+      "form": "tomatoes"
+    },
+    {
+      "type": "Pest",
+      "start": 692,
+      "end": 698,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Pest",
+      "start": 1126,
+      "end": 1132,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Pest",
+      "start": 1155,
+      "end": 1161,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Plant",
+      "start": 1165,
+      "end": 1179,
+      "form": "Solanum nigrum"
+    },
+    {
+      "type": "Pest",
+      "start": 1292,
+      "end": 1298,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Pest",
+      "start": 1354,
+      "end": 1360,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Pest",
+      "start": 1443,
+      "end": 1449,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Pest",
+      "start": 1484,
+      "end": 1490,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Plant",
+      "start": 1547,
+      "end": 1553,
+      "form": "tomato"
+    },
+    {
+      "type": "Plant",
+      "start": 1746,
+      "end": 1758,
+      "form": "tomato crops"
+    },
+    {
+      "type": "Pest",
+      "start": 1779,
+      "end": 1810,
+      "form": "Tomato Brown Rugose Fruit Virus"
+    },
+    {
+      "type": "Pest",
+      "start": 1927,
+      "end": 1933,
+      "form": "ToBRFV"
+    },
+    {
+      "type": "Plant",
+      "start": 1951,
+      "end": 1965,
+      "form": "Solanum nigrum"
+    },
+    {
+      "type": "Plant",
+      "start": 1967,
+      "end": 1983,
+      "form": "Malva parviflora"
+    },
+    {
+      "type": "Pest",
+      "start": 2193,
+      "end": 2224,
+      "form": "Tomato Brown Rugose Fruit Virus"
+    },
+    {
+      "type": "Location",
+      "start": 2228,
+      "end": 2246,
+      "form": "Wild Mediterranean"
+    },
+    {
+      "type": "Pest",
+      "start": 2429,
+      "end": 2460,
+      "form": "Tomato Brown Rugose Fruit Virus"
+    },
+    {
+      "type": "Location",
+      "start": 2464,
+      "end": 2482,
+      "form": "Wild Mediterranean"
+    },
+    {
+      "type": "Location",
+      "start": 2620,
+      "end": 2634,
+      "form": "Massimo Turina"
+    },
+    {
+      "type": "Pest",
+      "start": 2734,
+      "end": 2765,
+      "form": "Tomato Brown Rugose Fruit Virus"
+    },
+    {
+      "type": "Location",
+      "start": 2769,
+      "end": 2787,
+      "form": "Wild Mediterranean"
+    }
+  ],
+  "concepts": [
+    {
+      "type": "Pest",
+      "identity": [
+        "NCBI_Taxonomy",
+        "1761477"
+      ],
+      "forms": {
+        "Tomato Brown Rugose Fruit Virus": 5,
+        "Tomato brown rugose fruit virus": 1,
+        "ToBRFV": 13
+      },
+      "mentions": [
+        {
+          "type": "Pest",
+          "start": 19,
+          "end": 50,
+          "form": "Tomato Brown Rugose Fruit Virus"
+        },
+        {
+          "type": "Pest",
+          "start": 84,
+          "end": 115,
+          "form": "Tomato brown rugose fruit virus"
+        },
+        {
+          "type": "Pest",
+          "start": 117,
+          "end": 123,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 278,
+          "end": 284,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 397,
+          "end": 403,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 500,
+          "end": 506,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 607,
+          "end": 613,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 692,
+          "end": 698,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 1126,
+          "end": 1132,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 1155,
+          "end": 1161,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 1292,
+          "end": 1298,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 1354,
+          "end": 1360,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 1443,
+          "end": 1449,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 1484,
+          "end": 1490,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 1779,
+          "end": 1810,
+          "form": "Tomato Brown Rugose Fruit Virus"
+        },
+        {
+          "type": "Pest",
+          "start": 1927,
+          "end": 1933,
+          "form": "ToBRFV"
+        },
+        {
+          "type": "Pest",
+          "start": 2193,
+          "end": 2224,
+          "form": "Tomato Brown Rugose Fruit Virus"
+        },
+        {
+          "type": "Pest",
+          "start": 2429,
+          "end": 2460,
+          "form": "Tomato Brown Rugose Fruit Virus"
+        },
+        {
+          "type": "Pest",
+          "start": 2734,
+          "end": 2765,
+          "form": "Tomato Brown Rugose Fruit Virus"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "identity": "wild mediterranean",
+      "forms": {
+        "Wild Mediterranean": 4
+      },
+      "mentions": [
+        {
+          "type": "Location",
+          "start": 54,
+          "end": 72,
+          "form": "Wild Mediterranean"
+        },
+        {
+          "type": "Location",
+          "start": 2228,
+          "end": 2246,
+          "form": "Wild Mediterranean"
+        },
+        {
+          "type": "Location",
+          "start": 2464,
+          "end": 2482,
+          "form": "Wild Mediterranean"
+        },
+        {
+          "type": "Location",
+          "start": 2769,
+          "end": 2787,
+          "form": "Wild Mediterranean"
+        }
+      ]
+    },
+    {
+      "type": "Pest",
+      "identity": [
+        "NCBI_Taxonomy",
+        "12234"
+      ],
+      "forms": {
+        "Tobamovirus": 1
+      },
+      "mentions": [
+        {
+          "type": "Pest",
+          "start": 132,
+          "end": 143,
+          "form": "Tobamovirus"
+        }
+      ]
+    },
+    {
+      "type": "Date",
+      "identity": "in 2015",
+      "forms": {
+        "in 2015": 1
+      },
+      "mentions": [
+        {
+          "type": "Date",
+          "start": 186,
+          "end": 193,
+          "form": "in 2015"
+        }
+      ]
+    },
+    {
+      "type": "Plant",
+      "identity": [
+        "NCBI_Taxonomy",
+        "4081"
+      ],
+      "forms": {
+        "tomatoes": 3,
+        "tomato": 1,
+        "tomato crops": 1
+      },
+      "mentions": [
+        {
+          "type": "Plant",
+          "start": 204,
+          "end": 212,
+          "form": "tomatoes"
+        },
+        {
+          "type": "Plant",
+          "start": 306,
+          "end": 314,
+          "form": "tomatoes"
+        },
+        {
+          "type": "Plant",
+          "start": 658,
+          "end": 666,
+          "form": "tomatoes"
+        },
+        {
+          "type": "Plant",
+          "start": 1547,
+          "end": 1553,
+          "form": "tomato"
+        },
+        {
+          "type": "Plant",
+          "start": 1746,
+          "end": 1758,
+          "form": "tomato crops"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "identity": [
+        "GeoNames",
+        "169015"
+      ],
+      "forms": {
+        "Jordan Valley": 2
+      },
+      "mentions": [
+        {
+          "type": "Location",
+          "start": 251,
+          "end": 264,
+          "form": "Jordan Valley"
+        },
+        {
+          "type": "Location",
+          "start": 538,
+          "end": 551,
+          "form": "Jordan Valley"
+        }
+      ]
+    },
+    {
+      "type": "Date",
+      "identity": "since then",
+      "forms": {
+        "Since then": 1
+      },
+      "mentions": [
+        {
+          "type": "Date",
+          "start": 266,
+          "end": 276,
+          "form": "Since then"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "identity": [
+        "GeoNames",
+        "248816"
+      ],
+      "forms": {
+        "Jordan": 1
+      },
+      "mentions": [
+        {
+          "type": "Location",
+          "start": 362,
+          "end": 368,
+          "form": "Jordan"
+        }
+      ]
+    },
+    {
+      "type": "Plant",
+      "identity": "solanum nigrum",
+      "forms": {
+        "Solanum nigrum": 2
+      },
+      "mentions": [
+        {
+          "type": "Plant",
+          "start": 1165,
+          "end": 1179,
+          "form": "Solanum nigrum"
+        },
+        {
+          "type": "Plant",
+          "start": 1951,
+          "end": 1965,
+          "form": "Solanum nigrum"
+        }
+      ]
+    },
+    {
+      "type": "Plant",
+      "identity": [
+        "NCBI_Taxonomy",
+        "145753"
+      ],
+      "forms": {
+        "Malva parviflora": 1
+      },
+      "mentions": [
+        {
+          "type": "Plant",
+          "start": 1967,
+          "end": 1983,
+          "form": "Malva parviflora"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "identity": "massimo turina",
+      "forms": {
+        "Massimo Turina": 1
+      },
+      "mentions": [
+        {
+          "type": "Location",
+          "start": 2620,
+          "end": 2634,
+          "form": "Massimo Turina"
+        }
+      ]
+    }
+  ],
+  "top_candidates": [
+    {
+      "triple": [
+        "ToBRFV",
+        "Found_on",
+        "tomatoes"
+      ],
+      "probability": 0.9310853154798465,
+      "selected": true,
+      "features": {
+        "signature": 5.0,
+        "predicate": 3.0,
+        "subject_mentions": 19.0,
+        "object_mentions": 5.0,
+        "log_distance": 3.367295742034912,
+        "sentence_distance": 0.0,
+        "paragraph_distance": 0.0,
+        "same_sentence": 1.0,
+        "same_paragraph": 1.0,
+        "subject_position": 0.0065903570502996445,
+        "object_position": 0.07075962424278259,
+        "subject_title": 1.0,
+        "object_title": 0.0,
+        "subject_rank": 0.0,
+        "object_rank": 0.0,
+        "subject_type_count": 2.0,
+        "object_type_count": 3.0,
+        "text_length": 2.882999897003174,
+        "mention_pairs": 95.0,
+        "subject_before_object": 1.0,
+        "between_words": 4.0,
+        "subject_mention_ratio": 0.5,
+        "pair_prior": 5.0,
+        "subject_prior": 38.0,
+        "object_prior": 7.0,
+        "comma": 0.0,
+        "parentheses": 0.0,
+        "semicolon": 0.0,
+        "subject_forms": 3.0,
+        "object_forms": 3.0,
+        "between:affect": 0.0,
+        "between:affected": 0.0,
+        "between:affects": 0.0,
+        "between:agent": 0.0,
+        "between:also": 0.0,
+        "between:and": 0.0,
+        "between:bacterium": 0.0,
+        "between:by": 0.0,
+        "between:cause": 0.0,
+        "between:caused": 0.0,
+        "between:causes": 0.0,
+        "between:confirmed": 0.0,
+        "between:crop": 0.0,
+        "between:crops": 0.0,
+        "between:damage": 0.0,
+        "between:detected": 1.0,
+        "between:disease": 0.0,
+        "between:during": 0.0,
+        "between:eradicated": 0.0,
+        "between:first": 0.0,
+        "between:found": 0.0,
+        "between:from": 0.0,
+        "between:fruit": 0.0,
+        "between:fruits": 0.0,
+        "between:host": 0.0,
+        "between:hosts": 0.0,
+        "between:imported": 0.0,
+        "between:in": 1.0,
+        "between:infect": 0.0,
+        "between:infected": 0.0,
+        "between:infection": 0.0,
+        "between:insect": 0.0,
+        "between:introduced": 0.0,
+        "between:is": 0.0,
+        "between:new": 0.0,
+        "between:no": 0.0,
+        "between:not": 0.0,
+        "between:of": 0.0,
+        "between:on": 0.0,
+        "between:other": 0.0,
+        "between:outbreak": 0.0,
+        "between:pathogen": 0.0,
+        "between:plant": 0.0,
+        "between:plants": 0.0,
+        "between:present": 0.0,
+        "between:report": 0.0,
+        "between:reported": 0.0,
+        "between:seed": 0.0,
+        "between:seeds": 0.0,
+        "between:since": 0.0,
+        "between:spread": 0.0,
+        "between:spreads": 0.0,
+        "between:symptoms": 0.0,
+        "between:trade": 0.0,
+        "between:transmission": 0.0,
+        "between:transmit": 0.0,
+        "between:transmitted": 0.0,
+        "between:vector": 0.0,
+        "between:vectors": 0.0,
+        "between:virus": 0.0,
+        "between:was": 0.0,
+        "between:were": 0.0,
+        "context:affect": 0.0,
+        "context:affected": 0.0,
+        "context:affects": 0.0,
+        "context:agent": 0.0,
+        "context:also": 0.0,
+        "context:and": 1.0,
+        "context:bacterium": 0.0,
+        "context:by": 0.0,
+        "context:cause": 0.0,
+        "context:caused": 0.0,
+        "context:causes": 0.0,
+        "context:confirmed": 0.0,
+        "context:crop": 0.0,
+        "context:crops": 0.0,
+        "context:damage": 0.0,
+        "context:detected": 0.0,
+        "context:disease": 0.0,
+        "context:during": 0.0,
+        "context:eradicated": 0.0,
+        "context:first": 0.0,
+        "context:found": 0.0,
+        "context:from": 0.0,
+        "context:fruit": 0.0,
+        "context:fruits": 0.0,
+        "context:host": 0.0,
+        "context:hosts": 0.0,
+        "context:imported": 0.0,
+        "context:in": 1.0,
+        "context:infect": 0.0,
+        "context:infected": 0.0,
+        "context:infection": 0.0,
+        "context:insect": 0.0,
+        "context:introduced": 0.0,
+        "context:is": 0.0,
+        "context:new": 0.0,
+        "context:no": 0.0,
+        "context:not": 0.0,
+        "context:of": 0.0,
+        "context:on": 0.0,
+        "context:other": 0.0,
+        "context:outbreak": 0.0,
+        "context:pathogen": 0.0,
+        "context:plant": 0.0,
+        "context:plants": 0.0,
+        "context:present": 0.0,
+        "context:report": 0.0,
+        "context:reported": 0.0,
+        "context:seed": 0.0,
+        "context:seeds": 0.0,
+        "context:since": 1.0,
+        "context:spread": 0.0,
+        "context:spreads": 0.0,
+        "context:symptoms": 0.0,
+        "context:trade": 0.0,
+        "context:transmission": 0.0,
+        "context:transmit": 0.0,
+        "context:transmitted": 0.0,
+        "context:vector": 0.0,
+        "context:vectors": 0.0,
+        "context:virus": 0.0,
+        "context:was": 0.0,
+        "context:were": 0.0
+      }
+    },
+    {
+      "triple": [
+        "ToBRFV",
+        "Located_in",
+        "Jordan Valley"
+      ],
+      "probability": 0.9168496605610159,
+      "selected": true,
+      "features": {
+        "signature": 0.0,
+        "predicate": 4.0,
+        "subject_mentions": 19.0,
+        "object_mentions": 2.0,
+        "log_distance": 3.332204580307007,
+        "sentence_distance": 0.0,
+        "paragraph_distance": 0.0,
+        "same_sentence": 1.0,
+        "same_paragraph": 1.0,
+        "subject_position": 0.0065903570502996445,
+        "object_position": 0.08706209063529968,
+        "subject_title": 1.0,
+        "object_title": 0.0,
+        "subject_rank": 0.0,
+        "object_rank": 1.0,
+        "subject_type_count": 2.0,
+        "object_type_count": 4.0,
+        "text_length": 2.882999897003174,
+        "mention_pairs": 38.0,
+        "subject_before_object": 0.0,
+        "between_words": 2.0,
+        "subject_mention_ratio": 0.5,
+        "pair_prior": 1.0,
+        "subject_prior": 25.0,
+        "object_prior": 3.0,
+        "comma": 1.0,
+        "parentheses": 0.0,
+        "semicolon": 0.0,
+        "subject_forms": 3.0,
+        "object_forms": 1.0,
+        "between:affect": 0.0,
+        "between:affected": 0.0,
+        "between:affects": 0.0,
+        "between:agent": 0.0,
+        "between:also": 0.0,
+        "between:and": 0.0,
+        "between:bacterium": 0.0,
+        "between:by": 0.0,
+        "between:cause": 0.0,
+        "between:caused": 0.0,
+        "between:causes": 0.0,
+        "between:confirmed": 0.0,
+        "between:crop": 0.0,
+        "between:crops": 0.0,
+        "between:damage": 0.0,
+        "between:detected": 0.0,
+        "between:disease": 0.0,
+        "between:during": 0.0,
+        "between:eradicated": 0.0,
+        "between:first": 0.0,
+        "between:found": 0.0,
+        "between:from": 0.0,
+        "between:fruit": 0.0,
+        "between:fruits": 0.0,
+        "between:host": 0.0,
+        "between:hosts": 0.0,
+        "between:imported": 0.0,
+        "between:in": 0.0,
+        "between:infect": 0.0,
+        "between:infected": 0.0,
+        "between:infection": 0.0,
+        "between:insect": 0.0,
+        "between:introduced": 0.0,
+        "between:is": 0.0,
+        "between:new": 0.0,
+        "between:no": 0.0,
+        "between:not": 0.0,
+        "between:of": 0.0,
+        "between:on": 0.0,
+        "between:other": 0.0,
+        "between:outbreak": 0.0,
+        "between:pathogen": 0.0,
+        "between:plant": 0.0,
+        "between:plants": 0.0,
+        "between:present": 0.0,
+        "between:report": 0.0,
+        "between:reported": 0.0,
+        "between:seed": 0.0,
+        "between:seeds": 0.0,
+        "between:since": 1.0,
+        "between:spread": 0.0,
+        "between:spreads": 0.0,
+        "between:symptoms": 0.0,
+        "between:trade": 0.0,
+        "between:transmission": 0.0,
+        "between:transmit": 0.0,
+        "between:transmitted": 0.0,
+        "between:vector": 0.0,
+        "between:vectors": 0.0,
+        "between:virus": 0.0,
+        "between:was": 0.0,
+        "between:were": 0.0,
+        "context:affect": 0.0,
+        "context:affected": 0.0,
+        "context:affects": 0.0,
+        "context:agent": 0.0,
+        "context:also": 0.0,
+        "context:and": 1.0,
+        "context:bacterium": 0.0,
+        "context:by": 0.0,
+        "context:cause": 0.0,
+        "context:caused": 0.0,
+        "context:causes": 0.0,
+        "context:confirmed": 0.0,
+        "context:crop": 0.0,
+        "context:crops": 0.0,
+        "context:damage": 0.0,
+        "context:detected": 1.0,
+        "context:disease": 0.0,
+        "context:during": 0.0,
+        "context:eradicated": 0.0,
+        "context:first": 0.0,
+        "context:found": 0.0,
+        "context:from": 0.0,
+        "context:fruit": 0.0,
+        "context:fruits": 0.0,
+        "context:host": 0.0,
+        "context:hosts": 0.0,
+        "context:imported": 0.0,
+        "context:in": 1.0,
+        "context:infect": 0.0,
+        "context:infected": 0.0,
+        "context:infection": 0.0,
+        "context:insect": 0.0,
+        "context:introduced": 0.0,
+        "context:is": 0.0,
+        "context:new": 0.0,
+        "context:no": 0.0,
+        "context:not": 0.0,
+        "context:of": 0.0,
+        "context:on": 0.0,
+        "context:other": 0.0,
+        "context:outbreak": 0.0,
+        "context:pathogen": 0.0,
+        "context:plant": 0.0,
+        "context:plants": 0.0,
+        "context:present": 0.0,
+        "context:report": 0.0,
+        "context:reported": 0.0,
+        "context:seed": 0.0,
+        "context:seeds": 0.0,
+        "context:since": 0.0,
+        "context:spread": 0.0,
+        "context:spreads": 0.0,
+        "context:symptoms": 0.0,
+        "context:trade": 0.0,
+        "context:transmission": 0.0,
+        "context:transmit": 0.0,
+        "context:transmitted": 0.0,
+        "context:vector": 0.0,
+        "context:vectors": 0.0,
+        "context:virus": 0.0,
+        "context:was": 0.0,
+        "context:were": 0.0
+      }
+    },
+    {
+      "triple": [
+        "Tobamovirus",
+        "Located_in",
+        "Jordan Valley"
+      ],
+      "probability": 0.863106451201727,
+      "selected": true,
+      "features": {
+        "signature": 0.0,
+        "predicate": 4.0,
+        "subject_mentions": 1.0,
+        "object_mentions": 2.0,
+        "log_distance": 4.787491798400879,
+        "sentence_distance": 0.0,
+        "paragraph_distance": 0.0,
+        "same_sentence": 1.0,
+        "same_paragraph": 1.0,
+        "subject_position": 0.04578563943505287,
+        "object_position": 0.08706209063529968,
+        "subject_title": 0.0,
+        "object_title": 0.0,
+        "subject_rank": 1.0,
+        "object_rank": 1.0,
+        "subject_type_count": 2.0,
+        "object_type_count": 4.0,
+        "text_length": 2.882999897003174,
+        "mention_pairs": 2.0,
+        "subject_before_object": 1.0,
+        "between_words": 13.0,
+        "subject_mention_ratio": 0.02631578966975212,
+        "pair_prior": 1.0,
+        "subject_prior": 5.0,
+        "object_prior": 3.0,
+        "comma": 1.0,
+        "parentheses": 1.0,
+        "semicolon": 0.0,
+        "subject_forms": 1.0,
+        "object_forms": 1.0,
+        "between:affect": 0.0,
+        "between:affected": 0.0,
+        "between:affects": 0.0,
+        "between:agent": 0.0,
+        "between:also": 0.0,
+        "between:and": 0.0,
+        "between:bacterium": 0.0,
+        "between:by": 0.0,
+        "between:cause": 0.0,
+        "between:caused": 0.0,
+        "between:causes": 0.0,
+        "between:confirmed": 0.0,
+        "between:crop": 0.0,
+        "between:crops": 0.0,
+        "between:damage": 0.0,
+        "between:detected": 0.0,
+        "between:disease": 0.0,
+        "between:during": 0.0,
+        "between:eradicated": 0.0,
+        "between:first": 1.0,
+        "between:found": 0.0,
+        "between:from": 0.0,
+        "between:fruit": 0.0,
+        "between:fruits": 0.0,
+        "between:host": 0.0,
+        "between:hosts": 0.0,
+        "between:imported": 0.0,
+        "between:in": 1.0,
+        "between:infect": 0.0,
+        "between:infected": 0.0,
+        "between:infection": 0.0,
+        "between:insect": 0.0,
+        "between:introduced": 0.0,
+        "between:is": 0.0,
+        "between:new": 0.0,
+        "between:no": 0.0,
+        "between:not": 0.0,
+        "between:of": 0.0,
+        "between:on": 0.0,
+        "between:other": 0.0,
+        "between:outbreak": 0.0,
+        "between:pathogen": 0.0,
+        "between:plant": 0.0,
+        "between:plants": 0.0,
+        "between:present": 0.0,
+        "between:report": 0.0,
+        "between:reported": 1.0,
+        "between:seed": 0.0,
+        "between:seeds": 0.0,
+        "between:since": 0.0,
+        "between:spread": 0.0,
+        "between:spreads": 0.0,
+        "between:symptoms": 0.0,
+        "between:trade": 0.0,
+        "between:transmission": 0.0,
+        "between:transmit": 0.0,
+        "between:transmitted": 0.0,
+        "between:vector": 0.0,
+        "between:vectors": 0.0,
+        "between:virus": 0.0,
+        "between:was": 1.0,
+        "between:were": 0.0,
+        "context:affect": 0.0,
+        "context:affected": 0.0,
+        "context:affects": 0.0,
+        "context:agent": 0.0,
+        "context:also": 0.0,
+        "context:and": 0.0,
+        "context:bacterium": 0.0,
+        "context:by": 0.0,
+        "context:cause": 0.0,
+        "context:caused": 0.0,
+        "context:causes": 0.0,
+        "context:confirmed": 0.0,
+        "context:crop": 0.0,
+        "context:crops": 0.0,
+        "context:damage": 0.0,
+        "context:detected": 1.0,
+        "context:disease": 0.0,
+        "context:during": 0.0,
+        "context:eradicated": 0.0,
+        "context:first": 0.0,
+        "context:found": 0.0,
+        "context:from": 0.0,
+        "context:fruit": 1.0,
+        "context:fruits": 0.0,
+        "context:host": 0.0,
+        "context:hosts": 0.0,
+        "context:imported": 0.0,
+        "context:in": 1.0,
+        "context:infect": 0.0,
+        "context:infected": 0.0,
+        "context:infection": 0.0,
+        "context:insect": 0.0,
+        "context:introduced": 0.0,
+        "context:is": 0.0,
+        "context:new": 0.0,
+        "context:no": 0.0,
+        "context:not": 0.0,
+        "context:of": 0.0,
+        "context:on": 0.0,
+        "context:other": 0.0,
+        "context:outbreak": 0.0,
+        "context:pathogen": 0.0,
+        "context:plant": 0.0,
+        "context:plants": 0.0,
+        "context:present": 0.0,
+        "context:report": 0.0,
+        "context:reported": 0.0,
+        "context:seed": 0.0,
+        "context:seeds": 0.0,
+        "context:since": 1.0,
+        "context:spread": 0.0,
+        "context:spreads": 0.0,
+        "context:symptoms": 0.0,
+        "context:trade": 0.0,
+        "context:transmission": 0.0,
+        "context:transmit": 0.0,
+        "context:transmitted": 0.0,
+        "context:vector": 0.0,
+        "context:vectors": 0.0,
+        "context:virus": 1.0,
+        "context:was": 0.0,
+        "context:were": 0.0
+      }
+    },
+    {
+      "triple": [
+        "tomatoes",
+        "Located_in",
+        "Jordan Valley"
+      ],
+      "probability": 0.8216797583297732,
+      "selected": true,
+      "features": {
+        "signature": 1.0,
+        "predicate": 4.0,
+        "subject_mentions": 5.0,
+        "object_mentions": 2.0,
+        "log_distance": 3.8712010383605957,
+        "sentence_distance": 0.0,
+        "paragraph_distance": 0.0,
+        "same_sentence": 1.0,
+        "same_paragraph": 1.0,
+        "subject_position": 0.07075962424278259,
+        "object_position": 0.08706209063529968,
+        "subject_title": 0.0,
+        "object_title": 0.0,
+        "subject_rank": 0.0,
+        "object_rank": 1.0,
+        "subject_type_count": 3.0,
+        "object_type_count": 4.0,
+        "text_length": 2.882999897003174,
+        "mention_pairs": 10.0,
+        "subject_before_object": 1.0,
+        "between_words": 5.0,
+        "subject_mention_ratio": 0.1315789520740509,
+        "pair_prior": 1.0,
+        "subject_prior": 8.0,
+        "object_prior": 3.0,
+        "comma": 0.0,
+        "parentheses": 0.0,
+        "semicolon": 0.0,
+        "subject_forms": 3.0,
+        "object_forms": 1.0,
+        "between:affect": 0.0,
+        "between:affected": 0.0,
+        "between:affects": 0.0,
+        "between:agent": 0.0,
+        "between:also": 0.0,
+        "between:and": 0.0,
+        "between:bacterium": 0.0,
+        "between:by": 0.0,
+        "between:cause": 0.0,
+        "between:caused": 0.0,
+        "between:causes": 0.0,
+        "between:confirmed": 0.0,
+        "between:crop": 0.0,
+        "between:crops": 0.0,
+        "between:damage": 0.0,
+        "between:detected": 0.0,
+        "between:disease": 0.0,
+        "between:during": 0.0,
+        "between:eradicated": 0.0,
+        "between:first": 0.0,
+        "between:found": 0.0,
+        "between:from": 0.0,
+        "between:fruit": 0.0,
+        "between:fruits": 0.0,
+        "between:host": 0.0,
+        "between:hosts": 0.0,
+        "between:imported": 0.0,
+        "between:in": 1.0,
+        "between:infect": 0.0,
+        "between:infected": 0.0,
+        "between:infection": 0.0,
+        "between:insect": 0.0,
+        "between:introduced": 0.0,
+        "between:is": 0.0,
+        "between:new": 0.0,
+        "between:no": 0.0,
+        "between:not": 0.0,
+        "between:of": 0.0,
+        "between:on": 0.0,
+        "between:other": 0.0,
+        "between:outbreak": 0.0,
+        "between:pathogen": 0.0,
+        "between:plant": 0.0,
+        "between:plants": 0.0,
+        "between:present": 0.0,
+        "between:report": 0.0,
+        "between:reported": 0.0,
+        "between:seed": 0.0,
+        "between:seeds": 0.0,
+        "between:since": 0.0,
+        "between:spread": 0.0,
+        "between:spreads": 0.0,
+        "between:symptoms": 0.0,
+        "between:trade": 0.0,
+        "between:transmission": 0.0,
+        "between:transmit": 0.0,
+        "between:transmitted": 0.0,
+        "between:vector": 0.0,
+        "between:vectors": 0.0,
+        "between:virus": 0.0,
+        "between:was": 0.0,
+        "between:were": 0.0,
+        "context:affect": 0.0,
+        "context:affected": 0.0,
+        "context:affects": 0.0,
+        "context:agent": 0.0,
+        "context:also": 0.0,
+        "context:and": 0.0,
+        "context:bacterium": 0.0,
+        "context:by": 0.0,
+        "context:cause": 0.0,
+        "context:caused": 0.0,
+        "context:causes": 0.0,
+        "context:confirmed": 0.0,
+        "context:crop": 0.0,
+        "context:crops": 0.0,
+        "context:damage": 0.0,
+        "context:detected": 1.0,
+        "context:disease": 0.0,
+        "context:during": 0.0,
+        "context:eradicated": 0.0,
+        "context:first": 1.0,
+        "context:found": 0.0,
+        "context:from": 0.0,
+        "context:fruit": 0.0,
+        "context:fruits": 0.0,
+        "context:host": 0.0,
+        "context:hosts": 0.0,
+        "context:imported": 0.0,
+        "context:in": 1.0,
+        "context:infect": 0.0,
+        "context:infected": 0.0,
+        "context:infection": 0.0,
+        "context:insect": 0.0,
+        "context:introduced": 0.0,
+        "context:is": 0.0,
+        "context:new": 0.0,
+        "context:no": 0.0,
+        "context:not": 0.0,
+        "context:of": 0.0,
+        "context:on": 0.0,
+        "context:other": 0.0,
+        "context:outbreak": 0.0,
+        "context:pathogen": 0.0,
+        "context:plant": 0.0,
+        "context:plants": 0.0,
+        "context:present": 0.0,
+        "context:report": 0.0,
+        "context:reported": 1.0,
+        "context:seed": 0.0,
+        "context:seeds": 0.0,
+        "context:since": 1.0,
+        "context:spread": 0.0,
+        "context:spreads": 0.0,
+        "context:symptoms": 0.0,
+        "context:trade": 0.0,
+        "context:transmission": 0.0,
+        "context:transmit": 0.0,
+        "context:transmitted": 0.0,
+        "context:vector": 0.0,
+        "context:vectors": 0.0,
+        "context:virus": 0.0,
+        "context:was": 1.0,
+        "context:were": 0.0
+      }
+    },
+    {
+      "triple": [
+        "ToBRFV",
+        "Found_on",
+        "Solanum nigrum"
+      ],
+      "probability": 0.8178429567542498,
+      "selected": true,
+      "features": {
+        "signature": 5.0,
+        "predicate": 3.0,
+        "subject_mentions": 19.0,
+        "object_mentions": 2.0,
+        "log_distance": 2.397895336151123,
+        "sentence_distance": 0.0,
+        "paragraph_distance": 0.0,
+        "same_sentence": 1.0,
+        "same_paragraph": 1.0,
+        "subject_position": 0.0065903570502996445,
+        "object_position": 0.4040929675102234,
+        "subject_title": 1.0,
+        "object_title": 0.0,
+        "subject_rank": 0.0,
+        "object_rank": 1.0,
+        "subject_type_count": 2.0,
+        "object_type_count": 3.0,
+        "text_length": 2.882999897003174,
+        "mention_pairs": 38.0,
+        "subject_before_object": 1.0,
+        "between_words": 1.0,
+        "subject_mention_ratio": 0.5,
+        "pair_prior": 0.0,
+        "subject_prior": 38.0,
+        "object_prior": 0.0,
+        "comma": 0.0,
+        "parentheses": 0.0,
+        "semicolon": 0.0,
+        "subject_forms": 3.0,
+        "object_forms": 1.0,
+        "between:affect": 0.0,
+        "between:affected": 0.0,
+        "between:affects": 0.0,
+        "between:agent": 0.0,
+        "between:also": 0.0,
+        "between:and": 0.0,
+        "between:bacterium": 0.0,
+        "between:by": 0.0,
+        "between:cause": 0.0,
+        "between:caused": 0.0,
+        "between:causes": 0.0,
+        "between:confirmed": 0.0,
+        "between:crop": 0.0,
+        "between:crops": 0.0,
+        "between:damage": 0.0,
+        "between:detected": 0.0,
+        "between:disease": 0.0,
+        "between:during": 0.0,
+        "between:eradicated": 0.0,
+        "between:first": 0.0,
+        "between:found": 0.0,
+        "between:from": 0.0,
+        "between:fruit": 0.0,
+        "between:fruits": 0.0,
+        "between:host": 0.0,
+        "between:hosts": 0.0,
+        "between:imported": 0.0,
+        "between:in": 1.0,
+        "between:infect": 0.0,
+        "between:infected": 0.0,
+        "between:infection": 0.0,
+        "between:insect": 0.0,
+        "between:introduced": 0.0,
+        "between:is": 0.0,
+        "between:new": 0.0,
+        "between:no": 0.0,
+        "between:not": 0.0,
+        "between:of": 0.0,
+        "between:on": 0.0,
+        "between:other": 0.0,
+        "between:outbreak": 0.0,
+        "between:pathogen": 0.0,
+        "between:plant": 0.0,
+        "between:plants": 0.0,
+        "between:present": 0.0,
+        "between:report": 0.0,
+        "between:reported": 0.0,
+        "between:seed": 0.0,
+        "between:seeds": 0.0,
+        "between:since": 0.0,
+        "between:spread": 0.0,
+        "between:spreads": 0.0,
+        "between:symptoms": 0.0,
+        "between:trade": 0.0,
+        "between:transmission": 0.0,
+        "between:transmit": 0.0,
+        "between:transmitted": 0.0,
+        "between:vector": 0.0,
+        "between:vectors": 0.0,
+        "between:virus": 0.0,
+        "between:was": 0.0,
+        "between:were": 0.0,
+        "context:affect": 0.0,
+        "context:affected": 0.0,
+        "context:affects": 0.0,
+        "context:agent": 0.0,
+        "context:also": 0.0,
+        "context:and": 0.0,
+        "context:bacterium": 0.0,
+        "context:by": 0.0,
+        "context:cause": 0.0,
+        "context:caused": 0.0,
+        "context:causes": 0.0,
+        "context:confirmed": 1.0,
+        "context:crop": 0.0,
+        "context:crops": 0.0,
+        "context:damage": 0.0,
+        "context:detected": 0.0,
+        "context:disease": 0.0,
+        "context:during": 0.0,
+        "context:eradicated": 0.0,
+        "context:first": 0.0,
+        "context:found": 0.0,
+        "context:from": 0.0,
+        "context:fruit": 0.0,
+        "context:fruits": 0.0,
+        "context:host": 0.0,
+        "context:hosts": 1.0,
+        "context:imported": 0.0,
+        "context:in": 1.0,
+        "context:infect": 0.0,
+        "context:infected": 0.0,
+        "context:infection": 0.0,
+        "context:insect": 0.0,
+        "context:introduced": 0.0,
+        "context:is": 0.0,
+        "context:new": 0.0,
+        "context:no": 0.0,
+        "context:not": 0.0,
+        "context:of": 1.0,
+        "context:on": 0.0,
+        "context:other": 0.0,
+        "context:outbreak": 0.0,
+        "context:pathogen": 0.0,
+        "context:plant": 0.0,
+        "context:plants": 0.0,
+        "context:present": 0.0,
+        "context:report": 0.0,
+        "context:reported": 1.0,
+        "context:seed": 1.0,
+        "context:seeds": 0.0,
+        "context:since": 0.0,
+        "context:spread": 0.0,
+        "context:spreads": 0.0,
+        "context:symptoms": 0.0,
+        "context:trade": 0.0,
+        "context:transmission": 1.0,
+        "context:transmit": 0.0,
+        "context:transmitted": 0.0,
+        "context:vector": 0.0,
+        "context:vectors": 0.0,
+        "context:virus": 0.0,
+        "context:was": 1.0,
+        "context:were": 0.0
+      }
+    },
+    {
+      "triple": [
+        "ToBRFV",
+        "Located_in",
+        "Wild Mediterranean"
+      ],
+      "probability": 0.7466647377242611,
+      "selected": true,
+      "features": {
+        "signature": 0.0,
+        "predicate": 4.0,
+        "subject_mentions": 19.0,
+        "object_mentions": 4.0,
+        "log_distance": 3.4339871406555176,
+        "sentence_distance": 0.0,
+        "paragraph_distance": 0.0,
+        "same_sentence": 1.0,
+        "same_paragraph": 1.0,
+        "subject_position": 0.0065903570502996445,
+        "object_position": 0.018730489537119865,
+        "subject_title": 1.0,
+        "object_title": 1.0,
+        "subject_rank": 0.0,
+        "object_rank": 0.0,
+        "subject_type_count": 2.0,
+        "object_type_count": 4.0,
+        "text_length": 2.882999897003174,
+        "mention_pairs": 76.0,
+        "subject_before_object": 0.0,
+        "between_words": 1.0,
+        "subject_mention_ratio": 0.5,
+        "pair_prior": 0.0,
+        "subject_prior": 25.0,
+        "object_prior": 0.0,
+        "comma": 0.0,
+        "parentheses": 0.0,
+        "semicolon": 0.0,
+        "subject_forms": 3.0,
+        "object_forms": 1.0,
+        "between:affect": 0.0,
+        "between:affected": 0.0,
+        "between:affects": 0.0,
+        "between:agent": 0.0,
+        "between:also": 0.0,
+        "between:and": 0.0,
+        "between:bacterium": 0.0,
+        "between:by": 0.0,
+        "between:cause": 0.0,
+        "between:caused": 0.0,
+        "between:causes": 0.0,
+        "between:confirmed": 0.0,
+        "between:crop": 0.0,
+        "between:crops": 0.0,
+        "between:damage": 0.0,
+        "between:detected": 0.0,
+        "between:disease": 0.0,
+        "between:during": 0.0,
+        "between:eradicated": 0.0,
+        "between:first": 0.0,
+        "between:found": 0.0,
+        "between:from": 0.0,
+        "between:fruit": 0.0,
+        "between:fruits": 0.0,
+        "between:host": 0.0,
+        "between:hosts": 0.0,
+        "between:imported": 0.0,
+        "between:in": 0.0,
+        "between:infect": 0.0,
+        "between:infected": 0.0,
+        "between:infection": 0.0,
+        "between:insect": 0.0,
+        "between:introduced": 0.0,
+        "between:is": 0.0,
+        "between:new": 0.0,
+        "between:no": 0.0,
+        "between:not": 0.0,
+        "between:of": 0.0,
+        "between:on": 0.0,
+        "between:other": 0.0,
+        "between:outbreak": 0.0,
+        "between:pathogen": 0.0,
+        "between:plant": 0.0,
+        "between:plants": 0.0,
+        "between:present": 0.0,
+        "between:report": 0.0,
+        "between:reported": 0.0,
+        "between:seed": 0.0,
+        "between:seeds": 0.0,
+        "between:since": 0.0,
+        "between:spread": 0.0,
+        "between:spreads": 0.0,
+        "between:symptoms": 0.0,
+        "between:trade": 0.0,
+        "between:transmission": 0.0,
+        "between:transmit": 0.0,
+        "between:transmitted": 0.0,
+        "between:vector": 0.0,
+        "between:vectors": 0.0,
+        "between:virus": 0.0,
+        "between:was": 0.0,
+        "between:were": 0.0,
+        "context:affect": 0.0,
+        "context:affected": 0.0,
+        "context:affects": 0.0,
+        "context:agent": 0.0,
+        "context:also": 0.0,
+        "context:and": 0.0,
+        "context:bacterium": 0.0,
+        "context:by": 0.0,
+        "context:cause": 0.0,
+        "context:caused": 0.0,
+        "context:causes": 0.0,
+        "context:confirmed": 0.0,
+        "context:crop": 0.0,
+        "context:crops": 0.0,
+        "context:damage": 0.0,
+        "context:detected": 0.0,
+        "context:disease": 0.0,
+        "context:during": 0.0,
+        "context:eradicated": 0.0,
+        "context:first": 0.0,
+        "context:found": 0.0,
+        "context:from": 0.0,
+        "context:fruit": 1.0,
+        "context:fruits": 0.0,
+        "context:host": 0.0,
+        "context:hosts": 1.0,
+        "context:imported": 0.0,
+        "context:in": 1.0,
+        "context:infect": 0.0,
+        "context:infected": 0.0,
+        "context:infection": 0.0,
+        "context:insect": 0.0,
+        "context:introduced": 0.0,
+        "context:is": 0.0,
+        "context:new": 1.0,
+        "context:no": 0.0,
+        "context:not": 0.0,
+        "context:of": 0.0,
+        "context:on": 0.0,
+        "context:other": 0.0,
+        "context:outbreak": 0.0,
+        "context:pathogen": 0.0,
+        "context:plant": 0.0,
+        "context:plants": 0.0,
+        "context:present": 0.0,
+        "context:report": 0.0,
+        "context:reported": 0.0,
+        "context:seed": 0.0,
+        "context:seeds": 0.0,
+        "context:since": 0.0,
+        "context:spread": 0.0,
+        "context:spreads": 0.0,
+        "context:symptoms": 0.0,
+        "context:trade": 0.0,
+        "context:transmission": 0.0,
+        "context:transmit": 0.0,
+        "context:transmitted": 0.0,
+        "context:vector": 0.0,
+        "context:vectors": 0.0,
+        "context:virus": 1.0,
+        "context:was": 1.0,
+        "context:were": 0.0
+      }
+    },
+    {
+      "triple": [
+        "ToBRFV",
+        "Located_in",
+        "Jordan"
+      ],
+      "probability": 0.740215957957666,
+      "selected": true,
+      "features": {
+        "signature": 0.0,
+        "predicate": 4.0,
+        "subject_mentions": 19.0,
+        "object_mentions": 1.0,
+        "log_distance": 3.5835189819335938,
+        "sentence_distance": 0.0,
+        "paragraph_distance": 0.0,
+        "same_sentence": 1.0,
+        "same_paragraph": 1.0,
+        "subject_position": 0.0065903570502996445,
+        "object_position": 0.12556365132331848,
+        "subject_title": 1.0,
+        "object_title": 0.0,
+        "subject_rank": 0.0,
+        "object_rank": 2.0,
+        "subject_type_count": 2.0,
+        "object_type_count": 4.0,
+        "text_length": 2.882999897003174,
+        "mention_pairs": 19.0,
+        "subject_before_object": 0.0,
+        "between_words": 3.0,
+        "subject_mention_ratio": 0.5,
+        "pair_prior": 2.0,
+        "subject_prior": 25.0,
+        "object_prior": 4.0,
+        "comma": 0.0,
+        "parentheses": 0.0,
+        "semicolon": 0.0,
+        "subject_forms": 3.0,
+        "object_forms": 1.0,
+        "between:affect": 0.0,
+        "between:affected": 0.0,
+        "between:affects": 0.0,
+        "between:agent": 0.0,
+        "between:also": 0.0,
+        "between:and": 0.0,
+        "between:bacterium": 0.0,
+        "between:by": 0.0,
+        "between:cause": 0.0,
+        "between:caused": 0.0,
+        "between:causes": 0.0,
+        "between:confirmed": 0.0,
+        "between:crop": 0.0,
+        "between:crops": 0.0,
+        "between:damage": 0.0,
+        "between:detected": 0.0,
+        "between:disease": 0.0,
+        "between:during": 0.0,
+        "between:eradicated": 0.0,
+        "between:first": 0.0,
+        "between:found": 0.0,
+        "between:from": 0.0,
+        "between:fruit": 0.0,
+        "between:fruits": 0.0,
+        "between:host": 0.0,
+        "between:hosts": 0.0,
+        "between:imported": 0.0,
+        "between:in": 0.0,
+        "between:infect": 0.0,
+        "between:infected": 0.0,
+        "between:infection": 0.0,
+        "between:insect": 0.0,
+        "between:introduced": 0.0,
+        "between:is": 0.0,
+        "between:new": 0.0,
+        "between:no": 0.0,
+        "between:not": 0.0,
+        "between:of": 1.0,
+        "between:on": 0.0,
+        "between:other": 0.0,
+        "between:outbreak": 0.0,
+        "between:pathogen": 0.0,
+        "between:plant": 0.0,
+        "between:plants": 0.0,
+        "between:present": 0.0,
+        "between:report": 0.0,
+        "between:reported": 0.0,
+        "between:seed": 0.0,
+        "between:seeds": 0.0,
+        "between:since": 0.0,
+        "between:spread": 0.0,
+        "between:spreads": 0.0,
+        "between:symptoms": 0.0,
+        "between:trade": 0.0,
+        "between:transmission": 0.0,
+        "between:transmit": 0.0,
+        "between:transmitted": 0.0,
+        "between:vector": 0.0,
+        "between:vectors": 0.0,
+        "between:virus": 0.0,
+        "between:was": 0.0,
+        "between:were": 0.0,
+        "context:affect": 0.0,
+        "context:affected": 0.0,
+        "context:affects": 0.0,
+        "context:agent": 0.0,
+        "context:also": 0.0,
+        "context:and": 1.0,
+        "context:bacterium": 0.0,
+        "context:by": 0.0,
+        "context:cause": 0.0,
+        "context:caused": 0.0,
+        "context:causes": 0.0,
+        "context:confirmed": 0.0,
+        "context:crop": 0.0,
+        "context:crops": 0.0,
+        "context:damage": 0.0,
+        "context:detected": 0.0,
+        "context:disease": 0.0,
+        "context:during": 0.0,
+        "context:eradicated": 0.0,
+        "context:first": 0.0,
+        "context:found": 0.0,
+        "context:from": 0.0,
+        "context:fruit": 0.0,
+        "context:fruits": 0.0,
+        "context:host": 0.0,
+        "context:hosts": 0.0,
+        "context:imported": 0.0,
+        "context:in": 1.0,
+        "context:infect": 0.0,
+        "context:infected": 0.0,
+        "context:infection": 0.0,
+        "context:insect": 0.0,
+        "context:introduced": 0.0,
+        "context:is": 0.0,
+        "context:new": 0.0,
+        "context:no": 0.0,
+        "context:not": 0.0,
+        "context:of": 1.0,
+        "context:on": 0.0,
+        "context:other": 0.0,
+        "context:outbreak": 0.0,
+        "context:pathogen": 0.0,
+        "context:plant": 0.0,
+        "context:plants": 0.0,
+        "context:present": 0.0,
+        "context:report": 0.0,
+        "context:reported": 0.0,
+        "context:seed": 0.0,
+        "context:seeds": 0.0,
+        "context:since": 0.0,
+        "context:spread": 0.0,
+        "context:spreads": 0.0,
+        "context:symptoms": 0.0,
+        "context:trade": 0.0,
+        "context:transmission": 0.0,
+        "context:transmit": 0.0,
+        "context:transmitted": 0.0,
+        "context:vector": 0.0,
+        "context:vectors": 0.0,
+        "context:virus": 0.0,
+        "context:was": 0.0,
+        "context:were": 0.0
+      }
+    },
+    {
+      "triple": [
+        "ToBRFV",
+        "Found_on",
+        "Malva parviflora"
+      ],
+      "probability": 0.734097633462747,
+      "selected": true,
+      "features": {
+        "signature": 5.0,
+        "predicate": 3.0,
+        "subject_mentions": 19.0,
+        "object_mentions": 1.0,
+        "log_distance": 3.7135720252990723,
+        "sentence_distance": 0.0,
+        "paragraph_distance": 0.0,
+        "same_sentence": 1.0,
+        "same_paragraph": 1.0,
+        "subject_position": 0.0065903570502996445,
+        "object_position": 0.6822754144668579,
+        "subject_title": 1.0,
+        "object_title": 0.0,
+        "subject_rank": 0.0,
+        "object_rank": 2.0,
+        "subject_type_count": 2.0,
+        "object_type_count": 3.0,
+        "text_length": 2.882999897003174,
+        "mention_pairs": 19.0,
+        "subject_before_object": 1.0,
+        "between_words": 4.0,
+        "subject_mention_ratio": 0.5,
+        "pair_prior": 1.0,
+        "subject_prior": 38.0,
+        "object_prior": 1.0,
+        "comma": 0.0,
+        "parentheses": 0.0,
+        "semicolon": 1.0,
+        "subject_forms": 3.0,
+        "object_forms": 1.0,
+        "between:affect": 0.0,
+        "between:affected": 0.0,
+        "between:affects": 0.0,
+        "between:agent": 0.0,
+        "between:also": 0.0,
+        "between:and": 0.0,
+        "between:bacterium": 0.0,
+        "between:by": 0.0,
+        "between:cause": 0.0,
+        "between:caused": 0.0,
+        "between:causes": 0.0,
+        "between:confirmed": 0.0,
+        "between:crop": 0.0,
+        "between:crops": 0.0,
+        "between:damage": 0.0,
+        "between:detected": 0.0,
+        "between:disease": 0.0,
+        "between:during": 0.0,
+        "between:eradicated": 0.0,
+        "between:first": 0.0,
+        "between:found": 0.0,
+        "between:from": 0.0,
+        "between:fruit": 0.0,
+        "between:fruits": 0.0,
+        "between:host": 1.0,
+        "between:hosts": 0.0,
+        "between:imported": 0.0,
+        "between:in": 0.0,
+        "between:infect": 0.0,
+        "between:infected": 0.0,
+        "between:infection": 0.0,
+        "between:insect": 0.0,
+        "between:introduced": 0.0,
+        "between:is": 0.0,
+        "between:new": 0.0,
+        "between:no": 0.0,
+        "between:not": 0.0,
+        "between:of": 0.0,
+        "between:on": 0.0,
+        "between:other": 0.0,
+        "between:outbreak": 0.0,
+        "between:pathogen": 0.0,
+        "between:plant": 0.0,
+        "between:plants": 0.0,
+        "between:present": 0.0,
+        "between:report": 0.0,
+        "between:reported": 0.0,
+        "between:seed": 0.0,
+        "between:seeds": 0.0,
+        "between:since": 0.0,
+        "between:spread": 0.0,
+        "between:spreads": 0.0,
+        "between:symptoms": 0.0,
+        "between:trade": 0.0,
+        "between:transmission": 0.0,
+        "between:transmit": 0.0,
+        "between:transmitted": 0.0,
+        "between:vector": 0.0,
+        "between:vectors": 0.0,
+        "between:virus": 0.0,
+        "between:was": 0.0,
+        "between:were": 0.0,
+        "context:affect": 0.0,
+        "context:affected": 0.0,
+        "context:affects": 0.0,
+        "context:agent": 0.0,
+        "context:also": 0.0,
+        "context:and": 0.0,
+        "context:bacterium": 0.0,
+        "context:by": 0.0,
+        "context:cause": 0.0,
+        "context:caused": 0.0,
+        "context:causes": 0.0,
+        "context:confirmed": 0.0,
+        "context:crop": 0.0,
+        "context:crops": 0.0,
+        "context:damage": 0.0,
+        "context:detected": 0.0,
+        "context:disease": 0.0,
+        "context:during": 0.0,
+        "context:eradicated": 0.0,
+        "context:first": 0.0,
+        "context:found": 0.0,
+        "context:from": 0.0,
+        "context:fruit": 0.0,
+        "context:fruits": 0.0,
+        "context:host": 0.0,
+        "context:hosts": 0.0,
+        "context:imported": 0.0,
+        "context:in": 0.0,
+        "context:infect": 0.0,
+        "context:infected": 0.0,
+        "context:infection": 0.0,
+        "context:insect": 0.0,
+        "context:introduced": 0.0,
+        "context:is": 0.0,
+        "context:new": 0.0,
+        "context:no": 0.0,
+        "context:not": 0.0,
+        "context:of": 0.0,
+        "context:on": 0.0,
+        "context:other": 0.0,
+        "context:outbreak": 0.0,
+        "context:pathogen": 0.0,
+        "context:plant": 0.0,
+        "context:plants": 1.0,
+        "context:present": 0.0,
+        "context:report": 0.0,
+        "context:reported": 0.0,
+        "context:seed": 1.0,
+        "context:seeds": 0.0,
+        "context:since": 0.0,
+        "context:spread": 0.0,
+        "context:spreads": 0.0,
+        "context:symptoms": 0.0,
+        "context:trade": 0.0,
+        "context:transmission": 1.0,
+        "context:transmit": 0.0,
+        "context:transmitted": 0.0,
+        "context:vector": 0.0,
+        "context:vectors": 0.0,
+        "context:virus": 0.0,
+        "context:was": 0.0,
+        "context:were": 0.0
+      }
+    }
+  ],
+  "all_candidate_probabilities": [
+    {
+      "subject": "ToBRFV",
+      "predicate": "Located_in",
+      "object": "Wild Mediterranean",
+      "probability": 0.7466647377242611
+    },
+    {
+      "subject": "ToBRFV",
+      "predicate": "Located_in",
+      "object": "Jordan Valley",
+      "probability": 0.9168496605610159
+    },
+    {
+      "subject": "ToBRFV",
+      "predicate": "Located_in",
+      "object": "Jordan",
+      "probability": 0.740215957957666
+    },
+    {
+      "subject": "ToBRFV",
+      "predicate": "Located_in",
+      "object": "Massimo Turina",
+      "probability": 0.27911721111368537
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Located_in",
+      "object": "Wild Mediterranean",
+      "probability": 0.1412283485811332
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Located_in",
+      "object": "Jordan Valley",
+      "probability": 0.863106451201727
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Located_in",
+      "object": "Jordan",
+      "probability": 0.7048652357260191
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Located_in",
+      "object": "Massimo Turina",
+      "probability": 0.0034509461530362598
+    },
+    {
+      "subject": "tomatoes",
+      "predicate": "Located_in",
+      "object": "Wild Mediterranean",
+      "probability": 0.10281485003586108
+    },
+    {
+      "subject": "tomatoes",
+      "predicate": "Located_in",
+      "object": "Jordan Valley",
+      "probability": 0.8216797583297732
+    },
+    {
+      "subject": "tomatoes",
+      "predicate": "Located_in",
+      "object": "Jordan",
+      "probability": 0.6448226152480613
+    },
+    {
+      "subject": "tomatoes",
+      "predicate": "Located_in",
+      "object": "Massimo Turina",
+      "probability": 0.002243024548279689
+    },
+    {
+      "subject": "Solanum nigrum",
+      "predicate": "Located_in",
+      "object": "Wild Mediterranean",
+      "probability": 0.013043118032415493
+    },
+    {
+      "subject": "Solanum nigrum",
+      "predicate": "Located_in",
+      "object": "Jordan Valley",
+      "probability": 0.010945316260634741
+    },
+    {
+      "subject": "Solanum nigrum",
+      "predicate": "Located_in",
+      "object": "Jordan",
+      "probability": 0.007066612167408041
+    },
+    {
+      "subject": "Solanum nigrum",
+      "predicate": "Located_in",
+      "object": "Massimo Turina",
+      "probability": 0.0006332576849304137
+    },
+    {
+      "subject": "Malva parviflora",
+      "predicate": "Located_in",
+      "object": "Wild Mediterranean",
+      "probability": 0.008472213196929295
+    },
+    {
+      "subject": "Malva parviflora",
+      "predicate": "Located_in",
+      "object": "Jordan Valley",
+      "probability": 0.0015094489272058805
+    },
+    {
+      "subject": "Malva parviflora",
+      "predicate": "Located_in",
+      "object": "Jordan",
+      "probability": 0.0009909001628128754
+    },
+    {
+      "subject": "Malva parviflora",
+      "predicate": "Located_in",
+      "object": "Massimo Turina",
+      "probability": 0.0003233823347734356
+    },
+    {
+      "subject": "ToBRFV",
+      "predicate": "Found_on",
+      "object": "tomatoes",
+      "probability": 0.9310853154798465
+    },
+    {
+      "subject": "ToBRFV",
+      "predicate": "Found_on",
+      "object": "Solanum nigrum",
+      "probability": 0.8178429567542498
+    },
+    {
+      "subject": "ToBRFV",
+      "predicate": "Found_on",
+      "object": "Malva parviflora",
+      "probability": 0.734097633462747
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Found_on",
+      "object": "tomatoes",
+      "probability": 0.7195166502999536
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Found_on",
+      "object": "Solanum nigrum",
+      "probability": 0.00855258868073425
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Found_on",
+      "object": "Malva parviflora",
+      "probability": 0.0022941814402056967
+    },
+    {
+      "subject": "ToBRFV",
+      "predicate": "Occurs_on",
+      "object": "in 2015",
+      "probability": 0.5033416936326003
+    },
+    {
+      "subject": "ToBRFV",
+      "predicate": "Occurs_on",
+      "object": "Since then",
+      "probability": 0.49298536287090516
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Occurs_on",
+      "object": "in 2015",
+      "probability": 0.6158946735567676
+    },
+    {
+      "subject": "Tobamovirus",
+      "predicate": "Occurs_on",
+      "object": "Since then",
+      "probability": 0.1091642379946583
+    },
+    {
+      "subject": "tomatoes",
+      "predicate": "Occurs_on",
+      "object": "in 2015",
+      "probability": 0.713911328142741
+    },
+    {
+      "subject": "tomatoes",
+      "predicate": "Occurs_on",
+      "object": "Since then",
+      "probability": 0.10899473279874088
+    },
+    {
+      "subject": "Solanum nigrum",
+      "predicate": "Occurs_on",
+      "object": "in 2015",
+      "probability": 0.005702306444658585
+    },
+    {
+      "subject": "Solanum nigrum",
+      "predicate": "Occurs_on",
+      "object": "Since then",
+      "probability": 0.005296853239960564
+    },
+    {
+      "subject": "Malva parviflora",
+      "predicate": "Occurs_on",
+      "object": "in 2015",
+      "probability": 0.001072234760707981
+    },
+    {
+      "subject": "Malva parviflora",
+      "predicate": "Occurs_on",
+      "object": "Since then",
+      "probability": 0.0007029771638195815
+    }
+  ],
+  "selected_triples": [
+    [
+      "ToBRFV",
+      "Found_on",
+      "tomatoes"
+    ],
+    [
+      "ToBRFV",
+      "Located_in",
+      "Jordan Valley"
+    ],
+    [
+      "Tobamovirus",
+      "Located_in",
+      "Jordan Valley"
+    ],
+    [
+      "tomatoes",
+      "Located_in",
+      "Jordan Valley"
+    ],
+    [
+      "ToBRFV",
+      "Found_on",
+      "Solanum nigrum"
+    ],
+    [
+      "ToBRFV",
+      "Located_in",
+      "Wild Mediterranean"
+    ],
+    [
+      "ToBRFV",
+      "Located_in",
+      "Jordan"
+    ],
+    [
+      "ToBRFV",
+      "Found_on",
+      "Malva parviflora"
+    ],
+    [
+      "Tobamovirus",
+      "Found_on",
+      "tomatoes"
+    ],
+    [
+      "tomatoes",
+      "Occurs_on",
+      "in 2015"
+    ],
+    [
+      "Tobamovirus",
+      "Located_in",
+      "Jordan"
+    ],
+    [
+      "tomatoes",
+      "Located_in",
+      "Jordan"
+    ],
+    [
+      "Tobamovirus",
+      "Occurs_on",
+      "in 2015"
+    ],
+    [
+      "ToBRFV",
+      "Occurs_on",
+      "in 2015"
+    ],
+    [
+      "ToBRFV",
+      "Occurs_on",
+      "Since then"
+    ]
+  ],
+  "graph_json": [
+    {
+      "predicate": "Found_on",
+      "subject": "ToBRFV",
+      "object": "tomatoes"
+    },
+    {
+      "predicate": "Located_in",
+      "subject": "ToBRFV",
+      "object": "Jordan Valley"
+    },
+    {
+      "predicate": "Found_on",
+      "subject": "ToBRFV",
+      "object": "Solanum nigrum"
+    },
+    {
+      "predicate": "Located_in",
+      "subject": "ToBRFV",
+      "object": "Wild Mediterranean"
+    },
+    {
+      "predicate": "Located_in",
+      "subject": "ToBRFV",
+      "object": "Jordan"
+    },
+    {
+      "predicate": "Found_on",
+      "subject": "ToBRFV",
+      "object": "Malva parviflora"
+    },
+    {
+      "predicate": "Occurs_on",
+      "subject": "ToBRFV",
+      "object": "in 2015"
+    },
+    {
+      "predicate": "Occurs_on",
+      "subject": "ToBRFV",
+      "object": "Since then"
+    },
+    {
+      "predicate": "Located_in",
+      "subject": "tomatoes",
+      "object": "Jordan Valley"
+    },
+    {
+      "predicate": "Occurs_on",
+      "subject": "tomatoes",
+      "object": "in 2015"
+    },
+    {
+      "predicate": "Located_in",
+      "subject": "tomatoes",
+      "object": "Jordan"
+    },
+    {
+      "predicate": "Located_in",
+      "subject": "Tobamovirus",
+      "object": "Jordan Valley"
+    },
+    {
+      "predicate": "Found_on",
+      "subject": "Tobamovirus",
+      "object": "tomatoes"
+    },
+    {
+      "predicate": "Located_in",
+      "subject": "Tobamovirus",
+      "object": "Jordan"
+    },
+    {
+      "predicate": "Occurs_on",
+      "subject": "Tobamovirus",
+      "object": "in 2015"
+    }
+  ],
+  "gold": [
+    {
+      "predicate": "Occurs_on",
+      "subject": [
+        "ToBRFV",
+        "Tomato brown rugose fruit virus",
+        "Tomato Brown Rugose Fruit Virus"
+      ],
+      "object": [
+        "in 2015"
+      ]
+    },
+    {
+      "predicate": "Occurs_on",
+      "subject": [
+        "Tobamovirus"
+      ],
+      "object": [
+        "in 2015"
+      ]
+    },
+    {
+      "predicate": "Located_in",
+      "subject": [
+        "ToBRFV",
+        "Tomato brown rugose fruit virus",
+        "Tomato Brown Rugose Fruit Virus"
+      ],
+      "object": [
+        "Mediterranean"
+      ]
+    },
+    {
+      "predicate": "Found_on",
+      "subject": [
+        "Tobamovirus"
+      ],
+      "object": [
+        "tomato",
+        "tomato crops",
+        "tomatoes"
+      ]
+    },
+    {
+      "predicate": "Located_in",
+      "subject": [
+        "ToBRFV",
+        "Tomato brown rugose fruit virus",
+        "Tomato Brown Rugose Fruit Virus"
+      ],
+      "object": [
+        "Jordan Valley"
+      ]
+    },
+    {
+      "predicate": "Found_on",
+      "subject": [
+        "ToBRFV",
+        "Tomato brown rugose fruit virus",
+        "Tomato Brown Rugose Fruit Virus"
+      ],
+      "object": [
+        "tomato",
+        "tomato crops",
+        "tomatoes"
+      ]
+    },
+    {
+      "predicate": "Occurs_on",
+      "subject": [
+        "tomato",
+        "tomato crops",
+        "tomatoes"
+      ],
+      "object": [
+        "in 2015"
+      ]
+    },
+    {
+      "predicate": "Located_in",
+      "subject": [
+        "tomato",
+        "tomato crops",
+        "tomatoes"
+      ],
+      "object": [
+        "Jordan Valley"
+      ]
+    },
+    {
+      "predicate": "Located_in",
+      "subject": [
+        "tomato",
+        "tomato crops",
+        "tomatoes"
+      ],
+      "object": [
+        "Jordan"
+      ]
+    },
+    {
+      "predicate": "Dispersed_by",
+      "subject": [
+        "ToBRFV",
+        "Tomato brown rugose fruit virus",
+        "Tomato Brown Rugose Fruit Virus"
+      ],
+      "object": [
+        "Seed"
+      ]
+    },
+    {
+      "predicate": "Found_on",
+      "subject": [
+        "ToBRFV",
+        "Tomato brown rugose fruit virus",
+        "Tomato Brown Rugose Fruit Virus"
+      ],
+      "object": [
+        "Solanum nigrum"
+      ]
+    },
+    {
+      "predicate": "Located_in",
+      "subject": [
+        "ToBRFV",
+        "Tomato brown rugose fruit virus",
+        "Tomato Brown Rugose Fruit Virus"
+      ],
+      "object": [
+        "Jordan"
+      ]
+    },
+    {
+      "predicate": "Located_in",
+      "subject": [
+        "Tobamovirus"
+      ],
+      "object": [
+        "Jordan Valley"
+      ]
+    }
+  ]
+}

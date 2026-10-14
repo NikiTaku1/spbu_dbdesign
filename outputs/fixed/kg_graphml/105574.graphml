@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">105574</data>
+<node id="Plant:olive trees">
+  <data key="d1">Plant</data>
+  <data key="d2">olive trees</data>
+</node>
+<node id="Location:polignano a mare">
+  <data key="d1">Location</data>
+  <data key="d2">Polignano a Mare</data>
+</node>
+<node id="Pest:xylella">
+  <data key="d1">Pest</data>
+  <data key="d2">Xylella</data>
+</node>
+<node id="Location:bari area">
+  <data key="d1">Location</data>
+  <data key="d2">Bari area</data>
+</node>
+<node id="Location:taranto">
+  <data key="d1">Location</data>
+  <data key="d2">Taranto</data>
+</node>
+<node id="Location:puglia">
+  <data key="d1">Location</data>
+  <data key="d2">Puglia</data>
+</node>
+<node id="Location:lecce">
+  <data key="d1">Location</data>
+  <data key="d2">Lecce</data>
+</node>
+<node id="Location:brindisi">
+  <data key="d1">Location</data>
+  <data key="d2">Brindisi</data>
+</node>
+<node id="Location:roccaforzata">
+  <data key="d1">Location</data>
+  <data key="d2">Roccaforzata</data>
+</node>
+<node id="Location:pulsano">
+  <data key="d1">Location</data>
+  <data key="d2">Pulsano</data>
+</node>
+<node id="Location:san marzano di san giuseppe">
+  <data key="d1">Location</data>
+  <data key="d2">San Marzano di San Giuseppe</data>
+</node>
+<node id="Location:monteiasi">
+  <data key="d1">Location</data>
+  <data key="d2">Monteiasi</data>
+</node>
+<node id="Location:manduria">
+  <data key="d1">Location</data>
+  <data key="d2">Manduria</data>
+</node>
+<node id="Location:maruggio">
+  <data key="d1">Location</data>
+  <data key="d2">Maruggio</data>
+</node>
+<node id="Date:from january to december 2021">
+  <data key="d1">Date</data>
+  <data key="d2">from January to December 2021</data>
+</node>
+<node id="Location:carosino">
+  <data key="d1">Location</data>
+  <data key="d2">Carosino</data>
+</node>
+<node id="Location:lizzano">
+  <data key="d1">Location</data>
+  <data key="d2">Lizzano</data>
+</node>
+<node id="Location:faggiano">
+  <data key="d1">Location</data>
+  <data key="d2">Faggiano</data>
+</node>
+<node id="Location:fragagnano">
+  <data key="d1">Location</data>
+  <data key="d2">Fragagnano</data>
+</node>
+<node id="Location:avetrana">
+  <data key="d1">Location</data>
+  <data key="d2">Avetrana</data>
+</node>
+<node id="Location:sava">
+  <data key="d1">Location</data>
+  <data key="d2">Sava</data>
+</node>
+<node id="Location:torricella">
+  <data key="d1">Location</data>
+  <data key="d2">Torricella</data>
+</node>
+<node id="Date:september 18, 2022">
+  <data key="d1">Date</data>
+  <data key="d2">September 18, 2022</data>
+</node>
+<node id="Location:provinces of lecce">
+  <data key="d1">Location</data>
+  <data key="d2">provinces of Lecce</data>
+</node>
+<node id="Location:basilicata">
+  <data key="d1">Location</data>
+  <data key="d2">Basilicata</data>
+</node>
+<node id="Plant:olive-growing">
+  <data key="d1">Plant</data>
+  <data key="d2">olive-growing</data>
+</node>
+<edge source="Plant:olive trees" target="Location:polignano a mare" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:bari area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:puglia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:brindisi" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:lecce" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:taranto" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:basilicata" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:san marzano di san giuseppe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:roccaforzata" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:pulsano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:monteiasi" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:maruggio" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:manduria" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:torricella" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:sava" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:avetrana" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:carosino" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:faggiano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:fragagnano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:lizzano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:polignano a mare" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:bari area" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive trees" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:taranto" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:puglia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:lecce" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:brindisi" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:roccaforzata" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:pulsano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:san marzano di san giuseppe" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:monteiasi" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:manduria" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:maruggio" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:from january to december 2021" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:carosino" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:lizzano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:faggiano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:fragagnano" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:avetrana" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:sava" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:torricella" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:september 18, 2022" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:provinces of lecce" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:basilicata" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive-growing" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["105574"]</data>
+</edge>
+</graph></graphml>

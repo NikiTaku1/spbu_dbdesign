@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">115568</data>
+<node id="Pest:tobrfv">
+  <data key="d1">Pest</data>
+  <data key="d2">ToBRFV</data>
+</node>
+<node id="Plant:tomato crops">
+  <data key="d1">Plant</data>
+  <data key="d2">tomato crops</data>
+</node>
+<node id="Location:jordan valley">
+  <data key="d1">Location</data>
+  <data key="d2">Jordan Valley</data>
+</node>
+<node id="Plant:amaranthus retroflexus">
+  <data key="d1">Plant</data>
+  <data key="d2">Amaranthus retroflexus</data>
+</node>
+<node id="Plant:s. nigrum">
+  <data key="d1">Plant</data>
+  <data key="d2">S. nigrum</data>
+</node>
+<node id="Plant:d. stramonium">
+  <data key="d1">Plant</data>
+  <data key="d2">D. stramonium</data>
+</node>
+<node id="Plant:d. metel">
+  <data key="d1">Plant</data>
+  <data key="d2">D. metel</data>
+</node>
+<node id="Plant:nicotiana tabacum">
+  <data key="d1">Plant</data>
+  <data key="d2">Nicotiana tabacum</data>
+</node>
+<node id="Plant:beta vulgaris subsp. maritima">
+  <data key="d1">Plant</data>
+  <data key="d2">Beta vulgaris subsp. maritima</data>
+</node>
+<node id="Location:jordan">
+  <data key="d1">Location</data>
+  <data key="d2">Jordan</data>
+</node>
+<node id="Plant:veronica syriaca">
+  <data key="d1">Plant</data>
+  <data key="d2">Veronica syriaca</data>
+</node>
+<node id="Plant:malva parviflora">
+  <data key="d1">Plant</data>
+  <data key="d2">Malva parviflora</data>
+</node>
+<node id="Plant:taraxacum officinale">
+  <data key="d1">Plant</data>
+  <data key="d2">Taraxacum officinale</data>
+</node>
+<node id="Plant:conyza canadensis">
+  <data key="d1">Plant</data>
+  <data key="d2">Conyza canadensis</data>
+</node>
+<node id="Plant:oxalis corniculata">
+  <data key="d1">Plant</data>
+  <data key="d2">Oxalis corniculata</data>
+</node>
+<node id="Plant:c. murale">
+  <data key="d1">Plant</data>
+  <data key="d2">C. murale</data>
+</node>
+<node id="Plant:portulaca oleracea">
+  <data key="d1">Plant</data>
+  <data key="d2">Portulaca oleracea</data>
+</node>
+<node id="Date:in 2015">
+  <data key="d1">Date</data>
+  <data key="d2">in 2015</data>
+</node>
+<node id="Plant:tomato-growing">
+  <data key="d1">Plant</data>
+  <data key="d2">tomato-growing</data>
+</node>
+<node id="Plant:corchorus olitorius">
+  <data key="d1">Plant</data>
+  <data key="d2">Corchorus olitorius</data>
+</node>
+<node id="Dissemination_pathway:seeds">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">seeds</data>
+</node>
+<node id="Plant:solanum elaeagnifolium">
+  <data key="d1">Plant</data>
+  <data key="d2">Solanum elaeagnifolium</data>
+</node>
+<node id="Plant:chenopodium mural">
+  <data key="d1">Plant</data>
+  <data key="d2">Chenopodium mural</data>
+</node>
+<node id="Date:since then">
+  <data key="d1">Date</data>
+  <data key="d2">Since then</data>
+</node>
+<edge source="Pest:tobrfv" target="Plant:tomato crops" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:jordan valley" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:amaranthus retroflexus" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:s. nigrum" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:d. stramonium" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:d. metel" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:nicotiana tabacum" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:beta vulgaris subsp. maritima" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:jordan" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:veronica syriaca" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:malva parviflora" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:taraxacum officinale" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:conyza canadensis" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:oxalis corniculata" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:c. murale" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:portulaca oleracea" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2015" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:tomato-growing" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:corchorus olitorius" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Dissemination_pathway:seeds" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Dissemination_pathway:seeds" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:solanum elaeagnifolium" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:chenopodium mural" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:since then" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Location:jordan valley" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Date:in 2015" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["115568"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Location:jordan" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["115568"]</data>
+</edge>
+</graph></graphml>

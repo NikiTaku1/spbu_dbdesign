@@ -1,0 +1,5144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d5" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d4" for="node" attr.name="sources" attr.type="string"/>
+<key id="d3" for="node" attr.name="label" attr.type="string"/>
+<key id="d2" for="node" attr.name="type" attr.type="string"/>
+<key id="d1" for="graph" attr.name="entity_merge" attr.type="string"/>
+<key id="d0" for="graph" attr.name="scope" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">test_corpus</data>
+<data key="d1">type_and_normalized_canonical_form</data>
+<node id="Pest:asian long-horned beetle">
+  <data key="d2">Pest</data>
+  <data key="d3">Asian long-horned beetle</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Location:zell">
+  <data key="d2">Location</data>
+  <data key="d3">Zell</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Location:switzerland">
+  <data key="d2">Location</data>
+  <data key="d3">Switzerland</data>
+  <data key="d4">["104657", "105066"]</data>
+</node>
+<node id="Location:lucerne">
+  <data key="d2">Location</data>
+  <data key="d3">Lucerne</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Location:from east asia">
+  <data key="d2">Location</data>
+  <data key="d3">from East Asia</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Location:europe">
+  <data key="d2">Location</data>
+  <data key="d3">Europe</data>
+  <data key="d4">["100108", "100333", "100458", "102276", "102892", "102894", "103005", "103643", "104657", "104752", "115859", "117451", "118127", "97985", "99581"]</data>
+</node>
+<node id="Date:in 2011">
+  <data key="d2">Date</data>
+  <data key="d3">in 2011</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Date:in 2019">
+  <data key="d2">Date</data>
+  <data key="d3">in 2019</data>
+  <data key="d4">["104657", "106215", "117194", "99581"]</data>
+</node>
+<node id="Date:first time">
+  <data key="d2">Date</data>
+  <data key="d3">first time</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Plant:birch">
+  <data key="d2">Plant</data>
+  <data key="d3">birch</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Plant:plane tree">
+  <data key="d2">Plant</data>
+  <data key="d3">plane tree</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Plant:maple">
+  <data key="d2">Plant</data>
+  <data key="d3">maple</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Plant:beech">
+  <data key="d2">Plant</data>
+  <data key="d3">beech</data>
+  <data key="d4">["104657"]</data>
+</node>
+<node id="Disease:banana disease">
+  <data key="d2">Disease</data>
+  <data key="d3">banana disease</data>
+  <data key="d4">["107116", "107268"]</data>
+</node>
+<node id="Location:africa">
+  <data key="d2">Location</data>
+  <data key="d3">Africa</data>
+  <data key="d4">["100333", "107116", "107265", "107268"]</data>
+</node>
+<node id="Plant:citrus">
+  <data key="d2">Plant</data>
+  <data key="d3">citrus</data>
+  <data key="d4">["102441", "105854", "105882", "107116", "116192", "116242", "118127", "99054"]</data>
+</node>
+<node id="Location:united states">
+  <data key="d2">Location</data>
+  <data key="d3">United States</data>
+  <data key="d4">["107116", "116219"]</data>
+</node>
+<node id="Plant:banana">
+  <data key="d2">Plant</data>
+  <data key="d3">banana</data>
+  <data key="d4">["106215", "107116", "107265", "107268", "115121", "116242", "116622", "117305"]</data>
+</node>
+<node id="Location:mozambique">
+  <data key="d2">Location</data>
+  <data key="d3">Mozambique</data>
+  <data key="d4">["100333", "107116", "107265", "107268"]</data>
+</node>
+<node id="Pest:foc r4t">
+  <data key="d2">Pest</data>
+  <data key="d3">Foc R4T</data>
+  <data key="d4">["107116", "99632"]</data>
+</node>
+<node id="Disease:brown rot">
+  <data key="d2">Disease</data>
+  <data key="d3">brown rot</data>
+  <data key="d4">["107116"]</data>
+</node>
+<node id="Location:china">
+  <data key="d2">Location</data>
+  <data key="d3">China</data>
+  <data key="d4">["107116", "117546"]</data>
+</node>
+<node id="Plant:navel orange">
+  <data key="d2">Plant</data>
+  <data key="d3">navel orange</data>
+  <data key="d4">["107116"]</data>
+</node>
+<node id="Pest:phytophthora">
+  <data key="d2">Pest</data>
+  <data key="d3">Phytophthora</data>
+  <data key="d4">["107116"]</data>
+</node>
+<node id="Dissemination_pathway:movement of plantain planting material">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">movement of plantain planting material</data>
+  <data key="d4">["107116"]</data>
+</node>
+<node id="Date:for the first time">
+  <data key="d2">Date</data>
+  <data key="d3">For the first time</data>
+  <data key="d4">["103643", "106417", "107116", "99581"]</data>
+</node>
+<node id="Location:brazil">
+  <data key="d2">Location</data>
+  <data key="d3">Brazil</data>
+  <data key="d4">["105882", "107116", "116678", "118127"]</data>
+</node>
+<node id="Plant:olive">
+  <data key="d2">Plant</data>
+  <data key="d3">olive</data>
+  <data key="d4">["100424", "102276", "102892", "102894", "115232", "115859", "115980", "97985"]</data>
+</node>
+<node id="Location:italy">
+  <data key="d2">Location</data>
+  <data key="d3">Italy</data>
+  <data key="d4">["100424", "100454", "102276", "102516", "102892", "102894", "103005", "115859", "117451", "97985", "99581"]</data>
+</node>
+<node id="Pest:xylella">
+  <data key="d2">Pest</data>
+  <data key="d3">Xylella</data>
+  <data key="d4">["100424", "100506", "102276", "102892", "102894", "103887", "104732", "105574", "115232", "115859", "115980", "116010", "117314", "97985", "99733"]</data>
+</node>
+<node id="Location:polignano">
+  <data key="d2">Location</data>
+  <data key="d3">Polignano</data>
+  <data key="d4">["100506", "102276", "102892", "102894", "115232", "115859", "97985"]</data>
+</node>
+<node id="Plant:olive trees">
+  <data key="d2">Plant</data>
+  <data key="d3">olive trees</data>
+  <data key="d4">["100424", "100506", "102276", "102892", "102894", "103005", "103887", "105574", "115232", "115840", "115859", "116010", "97966", "97985", "99733"]</data>
+</node>
+<node id="Location:monopoli">
+  <data key="d2">Location</data>
+  <data key="d3">Monopoli</data>
+  <data key="d4">["102276", "102892", "102894", "97985"]</data>
+</node>
+<node id="Pest:xylella fastidiosa pauca">
+  <data key="d2">Pest</data>
+  <data key="d3">Xylella fastidiosa pauca</data>
+  <data key="d4">["102276", "102892", "102894", "115859", "97985"]</data>
+</node>
+<node id="Location:greece">
+  <data key="d2">Location</data>
+  <data key="d3">Greece</data>
+  <data key="d4">["102276", "102892", "102894", "115859", "97985"]</data>
+</node>
+<node id="Location:puglia">
+  <data key="d2">Location</data>
+  <data key="d3">Puglia</data>
+  <data key="d4">["100506", "102276", "102892", "102894", "105574", "115859", "115980", "97985", "99733"]</data>
+</node>
+<node id="Location:spain">
+  <data key="d2">Location</data>
+  <data key="d3">Spain</data>
+  <data key="d4">["100333", "100424", "102276", "102892", "102894", "115859", "116678", "117314", "117451", "97985"]</data>
+</node>
+<node id="Vector:spittoon">
+  <data key="d2">Vector</data>
+  <data key="d3">spittoon</data>
+  <data key="d4">["97985"]</data>
+</node>
+<node id="Date:july 14, 2022">
+  <data key="d2">Date</data>
+  <data key="d3">July 14, 2022</data>
+  <data key="d4">["97985"]</data>
+</node>
+<node id="Location:basilicata">
+  <data key="d2">Location</data>
+  <data key="d3">Basilicata</data>
+  <data key="d4">["100506", "105574", "97985"]</data>
+</node>
+<node id="Pest:xylella fastidiosa">
+  <data key="d2">Pest</data>
+  <data key="d3">Xylella fastidiosa</data>
+  <data key="d4">["103005", "104725", "104752", "105286", "115188", "115840", "117451", "97966"]</data>
+</node>
+<node id="Location:france">
+  <data key="d2">Location</data>
+  <data key="d3">France</data>
+  <data key="d4">["103005", "105066", "105286", "117451", "97966"]</data>
+</node>
+<node id="Date:to date">
+  <data key="d2">Date</data>
+  <data key="d3">To date</data>
+  <data key="d4">["103005", "115188"]</data>
+</node>
+<node id="Pest:asian capricorn">
+  <data key="d2">Pest</data>
+  <data key="d3">Asian Capricorn</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Location:loiret">
+  <data key="d2">Location</data>
+  <data key="d3">Loiret</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Plant:citrus trees">
+  <data key="d2">Plant</data>
+  <data key="d3">citrus trees</data>
+  <data key="d4">["102433", "103005", "98134"]</data>
+</node>
+<node id="Pest:popillia japonica">
+  <data key="d2">Pest</data>
+  <data key="d3">Popillia japonica</data>
+  <data key="d4">["102516", "103005"]</data>
+</node>
+<node id="Location:japan">
+  <data key="d2">Location</data>
+  <data key="d3">Japan</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Location:french territory">
+  <data key="d2">Location</data>
+  <data key="d3">French territory</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Pest:xylella fastidiosa xylella fastidiosa">
+  <data key="d2">Pest</data>
+  <data key="d3">Xylella fastidiosa Xylella fastidiosa</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Plant:vines">
+  <data key="d2">Plant</data>
+  <data key="d3">vines</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Plant:a. chinensis">
+  <data key="d2">Plant</data>
+  <data key="d3">A. chinensis</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Location:asia">
+  <data key="d2">Location</data>
+  <data key="d3">Asia</data>
+  <data key="d4">["100454", "100458", "103005", "103643", "107265", "107268", "116554"]</data>
+</node>
+<node id="Plant:polygala myrtifolia">
+  <data key="d2">Plant</data>
+  <data key="d3">Polygala myrtifolia</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Location:south corsica">
+  <data key="d2">Location</data>
+  <data key="d3">South Corsica</data>
+  <data key="d4">["103005"]</data>
+</node>
+<node id="Pest:tr4">
+  <data key="d2">Pest</data>
+  <data key="d3">TR4</data>
+  <data key="d4">["107265", "107268", "116622"]</data>
+</node>
+<node id="Disease:fusarium wilt">
+  <data key="d2">Disease</data>
+  <data key="d3">Fusarium wilt</data>
+  <data key="d4">["106215", "107265", "107268", "117305"]</data>
+</node>
+<node id="Location:south america">
+  <data key="d2">Location</data>
+  <data key="d3">South America</data>
+  <data key="d4">["106215", "107265", "107268", "115119"]</data>
+</node>
+<node id="Plant:cavendish banana">
+  <data key="d2">Plant</data>
+  <data key="d3">Cavendish banana</data>
+  <data key="d4">["107265", "107268", "116622"]</data>
+</node>
+<node id="Date:over the past decade">
+  <data key="d2">Date</data>
+  <data key="d3">Over the past decade</data>
+  <data key="d4">["107265", "107268"]</data>
+</node>
+<node id="Location:ruanda">
+  <data key="d2">Location</data>
+  <data key="d3">Ruanda</data>
+  <data key="d4">["107265", "107268"]</data>
+</node>
+<node id="Location:malawi">
+  <data key="d2">Location</data>
+  <data key="d3">Malawi</data>
+  <data key="d4">["107265", "107268"]</data>
+</node>
+<node id="Location:uganda">
+  <data key="d2">Location</data>
+  <data key="d3">Uganda</data>
+  <data key="d4">["100333", "107265", "107268", "115119"]</data>
+</node>
+<node id="Location:tanzania">
+  <data key="d2">Location</data>
+  <data key="d3">Tanzania</data>
+  <data key="d4">["100333", "107265", "107268"]</data>
+</node>
+<node id="Pest:phyllosticta citricarpa">
+  <data key="d2">Pest</data>
+  <data key="d3">Phyllosticta citricarpa</data>
+  <data key="d4">["116509", "116678", "117314"]</data>
+</node>
+<node id="Disease:citrus black spot disease">
+  <data key="d2">Disease</data>
+  <data key="d3">citrus black spot disease</data>
+  <data key="d4">["116678"]</data>
+</node>
+<node id="Dissemination_pathway:citrus">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">citrus</data>
+  <data key="d4">["116678", "117314"]</data>
+</node>
+<node id="Location:eu">
+  <data key="d2">Location</data>
+  <data key="d3">EU</data>
+  <data key="d4">["106012", "116678", "117314"]</data>
+</node>
+<node id="Location:south africa">
+  <data key="d2">Location</data>
+  <data key="d3">South Africa</data>
+  <data key="d4">["100333", "115121", "116509", "116678", "117314"]</data>
+</node>
+<node id="Pest:cotonet">
+  <data key="d2">Pest</data>
+  <data key="d3">Cotonet</data>
+  <data key="d4">["116678"]</data>
+</node>
+<node id="Date:in september">
+  <data key="d2">Date</data>
+  <data key="d3">in September</data>
+  <data key="d4">["116509", "116678", "117314"]</data>
+</node>
+<node id="Date:so far this year">
+  <data key="d2">Date</data>
+  <data key="d3">so far this year</data>
+  <data key="d4">["116509", "116678"]</data>
+</node>
+<node id="Dissemination_pathway:shipments">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">shipments</data>
+  <data key="d4">["116509", "116678"]</data>
+</node>
+<node id="Dissemination_pathway:orange exports">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">orange exports</data>
+  <data key="d4">["116678", "117314"]</data>
+</node>
+<node id="Date:up to september">
+  <data key="d2">Date</data>
+  <data key="d3">up to September</data>
+  <data key="d4">["116678"]</data>
+</node>
+<node id="Pest:pauca">
+  <data key="d2">Pest</data>
+  <data key="d3">pauca</data>
+  <data key="d4">["104725", "104752"]</data>
+</node>
+<node id="Location:ibiza">
+  <data key="d2">Location</data>
+  <data key="d3">Ibiza</data>
+  <data key="d4">["104725"]</data>
+</node>
+<node id="Pest:multiplex">
+  <data key="d2">Pest</data>
+  <data key="d3">multiplex</data>
+  <data key="d4">["104725", "104752"]</data>
+</node>
+<node id="Pest:fastidiosa">
+  <data key="d2">Pest</data>
+  <data key="d3">fastidiosa</data>
+  <data key="d4">["104725", "104752"]</data>
+</node>
+<node id="Date:in october 2016">
+  <data key="d2">Date</data>
+  <data key="d3">in October 2016</data>
+  <data key="d4">["104725", "104752"]</data>
+</node>
+<node id="Plant:almond trees">
+  <data key="d2">Plant</data>
+  <data key="d3">almond trees</data>
+  <data key="d4">["103887", "104725", "104752"]</data>
+</node>
+<node id="Date:this year">
+  <data key="d2">Date</data>
+  <data key="d3">this year</data>
+  <data key="d4">["104725", "104752", "105854", "117314"]</data>
+</node>
+<node id="Location:formentera">
+  <data key="d2">Location</data>
+  <data key="d3">Formentera</data>
+  <data key="d4">["104725", "104752"]</data>
+</node>
+<node id="Location:balearic islands">
+  <data key="d2">Location</data>
+  <data key="d3">Balearic Islands</data>
+  <data key="d4">["104725", "104752"]</data>
+</node>
+<node id="Location:menorca">
+  <data key="d2">Location</data>
+  <data key="d3">Menorca</data>
+  <data key="d4">["104725", "104752"]</data>
+</node>
+<node id="Location:mallorca">
+  <data key="d2">Location</data>
+  <data key="d3">Mallorca</data>
+  <data key="d4">["104725", "104752"]</data>
+</node>
+<node id="Date:06/09/2022">
+  <data key="d2">Date</data>
+  <data key="d3">06/09/2022</data>
+  <data key="d4">["105286"]</data>
+</node>
+<node id="Date:on 31 august">
+  <data key="d2">Date</data>
+  <data key="d3">on 31 August</data>
+  <data key="d4">["105286"]</data>
+</node>
+<node id="Date:on 31 august. 06/09/2022">
+  <data key="d2">Date</data>
+  <data key="d3">on 31 August. 06/09/2022</data>
+  <data key="d4">["105286"]</data>
+</node>
+<node id="Location:agence europe">
+  <data key="d2">Location</data>
+  <data key="d3">Agence Europe</data>
+  <data key="d4">["105286"]</data>
+</node>
+<node id="Location:southern california">
+  <data key="d2">Location</data>
+  <data key="d3">Southern California</data>
+  <data key="d4">["99054"]</data>
+</node>
+<node id="Location:california">
+  <data key="d2">Location</data>
+  <data key="d3">California</data>
+  <data key="d4">["102433", "115318", "116192", "99054"]</data>
+</node>
+<node id="Plant:vineyard">
+  <data key="d2">Plant</data>
+  <data key="d3">Vineyard</data>
+  <data key="d4">["99054"]</data>
+</node>
+<node id="Location:san pasqual">
+  <data key="d2">Location</data>
+  <data key="d3">San Pasqual</data>
+  <data key="d4">["99054"]</data>
+</node>
+<node id="Location:riverside county">
+  <data key="d2">Location</data>
+  <data key="d3">Riverside County</data>
+  <data key="d4">["99054"]</data>
+</node>
+<node id="Location:san diego county">
+  <data key="d2">Location</data>
+  <data key="d3">San Diego County</data>
+  <data key="d4">["99054"]</data>
+</node>
+<node id="Vector:citrus psyllid">
+  <data key="d2">Vector</data>
+  <data key="d3">citrus psyllid</data>
+  <data key="d4">["102433", "116192", "98134", "99054"]</data>
+</node>
+<node id="Location:asian">
+  <data key="d2">Location</data>
+  <data key="d3">Asian</data>
+  <data key="d4">["102433", "98134", "99054"]</data>
+</node>
+<node id="Location:latin america">
+  <data key="d2">Location</data>
+  <data key="d3">Latin America</data>
+  <data key="d4">["105882", "107268", "99632"]</data>
+</node>
+<node id="Date:in 2013">
+  <data key="d2">Date</data>
+  <data key="d3">in 2013</data>
+  <data key="d4">["107268", "99733"]</data>
+</node>
+<node id="Dissemination_pathway:water">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">water</data>
+  <data key="d4">["107268"]</data>
+</node>
+<node id="Dissemination_pathway:humans">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">humans</data>
+  <data key="d4">["107268"]</data>
+</node>
+<node id="Dissemination_pathway:cars">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">cars</data>
+  <data key="d4">["104732", "107268"]</data>
+</node>
+<node id="Date:almost ten years after">
+  <data key="d2">Date</data>
+  <data key="d3">almost ten years after</data>
+  <data key="d4">["107268"]</data>
+</node>
+<node id="Date:forties of the last century">
+  <data key="d2">Date</data>
+  <data key="d3">forties of the last century</data>
+  <data key="d4">["107268"]</data>
+</node>
+<node id="Dissemination_pathway:tools">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">tools</data>
+  <data key="d4">["107268"]</data>
+</node>
+<node id="Location:polignano a mare">
+  <data key="d2">Location</data>
+  <data key="d3">Polignano a Mare</data>
+  <data key="d4">["105574", "99733"]</data>
+</node>
+<node id="Location:bari area">
+  <data key="d2">Location</data>
+  <data key="d3">Bari area</data>
+  <data key="d4">["105574", "115232"]</data>
+</node>
+<node id="Location:taranto">
+  <data key="d2">Location</data>
+  <data key="d3">Taranto</data>
+  <data key="d4">["102276", "102892", "102894", "105574"]</data>
+</node>
+<node id="Location:lecce">
+  <data key="d2">Location</data>
+  <data key="d3">Lecce</data>
+  <data key="d4">["100424", "103887", "105574"]</data>
+</node>
+<node id="Location:brindisi">
+  <data key="d2">Location</data>
+  <data key="d3">Brindisi</data>
+  <data key="d4">["100424", "105574"]</data>
+</node>
+<node id="Location:roccaforzata">
+  <data key="d2">Location</data>
+  <data key="d3">Roccaforzata</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:pulsano">
+  <data key="d2">Location</data>
+  <data key="d3">Pulsano</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:san marzano di san giuseppe">
+  <data key="d2">Location</data>
+  <data key="d3">San Marzano di San Giuseppe</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:monteiasi">
+  <data key="d2">Location</data>
+  <data key="d3">Monteiasi</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:manduria">
+  <data key="d2">Location</data>
+  <data key="d3">Manduria</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:maruggio">
+  <data key="d2">Location</data>
+  <data key="d3">Maruggio</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Date:from january to december 2021">
+  <data key="d2">Date</data>
+  <data key="d3">from January to December 2021</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:carosino">
+  <data key="d2">Location</data>
+  <data key="d3">Carosino</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:lizzano">
+  <data key="d2">Location</data>
+  <data key="d3">Lizzano</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:faggiano">
+  <data key="d2">Location</data>
+  <data key="d3">Faggiano</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:fragagnano">
+  <data key="d2">Location</data>
+  <data key="d3">Fragagnano</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:avetrana">
+  <data key="d2">Location</data>
+  <data key="d3">Avetrana</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:sava">
+  <data key="d2">Location</data>
+  <data key="d3">Sava</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:torricella">
+  <data key="d2">Location</data>
+  <data key="d3">Torricella</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Date:september 18, 2022">
+  <data key="d2">Date</data>
+  <data key="d3">September 18, 2022</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:provinces of lecce">
+  <data key="d2">Location</data>
+  <data key="d3">provinces of Lecce</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Plant:olive-growing">
+  <data key="d2">Plant</data>
+  <data key="d3">olive-growing</data>
+  <data key="d4">["105574"]</data>
+</node>
+<node id="Location:gard">
+  <data key="d2">Location</data>
+  <data key="d3">Gard</data>
+  <data key="d4">["97966"]</data>
+</node>
+<node id="Date:since november 2021">
+  <data key="d2">Date</data>
+  <data key="d3">Since November 2021</data>
+  <data key="d4">["97966"]</data>
+</node>
+<node id="Location:bari">
+  <data key="d2">Location</data>
+  <data key="d3">BARI</data>
+  <data key="d4">["100506", "103887", "115840", "115980", "116010"]</data>
+</node>
+<node id="Location:countryside of fasano">
+  <data key="d2">Location</data>
+  <data key="d3">countryside of Fasano</data>
+  <data key="d4">["100506", "102276", "102892", "102894", "99733"]</data>
+</node>
+<node id="Plant:rosemary">
+  <data key="d2">Plant</data>
+  <data key="d3">rosemary</data>
+  <data key="d4">["100506", "99733"]</data>
+</node>
+<node id="Location:countryside of monopoli">
+  <data key="d2">Location</data>
+  <data key="d3">countryside of Monopoli</data>
+  <data key="d4">["100506", "99733"]</data>
+</node>
+<node id="Date:july 29, 2022">
+  <data key="d2">Date</data>
+  <data key="d3">July 29, 2022</data>
+  <data key="d4">["100506"]</data>
+</node>
+<node id="Plant:myrtle">
+  <data key="d2">Plant</data>
+  <data key="d3">myrtle</data>
+  <data key="d4">["100506", "99733"]</data>
+</node>
+<node id="Location:north of brindisi">
+  <data key="d2">Location</data>
+  <data key="d3">north of Brindisi</data>
+  <data key="d4">["100506"]</data>
+</node>
+<node id="Pest:fusarium oxysporum f. sp. cubense">
+  <data key="d2">Pest</data>
+  <data key="d3">Fusarium oxysporum f. sp. cubense</data>
+  <data key="d4">["115121", "117305"]</data>
+</node>
+<node id="Pest:foc">
+  <data key="d2">Pest</data>
+  <data key="d3">Foc</data>
+  <data key="d4">["106215", "115121", "117305", "117415"]</data>
+</node>
+<node id="Pest:fusarium kalimantanense">
+  <data key="d2">Pest</data>
+  <data key="d3">Fusarium kalimantanense</data>
+  <data key="d4">["117305"]</data>
+</node>
+<node id="Plant:banana cultivar maçã">
+  <data key="d2">Plant</data>
+  <data key="d3">banana cultivar Maçã</data>
+  <data key="d4">["117305"]</data>
+</node>
+<node id="Pest:oriental fruit fly">
+  <data key="d2">Pest</data>
+  <data key="d3">Oriental fruit fly</data>
+  <data key="d4">["115318"]</data>
+</node>
+<node id="Location:fountain valley area">
+  <data key="d2">Location</data>
+  <data key="d3">Fountain Valley area</data>
+  <data key="d4">["115318"]</data>
+</node>
+<node id="Location:orange county">
+  <data key="d2">Location</data>
+  <data key="d3">Orange County</data>
+  <data key="d4">["115318"]</data>
+</node>
+<node id="Location:u.s. department">
+  <data key="d2">Location</data>
+  <data key="d3">U.S. Department</data>
+  <data key="d4">["115318"]</data>
+</node>
+<node id="Location:european union">
+  <data key="d2">Location</data>
+  <data key="d3">European Union</data>
+  <data key="d4">["100478", "115188", "116509", "117451"]</data>
+</node>
+<node id="Pest:tobrfv virus">
+  <data key="d2">Pest</data>
+  <data key="d3">ToBRFV virus</data>
+  <data key="d4">["100108"]</data>
+</node>
+<node id="Plant:tomato">
+  <data key="d2">Plant</data>
+  <data key="d3">tomato</data>
+  <data key="d4">["100108", "100478", "106417"]</data>
+</node>
+<node id="Location:finnish">
+  <data key="d2">Location</data>
+  <data key="d3">Finnish</data>
+  <data key="d4">["100108"]</data>
+</node>
+<node id="Location:puglia region">
+  <data key="d2">Location</data>
+  <data key="d3">Puglia Region</data>
+  <data key="d4">["100424"]</data>
+</node>
+<node id="Location:salento">
+  <data key="d2">Location</data>
+  <data key="d3">Salento</data>
+  <data key="d4">["100424", "115840"]</data>
+</node>
+<node id="Location:barletta">
+  <data key="d2">Location</data>
+  <data key="d3">Barletta</data>
+  <data key="d4">["100424"]</data>
+</node>
+<node id="Location:portugal">
+  <data key="d2">Location</data>
+  <data key="d3">Portugal</data>
+  <data key="d4">["100333", "100424", "118127"]</data>
+</node>
+<node id="Vector:philaenus spumarius">
+  <data key="d2">Vector</data>
+  <data key="d3">Philaenus Spumarius</data>
+  <data key="d4">["100424"]</data>
+</node>
+<node id="Pest:tobrfv">
+  <data key="d2">Pest</data>
+  <data key="d3">ToBRFV</data>
+  <data key="d4">["106417", "115568", "117194", "99581"]</data>
+</node>
+<node id="Plant:tomato crops">
+  <data key="d2">Plant</data>
+  <data key="d3">tomato crops</data>
+  <data key="d4">["104422", "104453", "115568", "117194"]</data>
+</node>
+<node id="Location:jordan valley">
+  <data key="d2">Location</data>
+  <data key="d3">Jordan Valley</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:amaranthus retroflexus">
+  <data key="d2">Plant</data>
+  <data key="d3">Amaranthus retroflexus</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:s. nigrum">
+  <data key="d2">Plant</data>
+  <data key="d3">S. nigrum</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:d. stramonium">
+  <data key="d2">Plant</data>
+  <data key="d3">D. stramonium</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:d. metel">
+  <data key="d2">Plant</data>
+  <data key="d3">D. metel</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:nicotiana tabacum">
+  <data key="d2">Plant</data>
+  <data key="d3">Nicotiana tabacum</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:beta vulgaris subsp. maritima">
+  <data key="d2">Plant</data>
+  <data key="d3">Beta vulgaris subsp. maritima</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Location:jordan">
+  <data key="d2">Location</data>
+  <data key="d3">Jordan</data>
+  <data key="d4">["115568", "99581"]</data>
+</node>
+<node id="Plant:veronica syriaca">
+  <data key="d2">Plant</data>
+  <data key="d3">Veronica syriaca</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:malva parviflora">
+  <data key="d2">Plant</data>
+  <data key="d3">Malva parviflora</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:taraxacum officinale">
+  <data key="d2">Plant</data>
+  <data key="d3">Taraxacum officinale</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:conyza canadensis">
+  <data key="d2">Plant</data>
+  <data key="d3">Conyza canadensis</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:oxalis corniculata">
+  <data key="d2">Plant</data>
+  <data key="d3">Oxalis corniculata</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:c. murale">
+  <data key="d2">Plant</data>
+  <data key="d3">C. murale</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:portulaca oleracea">
+  <data key="d2">Plant</data>
+  <data key="d3">Portulaca oleracea</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Date:in 2015">
+  <data key="d2">Date</data>
+  <data key="d3">in 2015</data>
+  <data key="d4">["115568", "118127", "99581"]</data>
+</node>
+<node id="Plant:tomato-growing">
+  <data key="d2">Plant</data>
+  <data key="d3">tomato-growing</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:corchorus olitorius">
+  <data key="d2">Plant</data>
+  <data key="d3">Corchorus olitorius</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Dissemination_pathway:seeds">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">seeds</data>
+  <data key="d4">["106417", "115568"]</data>
+</node>
+<node id="Plant:solanum elaeagnifolium">
+  <data key="d2">Plant</data>
+  <data key="d3">Solanum elaeagnifolium</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Plant:chenopodium mural">
+  <data key="d2">Plant</data>
+  <data key="d3">Chenopodium mural</data>
+  <data key="d4">["115568"]</data>
+</node>
+<node id="Date:since then">
+  <data key="d2">Date</data>
+  <data key="d3">Since then</data>
+  <data key="d4">["115568", "117194", "118127"]</data>
+</node>
+<node id="Pest:whitefly">
+  <data key="d2">Pest</data>
+  <data key="d3">whitefly</data>
+  <data key="d4">["104422"]</data>
+</node>
+<node id="Plant:cotton">
+  <data key="d2">Plant</data>
+  <data key="d3">cotton</data>
+  <data key="d4">["100471", "104422", "104453"]</data>
+</node>
+<node id="Plant:beans">
+  <data key="d2">Plant</data>
+  <data key="d3">beans</data>
+  <data key="d4">["104422", "104453"]</data>
+</node>
+<node id="Plant:soy">
+  <data key="d2">Plant</data>
+  <data key="d3">soy</data>
+  <data key="d4">["104422"]</data>
+</node>
+<node id="Pest:spodoptera frugiperda">
+  <data key="d2">Pest</data>
+  <data key="d3">Spodoptera frugiperda</data>
+  <data key="d4">["104422", "104453", "115119"]</data>
+</node>
+<node id="Pest:thrips">
+  <data key="d2">Pest</data>
+  <data key="d3">thrips</data>
+  <data key="d4">["104422", "104453"]</data>
+</node>
+<node id="Date:since 2018">
+  <data key="d2">Date</data>
+  <data key="d3">since 2018</data>
+  <data key="d4">["104422"]</data>
+</node>
+<node id="Disease:flavescence dorée">
+  <data key="d2">Disease</data>
+  <data key="d3">flavescence dorée</data>
+  <data key="d4">["105066"]</data>
+</node>
+<node id="Location:canton of ticino">
+  <data key="d2">Location</data>
+  <data key="d3">canton of Ticino</data>
+  <data key="d4">["105066"]</data>
+</node>
+<node id="Date:in 2004">
+  <data key="d2">Date</data>
+  <data key="d3">in 2004</data>
+  <data key="d4">["105066"]</data>
+</node>
+<node id="Plant:vine">
+  <data key="d2">Plant</data>
+  <data key="d3">vine</data>
+  <data key="d4">["105066"]</data>
+</node>
+<node id="Pest:flavescence dorée">
+  <data key="d2">Pest</data>
+  <data key="d3">flavescence dorée</data>
+  <data key="d4">["105066"]</data>
+</node>
+<node id="Pest:phytoplasmas">
+  <data key="d2">Pest</data>
+  <data key="d3">phytoplasmas</data>
+  <data key="d4">["105066", "99433"]</data>
+</node>
+<node id="Disease:hlb">
+  <data key="d2">Disease</data>
+  <data key="d3">HLB</data>
+  <data key="d4">["105882", "116219", "118127", "98134"]</data>
+</node>
+<node id="Plant:citrus fruits">
+  <data key="d2">Plant</data>
+  <data key="d3">citrus fruits</data>
+  <data key="d4">["116219"]</data>
+</node>
+<node id="Location:northern zone of veracruz">
+  <data key="d2">Location</data>
+  <data key="d3">northern zone of Veracruz</data>
+  <data key="d4">["116219"]</data>
+</node>
+<node id="Location:north of veracruz">
+  <data key="d2">Location</data>
+  <data key="d3">north of Veracruz</data>
+  <data key="d4">["116219"]</data>
+</node>
+<node id="Plant:citrus planting">
+  <data key="d2">Plant</data>
+  <data key="d3">citrus planting</data>
+  <data key="d4">["116219"]</data>
+</node>
+<node id="Location:veracruz">
+  <data key="d2">Location</data>
+  <data key="d3">Veracruz</data>
+  <data key="d4">["116219"]</data>
+</node>
+<node id="Location:northern">
+  <data key="d2">Location</data>
+  <data key="d3">northern</data>
+  <data key="d4">["116219"]</data>
+</node>
+<node id="Location:valencia">
+  <data key="d2">Location</data>
+  <data key="d3">Valencia</data>
+  <data key="d4">["116219"]</data>
+</node>
+<node id="Location:province of bari">
+  <data key="d2">Location</data>
+  <data key="d3">province of Bari</data>
+  <data key="d4">["102276", "102892", "102894", "99733"]</data>
+</node>
+<node id="Plant:almond tree">
+  <data key="d2">Plant</data>
+  <data key="d3">almond tree</data>
+  <data key="d4">["102276", "102892", "102894"]</data>
+</node>
+<node id="Plant:polygala mirtifolia">
+  <data key="d2">Plant</data>
+  <data key="d3">Polygala Mirtifolia</data>
+  <data key="d4">["102276", "102892", "102894"]</data>
+</node>
+<node id="Location:countryside of martina franca">
+  <data key="d2">Location</data>
+  <data key="d3">countryside of Martina Franca</data>
+  <data key="d4">["102276", "102892", "102894"]</data>
+</node>
+<node id="Location:alberobello area">
+  <data key="d2">Location</data>
+  <data key="d3">Alberobello area</data>
+  <data key="d4">["102276", "102892", "102894"]</data>
+</node>
+<node id="Date:2022">
+  <data key="d2">Date</data>
+  <data key="d3">2022</data>
+  <data key="d4">["102276", "102892", "102894", "106417"]</data>
+</node>
+<node id="Location:netherlands">
+  <data key="d2">Location</data>
+  <data key="d3">Netherlands</data>
+  <data key="d4">["102892", "116622", "117194"]</data>
+</node>
+<node id="Pest:bactrocera dorsalis">
+  <data key="d2">Pest</data>
+  <data key="d3">Bactrocera dorsalis</data>
+  <data key="d4">["104868", "116554"]</data>
+</node>
+<node id="Location:reunion">
+  <data key="d2">Location</data>
+  <data key="d3">Reunion</data>
+  <data key="d4">["116554"]</data>
+</node>
+<node id="Date:in 2018">
+  <data key="d2">Date</data>
+  <data key="d3">In 2018</data>
+  <data key="d4">["116554", "99581"]</data>
+</node>
+<node id="Disease:greening virus">
+  <data key="d2">Disease</data>
+  <data key="d3">greening virus</data>
+  <data key="d4">["116554"]</data>
+</node>
+<node id="Date:this tuesday">
+  <data key="d2">Date</data>
+  <data key="d3">This Tuesday</data>
+  <data key="d4">["116554"]</data>
+</node>
+<node id="Date:between 2017 and 2019">
+  <data key="d2">Date</data>
+  <data key="d3">between 2017 and 2019</data>
+  <data key="d4">["116554"]</data>
+</node>
+<node id="Pest:japanese beetle">
+  <data key="d2">Pest</data>
+  <data key="d3">Japanese beetle</data>
+  <data key="d4">["100454", "100458", "103643"]</data>
+</node>
+<node id="Location:freiburg">
+  <data key="d2">Location</data>
+  <data key="d3">Freiburg</data>
+  <data key="d4">["100454", "100458"]</data>
+</node>
+<node id="Dissemination_pathway:tourist traffic">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">tourist traffic</data>
+  <data key="d4">["100458"]</data>
+</node>
+<node id="Location:northern italy">
+  <data key="d2">Location</data>
+  <data key="d3">northern Italy</data>
+  <data key="d4">["100458", "102516"]</data>
+</node>
+<node id="Location:baden-württemberg">
+  <data key="d2">Location</data>
+  <data key="d3">Baden-Württemberg</data>
+  <data key="d4">["100458", "103643"]</data>
+</node>
+<node id="Dissemination_pathway:freight">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">freight</data>
+  <data key="d4">["100454", "100458", "103643"]</data>
+</node>
+<node id="Disease:fusarium wilt of banana">
+  <data key="d2">Disease</data>
+  <data key="d3">Fusarium wilt of banana</data>
+  <data key="d4">["115121"]</data>
+</node>
+<node id="Location:middle east">
+  <data key="d2">Location</data>
+  <data key="d3">Middle East</data>
+  <data key="d4">["115121"]</data>
+</node>
+<node id="Pest:“tropical” race 4 strain">
+  <data key="d2">Pest</data>
+  <data key="d3">“tropical” race 4 strain</data>
+  <data key="d4">["115121"]</data>
+</node>
+<node id="Pest:foc4">
+  <data key="d2">Pest</data>
+  <data key="d3">Foc4</data>
+  <data key="d4">["115121"]</data>
+</node>
+<node id="Disease:greening">
+  <data key="d2">Disease</data>
+  <data key="d3">greening</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Location:sp">
+  <data key="d2">Location</data>
+  <data key="d3">SP</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Pest:candidatus liberibacter spp.">
+  <data key="d2">Pest</data>
+  <data key="d3">Candidatus Liberibacter spp.</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Location:mg">
+  <data key="d2">Location</data>
+  <data key="d3">MG</data>
+  <data key="d4">["105854", "98134"]</data>
+</node>
+<node id="Plant:orange">
+  <data key="d2">Plant</data>
+  <data key="d3">Orange</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Date:in previous years">
+  <data key="d2">Date</data>
+  <data key="d3">in previous years</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Location:regions of brotas">
+  <data key="d2">Location</data>
+  <data key="d3">regions of Brotas</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Date:in 2021">
+  <data key="d2">Date</data>
+  <data key="d3">in 2021</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Location:regions of triângulo mineiro">
+  <data key="d2">Location</data>
+  <data key="d3">regions of Triângulo Mineiro</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Location:triângulo mineiro">
+  <data key="d2">Location</data>
+  <data key="d3">Triângulo Mineiro</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Location:porto ferreira">
+  <data key="d2">Location</data>
+  <data key="d3">Porto Ferreira</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Date:annual">
+  <data key="d2">Date</data>
+  <data key="d3">Annual</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Date:in 2020">
+  <data key="d2">Date</data>
+  <data key="d3">in 2020</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Location:limeira">
+  <data key="d2">Location</data>
+  <data key="d3">Limeira</data>
+  <data key="d4">["105854"]</data>
+</node>
+<node id="Pest:tobamovirus">
+  <data key="d2">Pest</data>
+  <data key="d3">Tobamovirus</data>
+  <data key="d4">["106417", "117194"]</data>
+</node>
+<node id="Pest:foc tr4">
+  <data key="d2">Pest</data>
+  <data key="d3">Foc TR4</data>
+  <data key="d4">["106215"]</data>
+</node>
+<node id="Location:colombia">
+  <data key="d2">Location</data>
+  <data key="d3">Colombia</data>
+  <data key="d4">["106215", "116622"]</data>
+</node>
+<node id="Location:peru">
+  <data key="d2">Location</data>
+  <data key="d3">Peru</data>
+  <data key="d4">["106215"]</data>
+</node>
+<node id="Plant:cavendish clones">
+  <data key="d2">Plant</data>
+  <data key="d3">Cavendish clones</data>
+  <data key="d4">["106215"]</data>
+</node>
+<node id="Location:la guajira">
+  <data key="d2">Location</data>
+  <data key="d3">La Guajira</data>
+  <data key="d4">["106215"]</data>
+</node>
+<node id="Location:florida">
+  <data key="d2">Location</data>
+  <data key="d3">Florida</data>
+  <data key="d4">["118127", "98134"]</data>
+</node>
+<node id="Vector:diaphorina citri">
+  <data key="d2">Vector</data>
+  <data key="d3">Diaphorina citri</data>
+  <data key="d4">["105882", "118127"]</data>
+</node>
+<node id="Location:israel">
+  <data key="d2">Location</data>
+  <data key="d3">Israel</data>
+  <data key="d4">["116622", "118127", "99581"]</data>
+</node>
+<node id="Vector:trioza erytreae">
+  <data key="d2">Vector</data>
+  <data key="d3">Trioza erytreae</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Pest:candidatus liberibacter asiaticus">
+  <data key="d2">Pest</data>
+  <data key="d3">Candidatus Liberibacter asiaticus</data>
+  <data key="d4">["102433", "118127"]</data>
+</node>
+<node id="Pest:african strain of hlb">
+  <data key="d2">Pest</data>
+  <data key="d3">African strain of HLB</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:galicia">
+  <data key="d2">Location</data>
+  <data key="d3">Galicia</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Plant:mandarin trees">
+  <data key="d2">Plant</data>
+  <data key="d3">mandarin trees</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:spanish">
+  <data key="d2">Location</data>
+  <data key="d3">Spanish</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:huelva">
+  <data key="d2">Location</data>
+  <data key="d3">Huelva</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:mediterranean">
+  <data key="d2">Location</data>
+  <data key="d3">Mediterranean</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Date:in january 2022">
+  <data key="d2">Date</data>
+  <data key="d3">in January 2022</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Date:in january">
+  <data key="d2">Date</data>
+  <data key="d3">in January</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Plant:citrange reed">
+  <data key="d2">Plant</data>
+  <data key="d3">Citrange reed</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:porto">
+  <data key="d2">Location</data>
+  <data key="d3">Porto</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:asturias">
+  <data key="d2">Location</data>
+  <data key="d3">Asturias</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:cantabria">
+  <data key="d2">Location</data>
+  <data key="d3">Cantabria</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:basque country">
+  <data key="d2">Location</data>
+  <data key="d3">Basque Country</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Dissemination_pathway:plant material">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">plant material</data>
+  <data key="d4">["105882", "118127"]</data>
+</node>
+<node id="Date:one year later">
+  <data key="d2">Date</data>
+  <data key="d3">One year later</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:hefer valley">
+  <data key="d2">Location</data>
+  <data key="d3">Hefer Valley</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Date:in 2014">
+  <data key="d2">Date</data>
+  <data key="d3">in 2014</data>
+  <data key="d4">["100333", "118127", "99581"]</data>
+</node>
+<node id="Location:coastal city north of tel aviv">
+  <data key="d2">Location</data>
+  <data key="d3">coastal city north of Tel Aviv</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:ayamonte">
+  <data key="d2">Location</data>
+  <data key="d3">Ayamonte</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Dissemination_pathway:importation of fruits">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">importation of fruits</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:aljezur">
+  <data key="d2">Location</data>
+  <data key="d3">Aljezur</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Dissemination_pathway:plants">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">plants</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:algarve">
+  <data key="d2">Location</data>
+  <data key="d3">Algarve</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Dissemination_pathway:twigs">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">twigs</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Date:six months">
+  <data key="d2">Date</data>
+  <data key="d3">six months</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:algarve coastline">
+  <data key="d2">Location</data>
+  <data key="d3">Algarve coastline</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Date:in july">
+  <data key="d2">Date</data>
+  <data key="d3">in July</data>
+  <data key="d4">["103643", "118127"]</data>
+</node>
+<node id="Location:canary islands">
+  <data key="d2">Location</data>
+  <data key="d3">Canary Islands</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Date:in october 2021">
+  <data key="d2">Date</data>
+  <data key="d3">In October 2021</data>
+  <data key="d4">["118127"]</data>
+</node>
+<node id="Location:apulian provinces">
+  <data key="d2">Location</data>
+  <data key="d3">Apulian provinces</data>
+  <data key="d4">["115840"]</data>
+</node>
+<node id="Date:so far">
+  <data key="d2">Date</data>
+  <data key="d3">so far</data>
+  <data key="d4">["103391", "115840", "116010", "116208", "99733"]</data>
+</node>
+<node id="Disease:citrus greening">
+  <data key="d2">Disease</data>
+  <data key="d3">Citrus greening</data>
+  <data key="d4">["102433", "102441"]</data>
+</node>
+<node id="Pest:liberibacter">
+  <data key="d2">Pest</data>
+  <data key="d3">Liberibacter</data>
+  <data key="d4">["102433"]</data>
+</node>
+<node id="Pest:l. capsica">
+  <data key="d2">Pest</data>
+  <data key="d3">L. capsica</data>
+  <data key="d4">["102433"]</data>
+</node>
+<node id="Plant:pepper plant">
+  <data key="d2">Plant</data>
+  <data key="d3">pepper plant</data>
+  <data key="d4">["102433"]</data>
+</node>
+<node id="Plant:potatoes">
+  <data key="d2">Plant</data>
+  <data key="d3">potatoes</data>
+  <data key="d4">["102433"]</data>
+</node>
+<node id="Plant:citrus pla">
+  <data key="d2">Plant</data>
+  <data key="d3">citrus pla</data>
+  <data key="d4">["102433"]</data>
+</node>
+<node id="Date:years ago">
+  <data key="d2">Date</data>
+  <data key="d3">years ago</data>
+  <data key="d4">["106417"]</data>
+</node>
+<node id="Date:for the first time only a few years ago">
+  <data key="d2">Date</data>
+  <data key="d3">for the first time only a few years ago</data>
+  <data key="d4">["106417"]</data>
+</node>
+<node id="Pest:alb">
+  <data key="d2">Pest</data>
+  <data key="d3">ALB</data>
+  <data key="d4">["105490"]</data>
+</node>
+<node id="Location:magdeburg">
+  <data key="d2">Location</data>
+  <data key="d3">Magdeburg</data>
+  <data key="d4">["105490"]</data>
+</node>
+<node id="Location:north-eastern area">
+  <data key="d2">Location</data>
+  <data key="d3">north-eastern area</data>
+  <data key="d4">["105490"]</data>
+</node>
+<node id="Date:on august 22, 2022">
+  <data key="d2">Date</data>
+  <data key="d3">on August 22, 2022</data>
+  <data key="d4">["105490"]</data>
+</node>
+<node id="Disease:golden flavescence">
+  <data key="d2">Disease</data>
+  <data key="d3">golden flavescence</data>
+  <data key="d4">["103391"]</data>
+</node>
+<node id="Plant:vineyards">
+  <data key="d2">Plant</data>
+  <data key="d3">vineyards</data>
+  <data key="d4">["103391", "103643"]</data>
+</node>
+<node id="Location:veneto">
+  <data key="d2">Location</data>
+  <data key="d3">Veneto</data>
+  <data key="d4">["103391"]</data>
+</node>
+<node id="Location:treviso">
+  <data key="d2">Location</data>
+  <data key="d3">Treviso</data>
+  <data key="d4">["103391"]</data>
+</node>
+<node id="Location:countryside of gallipoli">
+  <data key="d2">Location</data>
+  <data key="d3">countryside of Gallipoli</data>
+  <data key="d4">["99733"]</data>
+</node>
+<node id="Location:italian">
+  <data key="d2">Location</data>
+  <data key="d3">Italian</data>
+  <data key="d4">["99733"]</data>
+</node>
+<node id="Location:north of the province of brindisi">
+  <data key="d2">Location</data>
+  <data key="d3">north of the province of Brindisi</data>
+  <data key="d4">["99733"]</data>
+</node>
+<node id="Plant:myrtle plant">
+  <data key="d2">Plant</data>
+  <data key="d3">myrtle plant</data>
+  <data key="d4">["99733"]</data>
+</node>
+<node id="Pest:tomato leaf curl new delhi virus">
+  <data key="d2">Pest</data>
+  <data key="d3">Tomato leaf curl New Delhi virus</data>
+  <data key="d4">["106012"]</data>
+</node>
+<node id="Location:slovakia">
+  <data key="d2">Location</data>
+  <data key="d3">Slovakia</data>
+  <data key="d4">["106012"]</data>
+</node>
+<node id="Date:14-09-2022">
+  <data key="d2">Date</data>
+  <data key="d3">14-09-2022</data>
+  <data key="d4">["106012"]</data>
+</node>
+<node id="Plant:wheat">
+  <data key="d2">Plant</data>
+  <data key="d3">wheat</data>
+  <data key="d4">["106012", "117415"]</data>
+</node>
+<node id="Pest:grapevine flavescence dorãe phytoplasma">
+  <data key="d2">Pest</data>
+  <data key="d3">Grapevine flavescence dorÃe phytoplasma</data>
+  <data key="d4">["106012"]</data>
+</node>
+<node id="Disease:golden yellowing">
+  <data key="d2">Disease</data>
+  <data key="d3">golden yellowing</data>
+  <data key="d4">["106012"]</data>
+</node>
+<node id="Date:08-2022">
+  <data key="d2">Date</data>
+  <data key="d3">08-2022</data>
+  <data key="d4">["106012"]</data>
+</node>
+<node id="Plant:grapevine">
+  <data key="d2">Plant</data>
+  <data key="d3">grapevine</data>
+  <data key="d4">["106012", "99433"]</data>
+</node>
+<node id="Pest:whiteflies">
+  <data key="d2">Pest</data>
+  <data key="d3">whiteflies</data>
+  <data key="d4">["104453"]</data>
+</node>
+<node id="Plant:soybeans">
+  <data key="d2">Plant</data>
+  <data key="d3">soybeans</data>
+  <data key="d4">["104453"]</data>
+</node>
+<node id="Dissemination_pathway:lots of plants">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">lots of plants</data>
+  <data key="d4">["102276", "102894", "115859"]</data>
+</node>
+<node id="Location:port of bari">
+  <data key="d2">Location</data>
+  <data key="d3">port of Bari</data>
+  <data key="d4">["102276", "102894", "115859"]</data>
+</node>
+<node id="Location:freiburg area">
+  <data key="d2">Location</data>
+  <data key="d3">Freiburg area</data>
+  <data key="d4">["103643"]</data>
+</node>
+<node id="Location:weil am rhein">
+  <data key="d2">Location</data>
+  <data key="d3">Weil am Rhein</data>
+  <data key="d4">["103643"]</data>
+</node>
+<node id="Date:last autumn">
+  <data key="d2">Date</data>
+  <data key="d3">last autumn</data>
+  <data key="d4">["103643"]</data>
+</node>
+<node id="Pest:bursaphelenchus xylophilus">
+  <data key="d2">Pest</data>
+  <data key="d3">Bursaphelenchus xylophilus</data>
+  <data key="d4">["100296", "117546", "98065"]</data>
+</node>
+<node id="Disease:pine wilt disease">
+  <data key="d2">Disease</data>
+  <data key="d3">pine wilt disease</data>
+  <data key="d4">["100296", "106250", "98065"]</data>
+</node>
+<node id="Plant:pinus">
+  <data key="d2">Plant</data>
+  <data key="d3">Pinus</data>
+  <data key="d4">["98065"]</data>
+</node>
+<node id="Pest:fall armyworm">
+  <data key="d2">Pest</data>
+  <data key="d3">fall armyworm</data>
+  <data key="d4">["100333", "100471", "104562"]</data>
+</node>
+<node id="Plant:corn">
+  <data key="d2">Plant</data>
+  <data key="d3">corn</data>
+  <data key="d4">["104562"]</data>
+</node>
+<node id="Plant:sorghum">
+  <data key="d2">Plant</data>
+  <data key="d3">sorghum</data>
+  <data key="d4">["100471", "104562"]</data>
+</node>
+<node id="Pest:tomato brown rugose fruit virus">
+  <data key="d2">Pest</data>
+  <data key="d3">Tomato brown rugose fruit virus</data>
+  <data key="d4">["100478"]</data>
+</node>
+<node id="Plant:pepper">
+  <data key="d2">Plant</data>
+  <data key="d3">pepper</data>
+  <data key="d4">["100478"]</data>
+</node>
+<node id="Location:territory of palma campania">
+  <data key="d2">Location</data>
+  <data key="d3">territory of Palma Campania</data>
+  <data key="d4">["104868"]</data>
+</node>
+<node id="Location:campania region">
+  <data key="d2">Location</data>
+  <data key="d3">Campania Region</data>
+  <data key="d4">["104868"]</data>
+</node>
+<node id="Pest:clas">
+  <data key="d2">Pest</data>
+  <data key="d3">CLas</data>
+  <data key="d4">["102441"]</data>
+</node>
+<node id="Disease:huanglongbing disease">
+  <data key="d2">Disease</data>
+  <data key="d3">Huanglongbing disease</data>
+  <data key="d4">["116192", "116242"]</data>
+</node>
+<node id="Plant:banana wilt">
+  <data key="d2">Plant</data>
+  <data key="d3">banana wilt</data>
+  <data key="d4">["116242"]</data>
+</node>
+<node id="Location:fasano">
+  <data key="d2">Location</data>
+  <data key="d3">Fasano</data>
+  <data key="d4">["115232", "115859"]</data>
+</node>
+<node id="Location:martina franca">
+  <data key="d2">Location</data>
+  <data key="d3">Martina Franca</data>
+  <data key="d4">["115232", "115859"]</data>
+</node>
+<node id="Location:locorotondo">
+  <data key="d2">Location</data>
+  <data key="d3">Locorotondo</data>
+  <data key="d4">["115232", "115859"]</data>
+</node>
+<node id="Location:apulian">
+  <data key="d2">Location</data>
+  <data key="d3">Apulian</data>
+  <data key="d4">["115232"]</data>
+</node>
+<node id="Plant:maize">
+  <data key="d2">Plant</data>
+  <data key="d3">maize</data>
+  <data key="d4">["100333", "100471"]</data>
+</node>
+<node id="Location:nigeria">
+  <data key="d2">Location</data>
+  <data key="d3">Nigeria</data>
+  <data key="d4">["100333"]</data>
+</node>
+<node id="Location:egypt">
+  <data key="d2">Location</data>
+  <data key="d3">Egypt</data>
+  <data key="d4">["100333"]</data>
+</node>
+<node id="Pest:stem borer">
+  <data key="d2">Pest</data>
+  <data key="d3">stem borer</data>
+  <data key="d4">["100333"]</data>
+</node>
+<node id="Location:kenya">
+  <data key="d2">Location</data>
+  <data key="d3">Kenya</data>
+  <data key="d4">["100333"]</data>
+</node>
+<node id="Location:czech republic">
+  <data key="d2">Location</data>
+  <data key="d3">Czech Republic</data>
+  <data key="d4">["100333"]</data>
+</node>
+<node id="Date:from october 8, 2021 to october 5, 2024">
+  <data key="d2">Date</data>
+  <data key="d3">from October 8, 2021 to October 5, 2024</data>
+  <data key="d4">["100333"]</data>
+</node>
+<node id="Location:romania">
+  <data key="d2">Location</data>
+  <data key="d3">Romania</data>
+  <data key="d4">["100333"]</data>
+</node>
+<node id="Vector:hyalesthes obsoletus">
+  <data key="d2">Vector</data>
+  <data key="d3">Hyalesthes obsoletus</data>
+  <data key="d4">["99433"]</data>
+</node>
+<node id="Pest:candidatus phytoplasma solani">
+  <data key="d2">Pest</data>
+  <data key="d3">Candidatus Phytoplasma solani</data>
+  <data key="d4">["99433"]</data>
+</node>
+<node id="Disease:bois noir">
+  <data key="d2">Disease</data>
+  <data key="d3">Bois noir</data>
+  <data key="d4">["99433"]</data>
+</node>
+<node id="Vector:reptalus panzeri">
+  <data key="d2">Vector</data>
+  <data key="d3">Reptalus panzeri</data>
+  <data key="d4">["99433"]</data>
+</node>
+<node id="Location:european">
+  <data key="d2">Location</data>
+  <data key="d3">European</data>
+  <data key="d4">["99433"]</data>
+</node>
+<node id="Pest:flavescence dorée phytoplasma">
+  <data key="d2">Pest</data>
+  <data key="d3">Flavescence dorée phytoplasma</data>
+  <data key="d4">["99433"]</data>
+</node>
+<node id="Location:argentina">
+  <data key="d2">Location</data>
+  <data key="d3">Argentina</data>
+  <data key="d4">["105882"]</data>
+</node>
+<node id="Location:uruguay">
+  <data key="d2">Location</data>
+  <data key="d3">Uruguay</data>
+  <data key="d4">["105882"]</data>
+</node>
+<node id="Location:paraguay">
+  <data key="d2">Location</data>
+  <data key="d3">Paraguay</data>
+  <data key="d4">["105882"]</data>
+</node>
+<node id="Location:venezuela">
+  <data key="d2">Location</data>
+  <data key="d3">Venezuela</data>
+  <data key="d4">["105882"]</data>
+</node>
+<node id="Pest:candidatus liberibacter spp .">
+  <data key="d2">Pest</data>
+  <data key="d3">Candidatus Liberibacter spp .</data>
+  <data key="d4">["105882"]</data>
+</node>
+<node id="Location:mexico">
+  <data key="d2">Location</data>
+  <data key="d3">Mexico</data>
+  <data key="d4">["105882", "99632"]</data>
+</node>
+<node id="Location:bolivia">
+  <data key="d2">Location</data>
+  <data key="d3">Bolivia</data>
+  <data key="d4">["105882"]</data>
+</node>
+<node id="Plant:prunus armeniaca">
+  <data key="d2">Plant</data>
+  <data key="d3">Prunus armeniaca</data>
+  <data key="d4">["114258"]</data>
+</node>
+<node id="Location:canada">
+  <data key="d2">Location</data>
+  <data key="d3">Canada</data>
+  <data key="d4">["114258"]</data>
+</node>
+<node id="Location:ontario">
+  <data key="d2">Location</data>
+  <data key="d3">Ontario</data>
+  <data key="d4">["114258"]</data>
+</node>
+<node id="Location:province of ontario">
+  <data key="d2">Location</data>
+  <data key="d3">Province of Ontario</data>
+  <data key="d4">["114258"]</data>
+</node>
+<node id="Location:niagara region">
+  <data key="d2">Location</data>
+  <data key="d3">Niagara region</data>
+  <data key="d4">["114258"]</data>
+</node>
+<node id="Pest:tropical race 4">
+  <data key="d2">Pest</data>
+  <data key="d3">Tropical Race 4</data>
+  <data key="d4">["118038"]</data>
+</node>
+<node id="Disease:panama disease">
+  <data key="d2">Disease</data>
+  <data key="d3">Panama disease</data>
+  <data key="d4">["116622", "117415", "118038"]</data>
+</node>
+<node id="Pest:fusarium oxysporum cubense race 1">
+  <data key="d2">Pest</data>
+  <data key="d3">Fusarium oxysporum cubense Race 1</data>
+  <data key="d4">["118038"]</data>
+</node>
+<node id="Plant:cavendish bananas">
+  <data key="d2">Plant</data>
+  <data key="d3">Cavendish bananas</data>
+  <data key="d4">["118038"]</data>
+</node>
+<node id="Plant:bananas">
+  <data key="d2">Plant</data>
+  <data key="d3">Bananas</data>
+  <data key="d4">["117415", "118038", "99632"]</data>
+</node>
+<node id="Date:in the 1950s">
+  <data key="d2">Date</data>
+  <data key="d3">In the 1950s</data>
+  <data key="d4">["117415", "118038"]</data>
+</node>
+<node id="Disease:disease of citrus black spot">
+  <data key="d2">Disease</data>
+  <data key="d3">disease of citrus black spot</data>
+  <data key="d4">["116509"]</data>
+</node>
+<node id="Dissemination_pathway:citrus fruits">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">citrus fruits</data>
+  <data key="d4">["116509"]</data>
+</node>
+<node id="Dissemination_pathway:oranges">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">oranges</data>
+  <data key="d4">["116509"]</data>
+</node>
+<node id="Disease:hlb-infected">
+  <data key="d2">Disease</data>
+  <data key="d3">HLB-infected</data>
+  <data key="d4">["98134"]</data>
+</node>
+<node id="Location:hamlin">
+  <data key="d2">Location</data>
+  <data key="d3">Hamlin</data>
+  <data key="d4">["98134"]</data>
+</node>
+<node id="Disease:huanglonbing">
+  <data key="d2">Disease</data>
+  <data key="d3">huanglonbing</data>
+  <data key="d4">["98134"]</data>
+</node>
+<node id="Disease:hlb-free">
+  <data key="d2">Disease</data>
+  <data key="d3">HLB-free</data>
+  <data key="d4">["98134"]</data>
+</node>
+<node id="Plant:oranges">
+  <data key="d2">Plant</data>
+  <data key="d3">oranges</data>
+  <data key="d4">["98134"]</data>
+</node>
+<node id="Disease:huanglongbing-infected">
+  <data key="d2">Disease</data>
+  <data key="d3">huanglongbing-infected</data>
+  <data key="d4">["98134"]</data>
+</node>
+<node id="Date:over the last two decades">
+  <data key="d2">Date</data>
+  <data key="d3">over the last two decades</data>
+  <data key="d4">["98134"]</data>
+</node>
+<node id="Pest:bactericera cockerelli">
+  <data key="d2">Pest</data>
+  <data key="d3">Bactericera cockerelli</data>
+  <data key="d4">["105440"]</data>
+</node>
+<node id="Plant:tomato plants">
+  <data key="d2">Plant</data>
+  <data key="d3">tomato plants</data>
+  <data key="d4">["105440"]</data>
+</node>
+<node id="Pest:candidatus liberibacter solanacearum">
+  <data key="d2">Pest</data>
+  <data key="d3">Candidatus Liberibacter solanacearum</data>
+  <data key="d4">["105440"]</data>
+</node>
+<node id="Plant:tomato varieties">
+  <data key="d2">Plant</data>
+  <data key="d3">Tomato Varieties</data>
+  <data key="d4">["105440"]</data>
+</node>
+<node id="Pest:r4t">
+  <data key="d2">Pest</data>
+  <data key="d3">R4T</data>
+  <data key="d4">["116622"]</data>
+</node>
+<node id="Location:philippines">
+  <data key="d2">Location</data>
+  <data key="d3">Philippines</data>
+  <data key="d4">["116622"]</data>
+</node>
+<node id="Plant:cavendish cultivar">
+  <data key="d2">Plant</data>
+  <data key="d3">Cavendish cultivar</data>
+  <data key="d4">["116622"]</data>
+</node>
+<node id="Plant:cavendish variety">
+  <data key="d2">Plant</data>
+  <data key="d3">Cavendish variety</data>
+  <data key="d4">["116622"]</data>
+</node>
+<node id="Date:more than seven years">
+  <data key="d2">Date</data>
+  <data key="d3">more than seven years</data>
+  <data key="d4">["116622"]</data>
+</node>
+<node id="Plant:pine trees">
+  <data key="d2">Plant</data>
+  <data key="d3">pine trees</data>
+  <data key="d4">["106250", "117546"]</data>
+</node>
+<node id="Plant:pinus massoniana">
+  <data key="d2">Plant</data>
+  <data key="d3">Pinus massoniana</data>
+  <data key="d4">["117546"]</data>
+</node>
+<node id="Pest:pine nidus during early nematode">
+  <data key="d2">Pest</data>
+  <data key="d3">pine nidus during early nematode</data>
+  <data key="d4">["117546"]</data>
+</node>
+<node id="Pest:pine nematodes">
+  <data key="d2">Pest</data>
+  <data key="d3">pine nematodes</data>
+  <data key="d4">["117546"]</data>
+</node>
+<node id="Pest:proteobacteria phylum">
+  <data key="d2">Pest</data>
+  <data key="d3">Proteobacteria phylum</data>
+  <data key="d4">["117546"]</data>
+</node>
+<node id="Pest:foctr4">
+  <data key="d2">Pest</data>
+  <data key="d3">FocTR4</data>
+  <data key="d4">["117415"]</data>
+</node>
+<node id="Plant:gros michel">
+  <data key="d2">Plant</data>
+  <data key="d3">Gros Michel</data>
+  <data key="d4">["117415"]</data>
+</node>
+<node id="Location:taiwan">
+  <data key="d2">Location</data>
+  <data key="d3">Taiwan</data>
+  <data key="d4">["117415"]</data>
+</node>
+<node id="Plant:cultivar cavendish">
+  <data key="d2">Plant</data>
+  <data key="d3">cultivar Cavendish</data>
+  <data key="d4">["117415"]</data>
+</node>
+<node id="Pest:focr1">
+  <data key="d2">Pest</data>
+  <data key="d3">FocR1</data>
+  <data key="d4">["117415"]</data>
+</node>
+<node id="Disease:fusarium wilt cannot">
+  <data key="d2">Disease</data>
+  <data key="d3">fusarium wilt cannot</data>
+  <data key="d4">["117415"]</data>
+</node>
+<node id="Date:in 1967">
+  <data key="d2">Date</data>
+  <data key="d3">in 1967</data>
+  <data key="d4">["117415"]</data>
+</node>
+<node id="Disease:fusarium wilt of bananas">
+  <data key="d2">Disease</data>
+  <data key="d3">Fusarium wilt of bananas</data>
+  <data key="d4">["117415"]</data>
+</node>
+<node id="Location:dutch">
+  <data key="d2">Location</data>
+  <data key="d3">Dutch</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Disease:brown wrinkling of tomatoes">
+  <data key="d2">Disease</data>
+  <data key="d3">brown wrinkling of tomatoes</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Plant:tomato farms">
+  <data key="d2">Plant</data>
+  <data key="d3">tomato farms</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Location:germany">
+  <data key="d2">Location</data>
+  <data key="d3">Germany</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Location:sicily">
+  <data key="d2">Location</data>
+  <data key="d3">Sicily</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Location:hungary">
+  <data key="d2">Location</data>
+  <data key="d3">Hungary</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Date:from mid-2019">
+  <data key="d2">Date</data>
+  <data key="d3">from mid-2019</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Date:on june 1, 2022">
+  <data key="d2">Date</data>
+  <data key="d3">on June 1, 2022</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Pest:tobamoviruses">
+  <data key="d2">Pest</data>
+  <data key="d3">tobamoviruses</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Date:at the beginning of 2019">
+  <data key="d2">Date</data>
+  <data key="d3">at the beginning of 2019</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Date:as of november 1, 2019">
+  <data key="d2">Date</data>
+  <data key="d3">As of November 1, 2019</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Plant:tomato-damaging">
+  <data key="d2">Plant</data>
+  <data key="d3">tomato-damaging</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Date:by june 1">
+  <data key="d2">Date</data>
+  <data key="d3">By June 1</data>
+  <data key="d4">["99581"]</data>
+</node>
+<node id="Disease:huanglongbing">
+  <data key="d2">Disease</data>
+  <data key="d3">Huanglongbing</data>
+  <data key="d4">["116208"]</data>
+</node>
+<node id="Plant:citrus plants">
+  <data key="d2">Plant</data>
+  <data key="d3">citrus plants</data>
+  <data key="d4">["116208"]</data>
+</node>
+<node id="Pest:candidatus liberibacter spp)">
+  <data key="d2">Pest</data>
+  <data key="d3">Candidatus Liberibacter spp)</data>
+  <data key="d4">["116208"]</data>
+</node>
+<node id="Location:entre ríos">
+  <data key="d2">Location</data>
+  <data key="d3">Entre Ríos</data>
+  <data key="d4">["116208"]</data>
+</node>
+<node id="Location:metropolitan area of porto">
+  <data key="d2">Location</data>
+  <data key="d3">Metropolitan Area of Porto</data>
+  <data key="d4">["115188"]</data>
+</node>
+<node id="Plant:lavandula dentata">
+  <data key="d2">Plant</data>
+  <data key="d3">Lavandula dentata</data>
+  <data key="d4">["115188"]</data>
+</node>
+<node id="Location:espinho">
+  <data key="d2">Location</data>
+  <data key="d3">Espinho</data>
+  <data key="d4">["115188"]</data>
+</node>
+<node id="Location:vila nova de gaia">
+  <data key="d2">Location</data>
+  <data key="d3">Vila Nova de Gaia</data>
+  <data key="d4">["115188"]</data>
+</node>
+<node id="Location:santa maria da feira">
+  <data key="d2">Location</data>
+  <data key="d3">Santa Maria da Feira</data>
+  <data key="d4">["115188"]</data>
+</node>
+<node id="Location:municipality of sintra">
+  <data key="d2">Location</data>
+  <data key="d3">municipality of Sintra</data>
+  <data key="d4">["115188"]</data>
+</node>
+<node id="Location:north">
+  <data key="d2">Location</data>
+  <data key="d3">North</data>
+  <data key="d4">["115119"]</data>
+</node>
+<node id="Location:southern europe">
+  <data key="d2">Location</data>
+  <data key="d3">southern Europe</data>
+  <data key="d4">["100454"]</data>
+</node>
+<node id="Location:northern europe">
+  <data key="d2">Location</data>
+  <data key="d3">northern Europe</data>
+  <data key="d4">["100454"]</data>
+</node>
+<node id="Location:alsace">
+  <data key="d2">Location</data>
+  <data key="d3">Alsace</data>
+  <data key="d4">["100454"]</data>
+</node>
+<node id="Plant:oaks">
+  <data key="d2">Plant</data>
+  <data key="d3">oaks</data>
+  <data key="d4">["100454"]</data>
+</node>
+<node id="Plant:tomatoes">
+  <data key="d2">Plant</data>
+  <data key="d3">tomatoes</data>
+  <data key="d4">["100454"]</data>
+</node>
+<node id="Date:in the fall of 2021">
+  <data key="d2">Date</data>
+  <data key="d3">In the fall of 2021</data>
+  <data key="d4">["100454"]</data>
+</node>
+<node id="Date:last year">
+  <data key="d2">Date</data>
+  <data key="d3">last year</data>
+  <data key="d4">["100454"]</data>
+</node>
+<node id="Disease:fusariosis">
+  <data key="d2">Disease</data>
+  <data key="d3">Fusariosis</data>
+  <data key="d4">["99632"]</data>
+</node>
+<node id="Pest:ralstonia solanacearum race 2">
+  <data key="d2">Pest</data>
+  <data key="d3">Ralstonia solanacearum Race 2</data>
+  <data key="d4">["99632"]</data>
+</node>
+<node id="Location:tabasco">
+  <data key="d2">Location</data>
+  <data key="d3">Tabasco</data>
+  <data key="d4">["99632"]</data>
+</node>
+<node id="Pest:r. solanacearum">
+  <data key="d2">Pest</data>
+  <data key="d3">R. solanacearum</data>
+  <data key="d4">["99632"]</data>
+</node>
+<node id="Pest:pinewood nematodes">
+  <data key="d2">Pest</data>
+  <data key="d3">pinewood nematodes</data>
+  <data key="d4">["106250"]</data>
+</node>
+<node id="Plant:pinaceae species">
+  <data key="d2">Plant</data>
+  <data key="d3">Pinaceae species</data>
+  <data key="d4">["106250"]</data>
+</node>
+<node id="Location:bangladesh">
+  <data key="d2">Location</data>
+  <data key="d3">Bangladesh</data>
+  <data key="d4">["100471"]</data>
+</node>
+<node id="Plant:maize cultivation">
+  <data key="d2">Plant</data>
+  <data key="d3">maize cultivation</data>
+  <data key="d4">["100471"]</data>
+</node>
+<node id="Dissemination_pathway:clothes">
+  <data key="d2">Dissemination_pathway</data>
+  <data key="d3">clothes</data>
+  <data key="d4">["104732"]</data>
+</node>
+<node id="Plant:japanese black pine">
+  <data key="d2">Plant</data>
+  <data key="d3">Japanese black pine</data>
+  <data key="d4">["100296"]</data>
+</node>
+<node id="Plant:pinus thunbergii">
+  <data key="d2">Plant</data>
+  <data key="d3">Pinus thunbergii</data>
+  <data key="d4">["100296"]</data>
+</node>
+<node id="Plant:citrus black spot">
+  <data key="d2">Plant</data>
+  <data key="d3">Citrus Black Spot</data>
+  <data key="d4">["117314"]</data>
+</node>
+<edge source="Pest:asian long-horned beetle" target="Location:zell" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Location:switzerland" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Location:lucerne" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Location:from east asia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Date:in 2011" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Date:in 2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Date:first time" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Plant:birch" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Plant:plane tree" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Plant:maple" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Pest:asian long-horned beetle" target="Plant:beech" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104657"]</data>
+</edge>
+<edge source="Disease:banana disease" target="Location:africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107116", "107268"]</data>
+</edge>
+<edge source="Disease:banana disease" target="Plant:banana" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["107116", "107268"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:united states" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Plant:citrus" target="Date:for the first time" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:southern california" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99054"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:california" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116192", "99054"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:riverside county" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99054"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:san diego county" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99054"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:san pasqual" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99054"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:sp" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Date:this year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Date:in 2021" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:regions of brotas" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:triângulo mineiro" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:limeira" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:portugal" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:huelva" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:spanish" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:galicia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:aljezur" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:ayamonte" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:algarve" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:florida" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:latin america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:argentina" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:uruguay" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:paraguay" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:venezuela" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:mozambique" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107116", "107265", "107268"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:ruanda" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:malawi" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:uganda" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:tanzania" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:latin america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:colombia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215", "116622"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:peru" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Plant:banana" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:foc r4t" target="Plant:banana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Pest:foc r4t" target="Dissemination_pathway:movement of plantain planting material" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Pest:foc r4t" target="Location:mexico" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Disease:brown rot" target="Location:china" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Disease:brown rot" target="Plant:navel orange" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Disease:brown rot" target="Location:brazil" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Plant:navel orange" target="Location:china" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Pest:phytophthora" target="Location:china" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Pest:phytophthora" target="Disease:brown rot" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Pest:phytophthora" target="Plant:navel orange" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["107116"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:greece" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:spain" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:salento" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:apulian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232"]</data>
+</edge>
+<edge source="Plant:olive" target="Location:puglia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115859"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:polignano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506", "102276", "102892", "102894", "115232", "115859", "97985"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:monopoli" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "97985"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:puglia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506", "102276", "102892", "102894", "105574", "115859", "115980", "97985", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424", "102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100424", "100506", "102276", "102892", "102894", "103887", "105574", "115232", "115859", "116010", "97985", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100424", "102276", "102892", "102894", "115232", "115859", "115980", "97985"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:spain" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424", "102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:july 14, 2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["97985"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:basilicata" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506", "105574", "97985"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:polignano a mare" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:bari area" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574", "115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:taranto" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:lecce" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424", "103887", "105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:brindisi" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424", "105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:roccaforzata" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:pulsano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:san marzano di san giuseppe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:monteiasi" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:manduria" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:maruggio" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:from january to december 2021" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:carosino" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:lizzano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:faggiano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:fragagnano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:avetrana" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:sava" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:torricella" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:september 18, 2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:provinces of lecce" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:olive-growing" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:bari" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506", "103887", "115980", "116010"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:countryside of fasano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506", "102276", "102892", "102894", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:rosemary" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100506", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:countryside of monopoli" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:july 29, 2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:myrtle" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100506", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:north of brindisi" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:puglia region" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:barletta" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:portugal" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:salento" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:province of bari" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:almond tree" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102276", "102892", "102894"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:polygala mirtifolia" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102276", "102892", "102894"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:countryside of martina franca" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:alberobello area" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["102276", "102892", "102894"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:netherlands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102892"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:almond trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["103887"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:so far" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116010", "99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Date:in 2013" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:north of the province of brindisi" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Plant:myrtle plant" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:countryside of gallipoli" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:italian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99733"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:martina franca" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232", "115859"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:locorotondo" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232", "115859"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:fasano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232", "115859"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:apulian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232"]</data>
+</edge>
+<edge source="Pest:xylella" target="Dissemination_pathway:clothes" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104732"]</data>
+</edge>
+<edge source="Pest:xylella" target="Dissemination_pathway:clothes" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["104732"]</data>
+</edge>
+<edge source="Pest:xylella" target="Dissemination_pathway:cars" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104732"]</data>
+</edge>
+<edge source="Pest:xylella" target="Dissemination_pathway:cars" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["104732"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117314"]</data>
+</edge>
+<edge source="Pest:xylella" target="Location:eu" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117314"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:monopoli" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "97985"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:polignano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "115232", "115859", "97985"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:puglia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506", "102276", "102892", "102894", "105574", "115859", "97985", "99733"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:polignano a mare" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574", "99733"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:bari area" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574", "115232"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:brindisi" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:lecce" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424", "103887", "105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:taranto" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:basilicata" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:san marzano di san giuseppe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:roccaforzata" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:pulsano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:monteiasi" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:maruggio" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:manduria" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:torricella" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:sava" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:avetrana" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:carosino" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:faggiano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:fragagnano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:lizzano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105574"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:gard" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["97966"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:bari" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100506", "103887", "115840"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:salento" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424", "115840"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:barletta" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100424"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:countryside of martina franca" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:apulian provinces" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115840"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:countryside of gallipoli" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99733"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:italian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99733"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:province of bari" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102894", "99733"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Date:in 2013" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99733"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:fasano" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232", "115859"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:martina franca" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232", "115859"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:locorotondo" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232", "115859"]</data>
+</edge>
+<edge source="Plant:olive trees" target="Location:apulian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115232"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa pauca" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa pauca" target="Location:greece" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa pauca" target="Plant:olive" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa pauca" target="Location:spain" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102892", "102894", "115859", "97985"]</data>
+</edge>
+<edge source="Vector:spittoon" target="Pest:xylella" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["97985"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Plant:olive trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["103005", "115840", "97966"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:france" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005", "105286", "117451", "97966"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005", "117451"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:to date" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["103005", "115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005", "104752", "117451"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:formentera" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:balearic islands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:ibiza" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:in october 2016" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:menorca" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:mallorca" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:06/09/2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105286"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:on 31 august" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105286"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:on 31 august. 06/09/2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105286"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:agence europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105286"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:gard" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["97966"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:since november 2021" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["97966"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:european union" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115188", "117451"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:spain" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117451"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:salento" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115840"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:apulian provinces" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115840"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:bari" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115840"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Date:so far" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["115840"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:metropolitan area of porto" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Plant:lavandula dentata" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:espinho" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:vila nova de gaia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:santa maria da feira" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115188"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa" target="Location:municipality of sintra" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115188"]</data>
+</edge>
+<edge source="Pest:asian capricorn" target="Location:loiret" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Pest:asian capricorn" target="Location:france" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:asian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102433", "98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:florida" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:hamlin" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Location:mg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Plant:citrus trees" target="Date:over the last two decades" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Pest:popillia japonica" target="Location:japan" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Pest:popillia japonica" target="Location:french territory" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Pest:popillia japonica" target="Location:northern italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102516"]</data>
+</edge>
+<edge source="Pest:popillia japonica" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102516"]</data>
+</edge>
+<edge source="Pest:xylella fastidiosa xylella fastidiosa" target="Location:france" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Plant:vines" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Plant:vines" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Plant:a. chinensis" target="Location:asia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Plant:polygala myrtifolia" target="Location:south corsica" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103005"]</data>
+</edge>
+<edge source="Pest:tr4" target="Disease:fusarium wilt" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:mozambique" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:south america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:asia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Plant:cavendish banana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["107265", "107268", "116622"]</data>
+</edge>
+<edge source="Pest:tr4" target="Plant:banana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["107265", "107268", "116622"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Date:over the past decade" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Dissemination_pathway:water" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Dissemination_pathway:humans" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Dissemination_pathway:cars" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Date:almost ten years after" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Dissemination_pathway:tools" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Pest:tr4" target="Disease:panama disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:philippines" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:colombia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:tr4" target="Location:netherlands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:mozambique" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:asia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:south america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215", "107265", "107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Date:over the past decade" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["107265", "107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Plant:banana" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["106215", "107265", "107268", "117305"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:latin america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Date:in 2013" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Date:forties of the last century" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Plant:banana cultivar maçã" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["117305"]</data>
+</edge>
+<edge source="Disease:fusarium wilt" target="Location:colombia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:ruanda" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:tanzania" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:malawi" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:uganda" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["107268"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:colombia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:philippines" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Location:netherlands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Plant:cavendish banana" target="Date:more than seven years" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Disease:citrus black spot disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Dissemination_pathway:citrus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["116678", "117314"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116509", "116678", "117314"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Date:in september" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116509", "116678", "117314"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Date:so far this year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116509", "116678"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Disease:disease of citrus black spot" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Plant:citrus black spot" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117314"]</data>
+</edge>
+<edge source="Pest:phyllosticta citricarpa" target="Date:this year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117314"]</data>
+</edge>
+<edge source="Disease:citrus black spot disease" target="Date:so far this year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Disease:citrus black spot disease" target="Date:in september" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Disease:citrus black spot disease" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Disease:citrus black spot disease" target="Dissemination_pathway:shipments" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus" target="Location:eu" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116678", "117314"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus" target="Date:up to september" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus" target="Location:brazil" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus" target="Location:spain" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116678", "117314"]</data>
+</edge>
+<edge source="Pest:cotonet" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116678"]</data>
+</edge>
+<edge source="Dissemination_pathway:shipments" target="Date:so far this year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116509", "116678"]</data>
+</edge>
+<edge source="Dissemination_pathway:shipments" target="Date:in september" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116509", "116678"]</data>
+</edge>
+<edge source="Dissemination_pathway:shipments" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:orange exports" target="Date:in september" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116678", "117314"]</data>
+</edge>
+<edge source="Dissemination_pathway:orange exports" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116678", "117314"]</data>
+</edge>
+<edge source="Pest:pauca" target="Location:ibiza" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725"]</data>
+</edge>
+<edge source="Pest:pauca" target="Location:balearic islands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104752"]</data>
+</edge>
+<edge source="Pest:multiplex" target="Location:ibiza" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725"]</data>
+</edge>
+<edge source="Pest:multiplex" target="Date:in october 2016" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Pest:multiplex" target="Location:balearic islands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Pest:fastidiosa" target="Location:ibiza" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725"]</data>
+</edge>
+<edge source="Pest:fastidiosa" target="Date:in october 2016" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Pest:fastidiosa" target="Location:balearic islands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104752"]</data>
+</edge>
+<edge source="Plant:almond trees" target="Date:this year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Plant:almond trees" target="Location:balearic islands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104725", "104752"]</data>
+</edge>
+<edge source="Plant:almond trees" target="Location:bari" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103887"]</data>
+</edge>
+<edge source="Plant:almond trees" target="Location:lecce" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103887"]</data>
+</edge>
+<edge source="Plant:vineyard" target="Location:san pasqual" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99054"]</data>
+</edge>
+<edge source="Plant:vineyard" target="Location:san diego county" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99054"]</data>
+</edge>
+<edge source="Plant:vineyard" target="Location:riverside county" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99054"]</data>
+</edge>
+<edge source="Plant:vineyard" target="Location:california" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99054"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Location:asian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102433", "98134", "99054"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Pest:candidatus liberibacter asiaticus" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Disease:citrus greening" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Plant:citrus trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Plant:citrus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["116192"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Location:california" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116192"]</data>
+</edge>
+<edge source="Vector:citrus psyllid" target="Disease:hlb" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Disease:fusarium wilt" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["117305"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Plant:banana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115121", "117305"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Disease:fusarium wilt of banana" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum f. sp. cubense" target="Location:middle east" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Pest:foc" target="Disease:fusarium wilt" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["106215", "117305"]</data>
+</edge>
+<edge source="Pest:foc" target="Plant:banana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106215", "115121", "117305"]</data>
+</edge>
+<edge source="Pest:foc" target="Disease:fusarium wilt of banana" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Pest:foc" target="Plant:cavendish clones" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc" target="Location:colombia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc" target="Disease:panama disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foc" target="Plant:gros michel" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:fusarium kalimantanense" target="Disease:fusarium wilt" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["117305"]</data>
+</edge>
+<edge source="Pest:oriental fruit fly" target="Location:fountain valley area" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115318"]</data>
+</edge>
+<edge source="Pest:oriental fruit fly" target="Location:california" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115318"]</data>
+</edge>
+<edge source="Pest:oriental fruit fly" target="Location:orange county" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115318"]</data>
+</edge>
+<edge source="Pest:oriental fruit fly" target="Location:u.s. department" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115318"]</data>
+</edge>
+<edge source="Pest:tobrfv virus" target="Plant:tomato" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100108"]</data>
+</edge>
+<edge source="Pest:tobrfv virus" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100108"]</data>
+</edge>
+<edge source="Pest:tobrfv virus" target="Location:finnish" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100108"]</data>
+</edge>
+<edge source="Plant:tomato" target="Location:finnish" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100108"]</data>
+</edge>
+<edge source="Plant:tomato" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100108"]</data>
+</edge>
+<edge source="Plant:tomato" target="Date:for the first time" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106417"]</data>
+</edge>
+<edge source="Plant:tomato" target="Location:european union" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100478"]</data>
+</edge>
+<edge source="Vector:philaenus spumarius" target="Pest:xylella" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["100424"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:tomato crops" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568", "117194"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:jordan valley" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:amaranthus retroflexus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:s. nigrum" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:d. stramonium" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:d. metel" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:nicotiana tabacum" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:beta vulgaris subsp. maritima" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:jordan" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115568", "99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:veronica syriaca" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:malva parviflora" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:taraxacum officinale" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:conyza canadensis" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:oxalis corniculata" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:c. murale" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:portulaca oleracea" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2015" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["115568", "99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:tomato-growing" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:corchorus olitorius" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Dissemination_pathway:seeds" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106417", "115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Dissemination_pathway:seeds" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["106417", "115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:solanum elaeagnifolium" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:chenopodium mural" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:since then" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["115568", "117194"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:netherlands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117194"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117194", "99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:tomato" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:for the first time" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106417", "99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:years ago" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:for the first time only a few years ago" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106417"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:dutch" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:tomato farms" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Disease:brown wrinkling of tomatoes" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:germany" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:sicily" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:hungary" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:from mid-2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:on june 1, 2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2014" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:at the beginning of 2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:as of november 1, 2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:in 2018" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Plant:tomato-damaging" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobrfv" target="Date:by june 1" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Location:jordan valley" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Date:in 2015" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Location:jordan" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115568"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Date:in 2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117194"]</data>
+</edge>
+<edge source="Plant:tomato crops" target="Date:since then" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117194"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Plant:cotton" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104422"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Plant:beans" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104422"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Plant:soy" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104422"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Plant:tomato crops" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104422"]</data>
+</edge>
+<edge source="Pest:whitefly" target="Date:since 2018" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["104422"]</data>
+</edge>
+<edge source="Pest:spodoptera frugiperda" target="Plant:cotton" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104422", "104453"]</data>
+</edge>
+<edge source="Pest:spodoptera frugiperda" target="Location:south america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115119"]</data>
+</edge>
+<edge source="Pest:spodoptera frugiperda" target="Location:north" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115119"]</data>
+</edge>
+<edge source="Pest:spodoptera frugiperda" target="Location:uganda" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115119"]</data>
+</edge>
+<edge source="Pest:thrips" target="Plant:cotton" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104422", "104453"]</data>
+</edge>
+<edge source="Pest:thrips" target="Plant:beans" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104453"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Location:canton of ticino" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Location:switzerland" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Location:france" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Date:in 2004" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Plant:vine" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Plant:vine" target="Location:canton of ticino" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Plant:vine" target="Location:switzerland" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Plant:vine" target="Date:in 2004" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Plant:vine" target="Location:france" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Pest:flavescence dorée" target="Disease:flavescence dorée" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Pest:flavescence dorée" target="Plant:vine" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Pest:phytoplasmas" target="Disease:flavescence dorée" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["105066"]</data>
+</edge>
+<edge source="Pest:phytoplasmas" target="Plant:grapevine" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Disease:hlb" target="Plant:citrus fruits" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:united states" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:northern zone of veracruz" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:north of veracruz" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:valencia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:florida" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127", "98134"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:brazil" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882", "118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:portugal" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:huelva" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Plant:citrus" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["105882", "118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:latin america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:venezuela" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:uruguay" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:argentina" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:paraguay" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Dissemination_pathway:plant material" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:mexico" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Plant:citrus trees" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Plant:citrus fruits" target="Location:united states" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Plant:citrus fruits" target="Location:north of veracruz" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Plant:citrus fruits" target="Location:valencia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Plant:citrus planting" target="Location:veracruz" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Plant:citrus planting" target="Location:northern" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116219"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Location:asia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116554"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Location:reunion" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116554"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Date:in 2018" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116554"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Date:between 2017 and 2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116554"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Location:territory of palma campania" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104868"]</data>
+</edge>
+<edge source="Pest:bactrocera dorsalis" target="Location:campania region" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["104868"]</data>
+</edge>
+<edge source="Disease:greening virus" target="Date:this tuesday" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116554"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:freiburg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100454", "100458"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:asia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100454", "100458", "103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:baden-württemberg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100458", "103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:northern italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100458"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Dissemination_pathway:tourist traffic" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100458"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Dissemination_pathway:freight" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100454", "100458", "103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Dissemination_pathway:freight" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["100454", "103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100458", "103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:freiburg area" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:weil am rhein" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:last autumn" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:in july" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Plant:vineyards" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:for the first time" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["103643"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:southern europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:northern europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Location:alsace" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Plant:oaks" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Plant:tomatoes" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:in the fall of 2021" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["100454"]</data>
+</edge>
+<edge source="Pest:japanese beetle" target="Date:last year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["100454"]</data>
+</edge>
+<edge source="Dissemination_pathway:tourist traffic" target="Location:northern italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100458"]</data>
+</edge>
+<edge source="Dissemination_pathway:tourist traffic" target="Location:freiburg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100458"]</data>
+</edge>
+<edge source="Dissemination_pathway:freight" target="Location:northern italy" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100458"]</data>
+</edge>
+<edge source="Dissemination_pathway:freight" target="Location:freiburg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100458"]</data>
+</edge>
+<edge source="Dissemination_pathway:freight" target="Location:freiburg area" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103643"]</data>
+</edge>
+<edge source="Disease:fusarium wilt of banana" target="Plant:banana" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Disease:fusarium wilt of banana" target="Location:middle east" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Disease:fusarium wilt of banana" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Pest:“tropical” race 4 strain" target="Disease:fusarium wilt of banana" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Pest:foc4" target="Disease:fusarium wilt of banana" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["115121"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:sp" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:mg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:in previous years" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:regions of brotas" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:this year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Plant:citrus" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:in 2021" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Plant:orange" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:regions of triângulo mineiro" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:triângulo mineiro" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:porto ferreira" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:annual" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:in 2020" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter spp." target="Disease:greening" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:orange" target="Location:sp" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:orange" target="Location:mg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Plant:orange" target="Location:triângulo mineiro" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105854"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Plant:tomato crops" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117194"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Date:in 2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117194"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Location:netherlands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117194"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Date:since then" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117194"]</data>
+</edge>
+<edge source="Pest:tobamovirus" target="Plant:tomato" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106417"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Location:colombia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Disease:fusarium wilt" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Plant:banana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Location:peru" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Plant:cavendish clones" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Location:south america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Location:la guajira" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Pest:foc tr4" target="Date:in 2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106215"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:florida" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:mediterranean" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Pest:candidatus liberibacter asiaticus" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:brazil" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882", "118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:in january 2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:in january" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:spanish" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:hefer valley" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:coastal city north of tel aviv" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Dissemination_pathway:importation of fruits" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Plant:citrange reed" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Disease:hlb" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["105882", "118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Plant:citrus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["105882", "118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:portugal" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:six months" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:algarve coastline" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:since then" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Date:in july" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Dissemination_pathway:plant material" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:paraguay" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:argentina" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:uruguay" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:bolivia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:portugal" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:galicia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:huelva" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Plant:citrus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:porto" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:asturias" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:cantabria" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:basque country" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Dissemination_pathway:plant material" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:one year later" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:in 2015" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:in 2014" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:ayamonte" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Dissemination_pathway:importation of fruits" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Dissemination_pathway:plants" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:in january" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Dissemination_pathway:twigs" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:spanish" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:coastal city north of tel aviv" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:canary islands" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Date:in october 2021" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Location:algarve" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Vector:trioza erytreae" target="Pest:candidatus liberibacter asiaticus" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Plant:citrus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Location:florida" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Disease:hlb" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Location:brazil" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Plant:citrus trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Disease:citrus greening" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Plant:citrus pla" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter asiaticus" target="Location:asian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:african strain of hlb" target="Disease:hlb" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:mandarin trees" target="Location:spanish" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Plant:citrange reed" target="Location:spanish" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["118127"]</data>
+</edge>
+<edge source="Disease:citrus greening" target="Plant:citrus trees" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Disease:citrus greening" target="Plant:potatoes" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Disease:citrus greening" target="Location:asian" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Disease:citrus greening" target="Plant:citrus" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["102441"]</data>
+</edge>
+<edge source="Pest:liberibacter" target="Disease:citrus greening" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:liberibacter" target="Plant:potatoes" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:liberibacter" target="Location:california" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:l. capsica" target="Disease:citrus greening" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:l. capsica" target="Plant:pepper plant" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102433"]</data>
+</edge>
+<edge source="Pest:alb" target="Location:magdeburg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105490"]</data>
+</edge>
+<edge source="Pest:alb" target="Location:north-eastern area" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["105490"]</data>
+</edge>
+<edge source="Pest:alb" target="Date:on august 22, 2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["105490"]</data>
+</edge>
+<edge source="Disease:golden flavescence" target="Plant:vineyards" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["103391"]</data>
+</edge>
+<edge source="Disease:golden flavescence" target="Location:treviso" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103391"]</data>
+</edge>
+<edge source="Disease:golden flavescence" target="Date:so far" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["103391"]</data>
+</edge>
+<edge source="Disease:golden flavescence" target="Location:veneto" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103391"]</data>
+</edge>
+<edge source="Plant:vineyards" target="Location:veneto" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103391"]</data>
+</edge>
+<edge source="Plant:vineyards" target="Location:treviso" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103391"]</data>
+</edge>
+<edge source="Plant:vineyards" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["103643"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Location:slovakia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Date:14-09-2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Plant:wheat" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Location:eu" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Pest:tomato leaf curl new delhi virus" target="Date:08-2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Plant:wheat" target="Location:slovakia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Plant:wheat" target="Date:08-2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Pest:grapevine flavescence dorãe phytoplasma" target="Disease:golden yellowing" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Pest:grapevine flavescence dorãe phytoplasma" target="Plant:grapevine" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Disease:golden yellowing" target="Plant:grapevine" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["106012"]</data>
+</edge>
+<edge source="Plant:grapevine" target="Location:european" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Pest:whiteflies" target="Plant:cotton" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104453"]</data>
+</edge>
+<edge source="Pest:whiteflies" target="Plant:beans" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104453"]</data>
+</edge>
+<edge source="Pest:whiteflies" target="Plant:soybeans" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104453"]</data>
+</edge>
+<edge source="Pest:whiteflies" target="Plant:tomato crops" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104453"]</data>
+</edge>
+<edge source="Dissemination_pathway:lots of plants" target="Location:port of bari" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["102276", "102894", "115859"]</data>
+</edge>
+<edge source="Pest:bursaphelenchus xylophilus" target="Disease:pine wilt disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["100296", "98065"]</data>
+</edge>
+<edge source="Pest:bursaphelenchus xylophilus" target="Plant:pinus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["98065"]</data>
+</edge>
+<edge source="Pest:bursaphelenchus xylophilus" target="Plant:pine trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:bursaphelenchus xylophilus" target="Location:china" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:bursaphelenchus xylophilus" target="Plant:pinus massoniana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:bursaphelenchus xylophilus" target="Plant:japanese black pine" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100296"]</data>
+</edge>
+<edge source="Pest:bursaphelenchus xylophilus" target="Plant:pinus thunbergii" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100296"]</data>
+</edge>
+<edge source="Disease:pine wilt disease" target="Plant:pine trees" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["106250"]</data>
+</edge>
+<edge source="Disease:pine wilt disease" target="Plant:pinaceae species" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["106250"]</data>
+</edge>
+<edge source="Pest:fall armyworm" target="Plant:corn" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["104562"]</data>
+</edge>
+<edge source="Pest:fall armyworm" target="Plant:sorghum" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100471", "104562"]</data>
+</edge>
+<edge source="Pest:fall armyworm" target="Plant:maize" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100333", "100471"]</data>
+</edge>
+<edge source="Pest:fall armyworm" target="Location:africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Pest:fall armyworm" target="Plant:cotton" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100471"]</data>
+</edge>
+<edge source="Pest:fall armyworm" target="Location:bangladesh" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100471"]</data>
+</edge>
+<edge source="Pest:fall armyworm" target="Plant:maize cultivation" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100471"]</data>
+</edge>
+<edge source="Pest:tomato brown rugose fruit virus" target="Plant:tomato" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100478"]</data>
+</edge>
+<edge source="Pest:tomato brown rugose fruit virus" target="Plant:pepper" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100478"]</data>
+</edge>
+<edge source="Pest:tomato brown rugose fruit virus" target="Location:european union" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100478"]</data>
+</edge>
+<edge source="Plant:pepper" target="Location:european union" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100478"]</data>
+</edge>
+<edge source="Pest:clas" target="Plant:citrus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["102441"]</data>
+</edge>
+<edge source="Pest:clas" target="Disease:citrus greening" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["102441"]</data>
+</edge>
+<edge source="Disease:huanglongbing disease" target="Plant:citrus" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["116192", "116242"]</data>
+</edge>
+<edge source="Disease:huanglongbing disease" target="Plant:banana" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["116242"]</data>
+</edge>
+<edge source="Disease:huanglongbing disease" target="Plant:banana wilt" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["116242"]</data>
+</edge>
+<edge source="Disease:huanglongbing disease" target="Location:california" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116192"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:nigeria" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:egypt" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:kenya" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:spain" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Date:in 2014" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:europe" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:uganda" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:portugal" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:tanzania" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:czech republic" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Date:from october 8, 2021 to october 5, 2024" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:romania" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:mozambique" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Plant:maize" target="Location:bangladesh" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["100471"]</data>
+</edge>
+<edge source="Pest:stem borer" target="Plant:maize" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["100333"]</data>
+</edge>
+<edge source="Vector:hyalesthes obsoletus" target="Pest:candidatus phytoplasma solani" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Vector:hyalesthes obsoletus" target="Plant:grapevine" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Pest:candidatus phytoplasma solani" target="Disease:bois noir" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Pest:candidatus phytoplasma solani" target="Plant:grapevine" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Disease:bois noir" target="Plant:grapevine" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Vector:reptalus panzeri" target="Pest:candidatus phytoplasma solani" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Vector:reptalus panzeri" target="Disease:bois noir" id="Transmits">
+  <data key="d5">Transmits</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Vector:reptalus panzeri" target="Plant:grapevine" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Pest:flavescence dorée phytoplasma" target="Plant:grapevine" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Pest:flavescence dorée phytoplasma" target="Location:european" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99433"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter spp ." target="Disease:hlb" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter spp ." target="Plant:citrus" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["105882"]</data>
+</edge>
+<edge source="Plant:prunus armeniaca" target="Location:canada" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["114258"]</data>
+</edge>
+<edge source="Plant:prunus armeniaca" target="Location:ontario" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["114258"]</data>
+</edge>
+<edge source="Plant:prunus armeniaca" target="Location:province of ontario" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["114258"]</data>
+</edge>
+<edge source="Plant:prunus armeniaca" target="Location:niagara region" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["114258"]</data>
+</edge>
+<edge source="Pest:tropical race 4" target="Disease:panama disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Pest:tropical race 4" target="Plant:cavendish bananas" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Pest:tropical race 4" target="Plant:bananas" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Plant:cavendish bananas" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Plant:bananas" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["117415", "118038"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Date:in the 1950s" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Plant:cavendish banana" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Plant:banana" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Location:colombia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Location:philippines" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Disease:panama disease" target="Plant:gros michel" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum cubense race 1" target="Disease:panama disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum cubense race 1" target="Date:in the 1950s" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum cubense race 1" target="Plant:bananas" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Pest:fusarium oxysporum cubense race 1" target="Plant:cavendish bananas" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["118038"]</data>
+</edge>
+<edge source="Plant:bananas" target="Date:in the 1950s" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Plant:bananas" target="Location:latin america" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Plant:bananas" target="Location:mexico" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Plant:bananas" target="Location:tabasco" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Disease:disease of citrus black spot" target="Date:in september" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Disease:disease of citrus black spot" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Disease:disease of citrus black spot" target="Date:so far this year" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Disease:disease of citrus black spot" target="Dissemination_pathway:shipments" id="Dispersed_by">
+  <data key="d5">Dispersed_by</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:citrus fruits" target="Location:european union" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:oranges" target="Date:in september" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Dissemination_pathway:oranges" target="Location:south africa" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116509"]</data>
+</edge>
+<edge source="Disease:hlb-infected" target="Location:mg" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-infected" target="Location:hamlin" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-infected" target="Plant:citrus trees" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-infected" target="Plant:oranges" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Disease:huanglonbing" target="Plant:citrus trees" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Disease:hlb-free" target="Plant:citrus trees" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Disease:huanglongbing-infected" target="Plant:citrus trees" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["98134"]</data>
+</edge>
+<edge source="Pest:bactericera cockerelli" target="Plant:tomato plants" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["105440"]</data>
+</edge>
+<edge source="Pest:bactericera cockerelli" target="Plant:tomato varieties" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["105440"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter solanacearum" target="Plant:tomato plants" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["105440"]</data>
+</edge>
+<edge source="Pest:r4t" target="Plant:cavendish banana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:r4t" target="Disease:panama disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:r4t" target="Plant:cavendish cultivar" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:r4t" target="Location:colombia" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Pest:r4t" target="Plant:cavendish variety" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["116622"]</data>
+</edge>
+<edge source="Plant:pinus massoniana" target="Location:china" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:pine nidus during early nematode" target="Plant:pinus massoniana" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:pine nidus during early nematode" target="Plant:pine trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:pine nidus during early nematode" target="Location:china" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:pine nematodes" target="Plant:pine trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:proteobacteria phylum" target="Plant:pine trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117546"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Disease:panama disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Plant:bananas" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Plant:gros michel" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Location:taiwan" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Plant:cultivar cavendish" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Plant:wheat" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Disease:fusarium wilt cannot" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Date:in 1967" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Date:in the 1950s" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:foctr4" target="Disease:fusarium wilt of bananas" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:focr1" target="Plant:gros michel" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:focr1" target="Plant:bananas" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Pest:focr1" target="Plant:wheat" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["117415"]</data>
+</edge>
+<edge source="Disease:brown wrinkling of tomatoes" target="Location:dutch" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Disease:brown wrinkling of tomatoes" target="Plant:tomato farms" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Disease:brown wrinkling of tomatoes" target="Date:on june 1, 2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Plant:tomato farms" target="Location:dutch" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Plant:tomato farms" target="Date:on june 1, 2022" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Plant:tomato farms" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Location:dutch" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Date:from mid-2019" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Disease:brown wrinkling of tomatoes" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Location:israel" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Pest:tobamoviruses" target="Date:in 2014" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["99581"]</data>
+</edge>
+<edge source="Disease:huanglongbing" target="Plant:citrus plants" id="Affects">
+  <data key="d5">Affects</data>
+  <data key="d6">["116208"]</data>
+</edge>
+<edge source="Disease:huanglongbing" target="Date:so far" id="Occurs_on">
+  <data key="d5">Occurs_on</data>
+  <data key="d6">["116208"]</data>
+</edge>
+<edge source="Plant:citrus plants" target="Location:entre ríos" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["116208"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter spp)" target="Disease:huanglongbing" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["116208"]</data>
+</edge>
+<edge source="Disease:fusariosis" target="Location:mexico" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Pest:ralstonia solanacearum race 2" target="Location:mexico" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Pest:ralstonia solanacearum race 2" target="Plant:bananas" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Pest:ralstonia solanacearum race 2" target="Location:tabasco" id="Located_in">
+  <data key="d5">Located_in</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Pest:r. solanacearum" target="Plant:bananas" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["99632"]</data>
+</edge>
+<edge source="Pest:pinewood nematodes" target="Disease:pine wilt disease" id="Causes">
+  <data key="d5">Causes</data>
+  <data key="d6">["106250"]</data>
+</edge>
+<edge source="Pest:pinewood nematodes" target="Plant:pine trees" id="Found_on">
+  <data key="d5">Found_on</data>
+  <data key="d6">["106250"]</data>
+</edge>
+</graph></graphml>

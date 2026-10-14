@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">105066</data>
+<node id="Disease:flavescence dorée">
+  <data key="d1">Disease</data>
+  <data key="d2">flavescence dorée</data>
+</node>
+<node id="Location:canton of ticino">
+  <data key="d1">Location</data>
+  <data key="d2">canton of Ticino</data>
+</node>
+<node id="Location:switzerland">
+  <data key="d1">Location</data>
+  <data key="d2">Switzerland</data>
+</node>
+<node id="Location:france">
+  <data key="d1">Location</data>
+  <data key="d2">France</data>
+</node>
+<node id="Date:in 2004">
+  <data key="d1">Date</data>
+  <data key="d2">in 2004</data>
+</node>
+<node id="Plant:vine">
+  <data key="d1">Plant</data>
+  <data key="d2">vine</data>
+</node>
+<node id="Pest:flavescence dorée">
+  <data key="d1">Pest</data>
+  <data key="d2">flavescence dorée</data>
+</node>
+<node id="Pest:phytoplasmas">
+  <data key="d1">Pest</data>
+  <data key="d2">phytoplasmas</data>
+</node>
+<edge source="Disease:flavescence dorée" target="Location:canton of ticino" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Location:switzerland" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Location:france" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Date:in 2004" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Disease:flavescence dorée" target="Plant:vine" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Plant:vine" target="Location:canton of ticino" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Plant:vine" target="Location:switzerland" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Plant:vine" target="Date:in 2004" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Plant:vine" target="Location:france" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Pest:flavescence dorée" target="Disease:flavescence dorée" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Pest:flavescence dorée" target="Plant:vine" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["105066"]</data>
+</edge>
+<edge source="Pest:phytoplasmas" target="Disease:flavescence dorée" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["105066"]</data>
+</edge>
+</graph></graphml>

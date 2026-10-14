@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">105854</data>
+<node id="Disease:greening">
+  <data key="d1">Disease</data>
+  <data key="d2">greening</data>
+</node>
+<node id="Location:sp">
+  <data key="d1">Location</data>
+  <data key="d2">SP</data>
+</node>
+<node id="Pest:candidatus liberibacter spp.">
+  <data key="d1">Pest</data>
+  <data key="d2">Candidatus Liberibacter spp.</data>
+</node>
+<node id="Location:mg">
+  <data key="d1">Location</data>
+  <data key="d2">MG</data>
+</node>
+<node id="Plant:orange">
+  <data key="d1">Plant</data>
+  <data key="d2">Orange</data>
+</node>
+<node id="Date:in previous years">
+  <data key="d1">Date</data>
+  <data key="d2">in previous years</data>
+</node>
+<node id="Location:regions of brotas">
+  <data key="d1">Location</data>
+  <data key="d2">regions of Brotas</data>
+</node>
+<node id="Date:this year">
+  <data key="d1">Date</data>
+  <data key="d2">this year</data>
+</node>
+<node id="Plant:citrus">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus</data>
+</node>
+<node id="Date:in 2021">
+  <data key="d1">Date</data>
+  <data key="d2">in 2021</data>
+</node>
+<node id="Location:regions of triângulo mineiro">
+  <data key="d1">Location</data>
+  <data key="d2">regions of Triângulo Mineiro</data>
+</node>
+<node id="Location:triângulo mineiro">
+  <data key="d1">Location</data>
+  <data key="d2">Triângulo Mineiro</data>
+</node>
+<node id="Location:porto ferreira">
+  <data key="d1">Location</data>
+  <data key="d2">Porto Ferreira</data>
+</node>
+<node id="Date:annual">
+  <data key="d1">Date</data>
+  <data key="d2">Annual</data>
+</node>
+<node id="Date:in 2020">
+  <data key="d1">Date</data>
+  <data key="d2">in 2020</data>
+</node>
+<node id="Location:limeira">
+  <data key="d1">Location</data>
+  <data key="d2">Limeira</data>
+</node>
+<edge source="Disease:greening" target="Location:sp" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:mg" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:in previous years" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:regions of brotas" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:this year" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Plant:citrus" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:in 2021" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Plant:orange" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:regions of triângulo mineiro" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:triângulo mineiro" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Location:porto ferreira" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:annual" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Disease:greening" target="Date:in 2020" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter spp." target="Disease:greening" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:orange" target="Location:sp" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:orange" target="Location:mg" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:orange" target="Location:triângulo mineiro" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:sp" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Date:this year" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Date:in 2021" id="Occurs_on">
+  <data key="d3">Occurs_on</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:regions of brotas" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:triângulo mineiro" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:limeira" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105854"]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="sources" attr.type="string"/>
+<key id="d3" for="edge" attr.name="predicate" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="doc_id" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">105882</data>
+<node id="Disease:hlb">
+  <data key="d1">Disease</data>
+  <data key="d2">HLB</data>
+</node>
+<node id="Location:latin america">
+  <data key="d1">Location</data>
+  <data key="d2">Latin America</data>
+</node>
+<node id="Vector:diaphorina citri">
+  <data key="d1">Vector</data>
+  <data key="d2">Diaphorina citri</data>
+</node>
+<node id="Plant:citrus">
+  <data key="d1">Plant</data>
+  <data key="d2">citrus</data>
+</node>
+<node id="Location:argentina">
+  <data key="d1">Location</data>
+  <data key="d2">Argentina</data>
+</node>
+<node id="Location:brazil">
+  <data key="d1">Location</data>
+  <data key="d2">Brazil</data>
+</node>
+<node id="Location:uruguay">
+  <data key="d1">Location</data>
+  <data key="d2">Uruguay</data>
+</node>
+<node id="Location:paraguay">
+  <data key="d1">Location</data>
+  <data key="d2">Paraguay</data>
+</node>
+<node id="Location:venezuela">
+  <data key="d1">Location</data>
+  <data key="d2">Venezuela</data>
+</node>
+<node id="Dissemination_pathway:plant material">
+  <data key="d1">Dissemination_pathway</data>
+  <data key="d2">plant material</data>
+</node>
+<node id="Pest:candidatus liberibacter spp .">
+  <data key="d1">Pest</data>
+  <data key="d2">Candidatus Liberibacter spp .</data>
+</node>
+<node id="Location:mexico">
+  <data key="d1">Location</data>
+  <data key="d2">Mexico</data>
+</node>
+<node id="Location:bolivia">
+  <data key="d1">Location</data>
+  <data key="d2">Bolivia</data>
+</node>
+<edge source="Disease:hlb" target="Location:latin america" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:brazil" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Plant:citrus" id="Affects">
+  <data key="d3">Affects</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:venezuela" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:uruguay" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:argentina" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:paraguay" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Dissemination_pathway:plant material" id="Dispersed_by">
+  <data key="d3">Dispersed_by</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Disease:hlb" target="Location:mexico" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Plant:citrus" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Disease:hlb" id="Transmits">
+  <data key="d3">Transmits</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Dissemination_pathway:plant material" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:paraguay" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:argentina" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:brazil" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:uruguay" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Vector:diaphorina citri" target="Location:bolivia" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:latin america" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:argentina" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:uruguay" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:paraguay" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Plant:citrus" target="Location:venezuela" id="Located_in">
+  <data key="d3">Located_in</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter spp ." target="Disease:hlb" id="Causes">
+  <data key="d3">Causes</data>
+  <data key="d4">["105882"]</data>
+</edge>
+<edge source="Pest:candidatus liberibacter spp ." target="Plant:citrus" id="Found_on">
+  <data key="d3">Found_on</data>
+  <data key="d4">["105882"]</data>
+</edge>
+</graph></graphml>
